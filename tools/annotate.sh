@@ -6,16 +6,23 @@ nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 
 input_file=${1:?'Must specify text file'}
+classifier=${2:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
+entity_xml_tag=${3:-"PART"}
+output_format=${4:-"inlineXML"} # slashTags | xml | inlineXML | tsv | tabbedEntities
 
 output_directory="${scriptdir}/../ner"
 input_file_basename=$(basename "${input_file}" | cut -d. -f1)
-output_file=${2:-"${output_directory}/${input_file_basename}.ner"}
+output_file=${5:-"${output_directory}/${input_file_basename}.ner"}
 
-classifier=${3:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
-output_format=${4:-"inlineXML"} # slashTags | xml | inlineXML | tsv | tabbedEntities
 java_max_memory=${5:-2g}
 
 
 echo "\n >>> Annotating ${input_file} using edu.stanford.nlp.ie.crf.CRFClassifier\n"
 
 java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ${classifier} -outputFormat ${output_format} -textFile ${input_file} > ${output_file}
+
+if [ "${output_format}" = "inlineXML" ]; then
+	cat ${output_file} | tr -d "\n\r" | grep -Po "<${entity_xml_tag}>\K[^<]*(?=</${entity_xml_tag}>)" > ${output_file}.entities
+	cat ${output_file}.entities | awk '!seen[$0]++' > ${output_file}.entities.unique
+	cat ${output_file}.entities.unique | sort > ${output_file}.entities.unique.sorted
+fi
