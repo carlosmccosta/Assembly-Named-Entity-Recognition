@@ -6,13 +6,15 @@ nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 
 input_file=${1:?'Must specify text file'}
-classifiers=${2:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
-output_format=${3:-"inlineXML"} # slashTags | xml | inlineXML | tsv | tabbedEntities
-java_max_memory=${4:-2g}
 
 output_directory="${scriptdir}/../ner"
 input_file_basename=$(basename "${input_file}" | cut -d. -f1)
-output_file="${output_directory}/${input_file_basename}.ner"
+output_file=${2:-"${output_directory}/${input_file_basename}.ner"}
+
+classifiers=${3:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
+output_format=${4:-"inlineXML"} # slashTags | xml | inlineXML | tsv | tabbedEntities
+java_max_memory=${5:-2g}
+
 
 echo "\n >>> Annotating ${input_file} using edu.stanford.nlp.ie.crf.CRFClassifier\n"
 
