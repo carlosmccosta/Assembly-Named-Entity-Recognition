@@ -62,3 +62,5 @@ wordShape=chris2useLC
 #QNsize = 25
 
 #featureDiffThresh=0.05
+
+#printFeatures = true

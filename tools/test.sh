@@ -7,11 +7,12 @@ javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 
 input_file=${1:?'Must specify text file'}
 
+classifier=${2:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
+
 output_directory="${scriptdir}/../ner"
 input_file_basename=$(basename "${input_file}" | cut -d. -f1)
-output_file=${2:-"${output_directory}/${input_file_basename}"}
+output_file=${3:-"${output_directory}/${input_file_basename}"}
 
-classifier=${3:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
 java_max_memory=${4:-2g}
 
 
