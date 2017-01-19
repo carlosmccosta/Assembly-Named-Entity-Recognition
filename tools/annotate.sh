@@ -11,11 +11,11 @@ output_directory="${scriptdir}/../ner"
 input_file_basename=$(basename "${input_file}" | cut -d. -f1)
 output_file=${2:-"${output_directory}/${input_file_basename}.ner"}
 
-classifiers=${3:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
+classifier=${3:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
 output_format=${4:-"inlineXML"} # slashTags | xml | inlineXML | tsv | tabbedEntities
 java_max_memory=${5:-2g}
 
 
 echo "\n >>> Annotating ${input_file} using edu.stanford.nlp.ie.crf.CRFClassifier\n"
 
-java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ${classifiers} -outputFormat ${output_format} -textFile ${input_file} > ${output_file}
+java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ${classifier} -outputFormat ${output_format} -textFile ${input_file} > ${output_file}
