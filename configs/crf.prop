@@ -1,0 +1,64 @@
+#trainFile = training-data.tsv
+#testFile = testing-data.tsv
+#serializeTo = ner-model.ser.gz
+map = word=0,answer=1
+
+#wordFunction = edu.stanford.nlp.process.LowercaseAndAmericanizeFunction
+#useKnownLCWords = false
+
+#useDistSim = true
+#distSimLexicon = egw4-reut.512.clusters
+#numberEquivalenceDistSim = true
+#unknownWordDistSimClass = 0
+
+# This specifies the order of the CRF: order 1 means that features
+# apply at most to a class pair of previous class and current class
+# or current class and next class.
+maxLeft=1
+
+
+# features
+
+saveFeatureIndexToDisk = true
+
+#useTitle = true
+useClassFeature=true
+useWord=true
+#useWordPairs=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+#useLongSequences=true
+useSequences=true
+usePrevSequences=true
+#useOccurrencePatterns=true
+#useLastRealWord=true
+#useNextRealWord=true
+#useReverse=false
+#normalize=true
+#normalizeTimex=true
+useDisjunctive=true
+#disjunctionWidth=4
+#useDisjunctiveShapeInteraction=true
+
+
+# word shape features
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+
+
+#type=crf
+
+#readerAndWriter=edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter
+
+#useObservedSequencesOnly=true
+
+#sigma = 20
+#useQN = true
+#QNsize = 25
+
+#featureDiffThresh=0.05
