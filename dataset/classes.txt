@@ -1,0 +1,8 @@
+PART	Part name
+ID		Part ID
+QTY		Part quantoty
+DIM		Part dimensions
+WGT		Part weigth
+OPER	Operation
+RPOS	Relative position between parts
+TOOL	Tools for performing a given operation
