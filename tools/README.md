@@ -6,7 +6,7 @@ For creating a new dataset, use [tokenize.sh](tokenize.sh) to create a tsv file 
 
 After having a dataset, use [train.sh](train.sh) to generate the CRF model and [test.sh](test.sh) to evaluate the precision, recall and F1 measures (allows to fine tune the features and processing pipeline).
 
-Finally, new text can be annotated with inline xml tags using [annotate.sh](annotate.sh) and its entities will also be extracted to separate files containing the unique and sorted entities.
+Finally, new text can be annotated with inline xml tags using [annotate.sh](annotate.sh) and its entities can be extracted to separate files containing the unique and sorted entities using [extract-entities.sh](extract-entities.sh).
 
 For a Java GUI, you can run the ner-gui.sh script that comes with the stanford ner zip, then:
 

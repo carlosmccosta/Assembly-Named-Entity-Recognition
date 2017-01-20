@@ -6,7 +6,7 @@ corelibdir="${scriptdir}/../lib/corenlp"
 nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath=$(echo ${corelibdir}/* | tr " " ":")
 
-properties_file=${1:?'Must specify properties file'}
+properties_file=${1:-"${scriptdir}/../configs/server.prop"}
 java_max_memory=${2:-2g}
 server_port=${3:-1337}
 

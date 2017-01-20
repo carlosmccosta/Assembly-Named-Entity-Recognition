@@ -20,9 +20,3 @@ java_max_memory=${5:-2g}
 echo "\n >>> Annotating ${input_file} using edu.stanford.nlp.ie.crf.CRFClassifier\n"
 
 java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ${classifier} -outputFormat ${output_format} -textFile ${input_file} > ${output_file}
-
-if [ "${output_format}" = "inlineXML" ]; then
-	cat ${output_file} | tr -d "\n\r" | grep -Po "<${entity_xml_tag}>\K[^<]*(?=</${entity_xml_tag}>)" > ${output_file}.entities
-	cat ${output_file}.entities | awk '!seen[$0]++' > ${output_file}.entities.unique
-	cat ${output_file}.entities.unique | sort > ${output_file}.entities.unique.sorted
-fi
