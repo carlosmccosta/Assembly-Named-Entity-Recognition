@@ -1,0 +1,1780 @@
+﻿GEARBOX P/N 001544
+Item  Part No.      Qty    Description
+0     001544        --     Gearbox Asy, (540 RPM)
+1     4829          1      Casing
+2     4832          1      Key
+3     001726        3      Bearing
+4     4834          1      Oil Seal
+5     4835          1      Input Shaft
+6     4836          1      Crown Gear (30 teeth)
+7     4837          1      Spacer
+8     001721        1      Internal Clip
+9     4839          1      External Clip
+10    4847          1      Shoulder Ring
+11    4848          1      Seal, Dust Shield
+12    001715        2      Shim
+13    4850          1      Output Shaft (12 teeth)
+14    001713        2      Plug
+15    4852          1      Bearing
+16    4853          1      Cover
+17    4855          1      Shoulder Ring
+18    4857          1      O-Ring
+
+
+
+
+GEARBOX P/N 00749003
+Item     Part No.    Qty.   Description
+0        00749003    --     Gearbox Asy (540 RPM)
+1        00749477    1      Main Housing
+2        00749478    1      Cover
+3        00749479    -      Locking Compound
+4        00749480    1      Cap
+5        00749481    2      Housing Divider
+6        00749482    1      Shaft, Blade
+7        00749483    2      Shaft, Side Output
+8        00749484    1      Shaft, Input
+9        00749485    1      Retaining Ring
+10       00749486    1      Retaining Ring
+11       00749487    3      Gear, 17 Tooth
+12       00749488    1      Bearing Cup
+13       00749489    1      Seal
+14       00757533    1      Bearing Cup
+15       00749491    1      Bearing Cone
+16       00749492    1      Bearing Cup
+17       00749493    1      Bearing Cone
+18       00749494    1      Bearing Cone
+19       00749495    3      Cotter Pin
+20       00749496    2      Bearing Cup
+21       00749497    2      Bearing Cone
+22       00749498    2      Bearing Cup
+23       00749499    2      Bearing Cone
+24       00749500    1      Retaining Ring
+25       00749501    2      Seal
+26       00749502    1      Plug
+27       00749503    4      Bolt, Hex Head
+28       00749504    4      Lockwasher
+29       00749505    14     Bolt, Hex Head
+30       00022200    14     Lockwasher
+31       00749507    1      Plug, Vent
+32       00749508    1      Plug
+33       00749509    1      Seal
+34       00749510    1      Bearing Cup
+35       00749511    1      Bearing Cone
+36       00749512    3      Nut, Slotted
+37       00749513    3      Shim, Fiber .005"
+37       00749514    3      Shim, Alum .007"
+37       00749515    1      Shim, Alum .020"
+38       00749516    1      Shim, Alum .005"
+38       00749517    2      Shim, Alum .007"
+38       00749518    1      Shim, Alum .020"
+39       00749519    2      Shim, .005"
+39.      00749520    2      Shim, .007"
+40       00748539    4      Nut
+41       00748538    4      Bolt
+42       00003901    4      Lockwasher
+43       00749524    1      Gear, 25 Tooth
+44       00749525    1      Gear, 17 Tooth
+45       00749526    3      Washer
+
+
+
+
+GEARBOX P/N 00752140 & 00752140A 00752141 & 00752141A
+Item    Part No.     Qty    Description
+0       00752140A    --     Gearbox Asy (540 RPM) Input Gear in Front (Shown)
+0       00752141A    --     Gearbox Asy (540 RPM) Input Gear in Back
+1       00752362     1      Main Housing
+2       00752363     1      Input Shaft
+3       00748525     2      Bearing Cup
+4       00748527     2      Bearing Cone
+5       00755505     1      Gear, Input 19 Tooth (540 RPM)
+6       00748533     1      Spacer
+7       00748526            Snap Ring
+8       00752365     1      Side Housing
+9       00748536     1      Seal
+10      00564900     1      Plug
+11      00752307     1      Plug
+12      00752407     1      Plug (Not Shown)
+13      00012101     8      Lockwasher (Not Shown)
+14      00563300     8      Bolt (Not Shown)
+15      00748531     a/r    Shim
+16      00755507     1      Output Shaft
+17      00748537     1      Bearing Cup
+18      00020600     1      Bearing Cup
+19      00748522     2      Bearing Cone
+20      00755506     1      Gear, Output 13 Tooth (540 RPM)
+21      00752155     1      Bearing Retainer Cap
+22      00748519     1      Seal
+23      00748520     a/r    Shim
+24      00001300     4      Lockwasher
+25      02044000     4      Bolt
+26      02880900     4      Bolt
+27      00037200     4      Nut
+28      00003901     4      Lockwasher
+29      00748547     1      Flat Washer (Blade Hub Retaining)
+30      00606100     1      Nut (Blade Hub Retaining)
+31      00606000     1      Cotter Pin (Blade Hub Retaining)
+
+
+
+
+GEARBOX P/N 00753190
+ITEM     PART NO.       QTY    DESCRIPTION
+0        00753190       --     Gearbox Asy (540 only)
+1        00753221       2      Shaft (1-3/8" 6 Spline)
+2        00753222       2      Washer
+3        00753223       4      Bearing
+4        00753224       2      Retaining Ring
+5        00753225       2      Seal
+6        00753226       2      Plug
+7        00753227       2      Compensating Ring
+8        00753228       2      Gear, 20 Tooth
+9        00753229       2      Bolt
+10       00753230       4      Bolt
+11       00753231       6      Lockwasher
+12       00753232       1      Housing, Main Gearbox Case
+13       00753233       1      Shaft (1-3/8" 6 Spline)
+14       00753234       1      Gear, 23 Tooth
+15       00753235       2      Washer
+16       00753236       2      Key
+17       00753237       2      Retaining Ring
+18       00753238       2      Seal
+19       00753239       1      Plug, Breather
+20       00753240       1      Cover, Top
+21       00753241       2      Bearing
+22       00753242       1      Key
+23       00755069       1      Gasket, for Top cover
+
+
+
+
+GEARBOX P/N 00754005
+ITEM     PART NO.       QTY    DESCRIPTION
+0        00754005       --     Gearbox Asy (540 only)
+1        00753221       2      Shaft (1-3/8" 6 Spline)
+2        00753222       2      Washer
+3        00753223       4      Bearing
+4        00753224       2      Retaining Ring
+5        00753225       2      Seal
+6        00753226       2      Plug
+7        00753227       2      Compensating Ring
+8        00753228       2      Gear, 20 Tooth
+9        00753229       2      Bolt
+10       00753230       4      Bolt
+11       00753231       6      Lockwasher
+12       00753232       1      Housing, Main Gearbox Case
+13       00753233       1      Shaft (1-3/8" 6 Spline)
+14       00753234       1      Gear, 23 Tooth
+15       00753235       2      Washer
+16       00753236       2      Key
+17       00753237       2      Retaining Ring
+18       00753238       2      Seal
+19       00753239       1      Plug, Breather
+20       00753240       1      Cover, Top
+21       00753241       2      Bearing
+22       00753242       1      Key
+23       00755069       1      Gasket, For Top Cover
+
+
+
+
+GEARBOX P/N 00755566
+Item      Part No.      Qty.   Description
+0         00755566      --     Gearbox Asy, (540 RPM)
+1         00755613      1      Casing
+2         00756899      1      Gear (24 Teeth-540RPM)
+3         00755615      2      Bearing
+4         00755616      1      Oil Seal
+5         00755617      1      Shaft
+6         00755618      2      Internal Circlip
+7         00755619      2      Shim
+8         00755620      1      External Circlip
+9         00756943      1      Nut
+10        00755622      1      Shim
+14        00755626      1      Proctective Shield
+15        00755627      1      Oil Seal
+16        00755628      2      Bearing
+17        00755629      1      Shaft
+18        00755630      1      Gear (16 Teeth-540 RPM)
+19        00755631      1      Cotter Pin
+20        00755632      1      Shim
+21        00755633      1      Plug
+22        00755634      1      Cap
+23        00755635      4      Hex Bolt
+24        00758654      1      Vent Plug
+25        00755637      1      Cover
+26        00755638      1      Shim
+27        02880900      6      Bolt
+28        00003901      6      Locknut
+29        00037200      6      Nut
+30        00755624      1      Nut, Castle
+31        163016        1      Cotterpin, Blade Carrier
+32        00755623      1      Washer f/ Blade carrier, Not Shown)
+
+
+
+
+GEARBOX P/N 00755598
+Item    Part No.     Qty    Description
+0       00755598     --     Gearbox Asy, (540 RPM)
+1       00755613     1      Gearbox Housing, Main
+2       00755614     1      Gear, 24 Tooth (540 RPM)
+3       00755615     2      Bearing
+4       00755616     1      Seal
+5       00755617     1      Shaft, Input
+6       00755618     2      Circlip, Internal
+7       00755619     2      Shim, 012 (a/r)
+7       00756198     2      Shim, 016 (a/r)
+8       00755620     1      Circlip, External
+9       00755621     1      Nut, Slotted, Brg Adjusting
+10      00755622     1      Shim, .020 (a/r)
+14      00755626     1      Seal, Protector
+15      00755627     1      Seal
+16      00755628     2      Bearing
+17      00755629     1      Shaft, Output
+18      00755630     1      Gear, 16 Tooth (540 RPM)
+19      00756946     1      Cotter Pin
+20      00755632     1      Shim
+21      00755633     1      Plug, Oil Level Check
+22      00755634     1      Seal Cap, Rear
+23      00755635     4      Bolt
+24      00757342     1      Plug, Vent / Oil Fill
+25      00755637     1      Cover, Top
+26      00755638     1      Shim, .040 (a/r)
+27      02880900     6      Bolt
+28      00003901     6      Lockwasher
+29      00037200     6      Nut
+30      00755624     1      Nut, Blade Carrier Retaining (Not Shown)
+31      00755623     1      Washer, Blade Carrier (Not Shown)
+32      00606000     1      Cotterpin, Blade Carrier (Not Shown)
+
+
+
+
+GEARBOX P/N 00755697A
+Item   Part No.      Qty.   Description
+0       00755697A    --     Gearbox Asy. Divider 1000 RPM
+1       00756643     2      Shaft 1-3/4" X 20 Spline
+2       00756644     2      Oil Seal
+3       00753226     2      Plug
+4       00753224     2      Snap Ring Lining
+5       00563700     2      Bearing
+6       00772981     2      Gear, 24 tooth (1000 RPM)
+7       00753223     2      Bearing
+8       00756645     4      Shim
+9       00753232     1      Casing
+10      00753237     2      Snap Ring Lining
+11      00753238     2      Oil Seal
+12      2716406      2      Shim
+13      00753241     1      Bearing
+14      00756648     1      Shaft 1-3/4" X 20 Spline
+15      00755068     1      Snap Ring
+16      00753241     1      Bearing
+17      00772982     1      Gear, 20 Tooth (1000 RPM)
+18      2716590      1      Plug
+19      00753231     6      Spring Washer
+20      00753230     6      Bolt
+21      00753240     1      Cover, Top
+22      00756649     2      Snap Ring Lining
+
+
+
+
+GEARBOX P/N 00755698
+Item    Part No.     Qty    Description
+0       00755698     1      Gearbox Asy, (1000 RPM)
+1       00756643     2      Shaft
+2       00756647     2      Shim
+3       00753223     2      Bearing
+4       00753224     2      Retaining Ring
+5       00756644     2      Oil Seal
+6       00753226     2      Oil Plug
+7       00756645     2      Shim
+8       00755746     2      Gear, 25 Tooth, (1000 RPM)
+9       00755068     1      Retaining Ring
+10      00753230     4      Capscrew
+11      00753231     6      Spring Washer
+12      00753232     1      Housing
+13      00756648     1      Shaft
+14      00755745     1      Gear, 19 Tooth, (1000 RPM)
+15      00753235     2      Shim
+16      00755070     1      Bearing, Front
+17      00753237     2      Retaining Ring
+18      00753238     2      Oil Seal
+19      00753239     1      Breather Plug
+20      00753240     1      Top Cover
+21      00753241     1      Bearing, Rear
+22      00755069     1      Gasket
+23      00756649     2      Retaining Ring
+24      00756646     2      Bearing
+25      00001400     4      Flatwasher
+26      02845500     4      Bolt
+27      00010300     4      Lockwasher
+28      00010400     4      Nut
+
+
+
+
+GEARBOX P/N 00756603A
+Item    Part No.     Qty.   Description
+0       00756603A    --     Gearbox Asy. Divider (540 RPM)
+1       00756643     2      Shaft 1-3/4" X 20 Spline
+2       00756644     2      Oil Seal
+3       00753226     2      Plug
+4       00753224     2      Snap Ring Lining
+5       00563700     2      Bearing
+6       00772983     2      Gear, 20 Tooth (1000 RPM)
+7       00753223     2      Bearing
+8       00756645     4      Shim
+9       00753232     1      Casing
+10      00753237     2      Snap Ring Lining
+11      00753238     2      Oil Seal
+12      2716406      2      Shim
+13      00753241     1      Bearing
+14      00756648     1      Shaft 1-3/4" X 20 Spline
+15      00755068     1      Snap Ring
+16      00753241     1      Bearing
+17      00772984     1      Gear, 24 Tooth (1000 RPM)
+18      2716590      1      Plug
+19      00753231     6      Spring Washer
+20      00753230     6      Bolt
+21      00753240     1      Cover, Top
+22      00756649     2      Snap Ring Lining
+
+
+
+
+GEARBOX P/N 00756604
+Item    Part No.     Qty   Description
+0       00756604     1     Gearbox Asy, (540 RPM)
+1       00756643     2     Shaft
+2       00756647     2     Shim
+3       00753223     2     Bearing
+4       00753224     2     Retaining Ring
+5       00756644     2     Oil Seal
+6       00753226     2     Oil Plug
+7       00756645     2     Shim
+8       00753228     2     Gear, 20 Tooth, (540 RPM)
+9       00755068     1     Retaining Ring
+10      00753230     4     Capscrew
+11      00753231     6     Spring Washer
+12      00753232     1     Housing
+13      00756648     1     Shaft
+14      00753234     1     Gear, 23 Tooth, (540 RPM)
+15      00753235     2     Shim
+16      00755070     1     Bearing, Front
+17      00753237     2     Retaining Ring
+18      00753238     2     Oil Seal
+19      00753239     1     Breather Plug
+20      00753240     1     Top Cover
+21      00753241     1     Bearing, Rear
+22      00755069     1     Gasket
+23      00756649     2     Retaining Ring
+24      00756646     2     Bearing
+25      00001400     4     Flatwasher
+26      02845500     4     Bolt
+27      00010300     4     Lockwasher
+28      00010400     4     Nut
+
+
+
+
+GEARBOX P/N 00756622
+Item    Part No.     Qty   Description
+0       00756622     --    Gearbox Asy. (1000 RPM)
+1       00755613     1     Gearbox Housing, Main
+2       00756900     1     Gear, 1000 RPM Input (20 Tooth)
+3       00755615     2     Bearing
+4       00753238     1     Seal
+5       00755617     1     Shaft, Input
+6       00755618     2     Circlip, Internal
+7       00755619     2     Shim
+8       00755620     1     Circlip, External
+9       00756943     1     Nut, Slotted
+10      00755622     1     Shim
+14      00755626     1     Shield, Protective
+15      00755627     1     Seal
+16      00755628     2     Bearing
+17      00756945     1     Shaft, Output
+18      00756899     1     Gear, 1000 RPM Output (24 Tooth)
+19      00756946     1     Cotter Pin
+20      00755632     1     Shim
+21      00755633     1     Plug, Oil Level Check
+22      00755634     1     Seal Cap, Rear
+23      00755635     4     Bolt
+24      00758654     1     Plug, Vent / Oil Fill
+25      00755637     1     Cover, Top
+27      02959391     6     Bolt
+28      00037200     6     Locknut
+29      00755624     1     Nut, Blade Carrier Retaining
+30      00755623     1     Washer, Blade Carrier
+31      163016       1     Cotterpin, Blade Carrier
+
+
+
+
+GEARBOX P/N 00756624
+Item      Part No.       Qty.   Description
+1          00755613      1      Casing
+2          00756900      1      Gear (20 Teeth-1000RPM)
+3          00755615      2      Bearing
+4          00753238      1      Oil Seal
+5          00755617      1      Shaft
+6          00755618      2      Internal Circlip
+7          00755619      2      Shim
+8          00755620      1      External Circlip
+9          00756943      1      Nut
+10         00755622      1      Shim
+14         00755626      1      Protective Shield
+15         00755627      1      Oil Seal
+16         00755628      2      Bearing
+17         00756945      1      Shaft
+18         00756899      1      Gear (24 Teeth-100RPM)
+19         00756946      1      Cotter Pin
+20         00755632      1      Shim
+21         00755633      1      Plug
+22         00755634      1      Cap
+23         00755635      4      Hex Bolt
+24         00758654      1      Vent Plug
+25         00755637      1      Cover
+27         02959391      6      Bolt
+28         00037200      6      Locknut
+29         00755623      1      Washer
+30         00755624      1      Nut, Castle
+31       163016          1      Cotterpin, Blade Carrier
+
+
+
+
+GEARBOX P/N 00756739
+Item   Part No.      Qty    Description
+0       00756739     --     Gearbox Asy, (540 RPM)
+1       00755613     1      Gearbox Housing, Main
+2       00756899     1      Gear, 540 RPM Input (24 Tooth)
+3       00755615     2      Bearing
+4       00753238     1      Seal
+5       00755617     1      Shaft, Input
+6       00755618     2      Circlip, Internal
+7       00755619     2      Shim
+8       00755620     1      Circlip, External
+9       00756943     1      Nut, Slotted
+10      00755622     1      Shim
+14      00755626     1      Shield, Protective
+15      00755627     1      Seal
+16      00755628     2      Bearing
+17      00756945     1      Shaft, Output
+18      00756900     1      Gear 540 RPM Output ( 20 Tooth)
+19      00756946     1      Cotter Pin
+20      00755632     1      Shim
+21      00755633     1      Plug, Oil Level Check
+22      00755634     1      Seal Cap, Rear
+23      00755635     4      Bolt
+24      00758654     1      Plug, Vent / Oil Fill
+25      00755637     1      Cover, Top
+27      02959391     6      Bolt
+28      00037200     6      Locknut
+29      00755624     1      Nut, Blade Carrier Retaining
+30      00755623     1      Washer, Blade Carrier
+31      163016       1      Cotterpin, Blade Carrier
+
+
+
+
+GEARBOX P/N 00756741
+Item       Part No.      Qty.   Description
+1          00755613      1      Casing
+2          00756899      1      Gear (24 Teeth-540RPM)
+3          00755615      2      Bearing
+4          00753238      1      Oil Seal
+5          00755617      1      Shaft
+6          00755618      2      Internal Circlip
+7          00755619      2      Shim
+8          00755620      1      External Circlip
+9          00756943      1      Nut
+10         00755622      1      Shim
+14         00755626      1      Protective Shield
+15         00755627      1      Oil Seal
+16         00755628      2      Bearing
+17         00756945      1      Shaft
+18         00756900      1      Gear (20 Teeth-540 RPM)
+19         00756946      1      Cotter Pin
+20         00755632      1      Shim
+21         00755633      1      Plug
+22         00755634      1      Cap
+23         00755635      4      Hex Bolt
+24         00758654      1      Vent Plug
+25         00755637      1      Cover
+27         02959391      6      Bolt
+28         00037200      6      Locknut
+29         00755623      1      Washer
+30         00755624      1      Nut, Castle
+31         163016        1      Cotterpin, Blade Carrier
+
+
+
+
+GEARBOX P/N 00756744
+Item     Part No.    Qty    Description
+0        00756744    --     Gearbox Asy.
+1        00755613    1      Gearbox Housing, Main
+2        00756942    1      Gear, Input 15 Tooth (1000 RPM)
+3        00755615    2      Bearing
+4        00753238    1      Seal
+5        00755617    1      Shaft, Input
+6        00755618    2      Circlip, Internal
+7        00755619    2      Shim
+8        00755620    1      Circlip, External
+9        00756943    1      Nut, Slotted
+10       00755622    1      Shim
+14       00755626    1      Shield, Protective
+15       00755627    1      Seal
+16       00755628    2      Bearing
+17       00756945    1      Shaft, Output
+18       00756944    1      Gear,Output  24 Tooth (1000 RPM)
+19       00756946    1      Cotter Pin
+20       00755632    1      Shim
+21       00755633    1      Plug, Oil Level Check
+22       00755634    1      Seal Cap, Rear
+23       00755635    4      Bolt
+24       00758654    1      Plug, Vent / Oil Fill
+25       00755637    1      Cover, Top
+27       02959391    6      Bolt
+28       00037200    6      Locknut
+29       00755624    1      Nut, Blade Carrier Retaining
+30       00755623    1      Washer, Blade Carrier
+31       163016      1      Cotterpin, Blade Carrier
+
+
+
+
+GEARBOX P/N 00757825
+Item    Part No.      Qty      Description
+0       00757825      --       Gearbox Asy (540 RPM)
+1       00758644      1        Housing
+2       00758645      2        Gear 20 Tooth
+3       00758646      A/R      Shim (.004)
+4       00758647      A/R      Shim (.010)
+5       00758648      A/R      Shim (.020)
+6       00758649      2        Horizontal Hub Cap
+7       00758650      4        Bearing
+9       00758651      2        Adjusting Nut
+10      00758652      2        Seal Adapter
+11      00758653      4        Seal
+12      00758654      1        Vented Pipe Plug
+13      00758655      2        Bearing
+15      00758656      1        Gear 23 Tooth
+16      00758657      1        Input Shaft Spacer
+17      00758658      2        Horizontal Output Shaft
+18      00758659      18       Cap Screw
+19      00755954      18       Lockwasher
+20      00565000      1        Pipe Plug
+21      00758660      2        Retaining Ring
+22      00758646      A/R      Shim (.004)
+23      00758647      A/R      Shim (.010)
+24      00758648      A/R      Shim (.020)
+25      00758664      1        Input Cap
+26      00758665      1        Input Shaft
+27      00758666      A/R      Shim (.004)
+28      00758667      A/R      Shim (010)
+29      00758668      A/R      Shim (.020)
+
+
+
+
+GEARBOX P/N 00757826
+Item      Part No.     Qty       Description
+0         00757826     --        Gearbox Asy (1000 RPM)
+1         00758644     1         Housing
+2         00758669     2         Gear, 26 Tooth (1000 RPM)
+3         00758646     A/R       Shim (.004)
+4         00758647     A/R       Shim (.010)
+5         00758648     A/R       Shim (.020)
+6         00758649     2         Horizontal  Hub Cap
+7         00758650     4         Bearing
+9         00758651     2         Adjusting Nut
+10        00758652     2         Seal Adapter
+11        00758653     4         Seal
+12        00758654     1         Vented Pipe Plug
+13        00758655     2         Bearing
+15        00758670     1         Gear, 20 Tooth (1000 RPM)
+16        00758657     1         Input Shaft Spacer
+17        00758658     2         Horizontal Output Shaft
+18        00758659     18        Cap Screw
+19        00755954     18        Lockwasher
+20        00565000     1         Pipe Plug
+21        00758660     2         Retaining Ring
+22        00758646     A/R       Shim (.004)
+23        00758647     A/R       Shim (.010)
+24        00758648     A/R       Shim (.020)
+25        00758664     1         Input Cap
+26        00758665     1         Input Shaft
+27        00758666     A/R       Shim (.004)
+28        00758667     A/R       Shim (010)
+29        00758668     A/R       Shim (.020)
+
+
+
+
+GEARBOX P/N 00757828
+Item      Part No.     Qty     Description
+0         00757828     1       Gearbox Asy (Use # 00757828B)
+1         00758661     1       Housing, Gearbox
+2         00758655     2       Bearing, Input Shaft
+4         00758660     1       Retaining Ring
+5         00758650     2       Bearing, Output Shaft
+7*        00758662     1       Bearing Spacer, Upper Half of 2 Piece
+8         00758663     1       Bearing Cap, Output
+9         00758672     4       Lockwasher
+10        00758673     4       Bolt
+11        00758674     1       Seal, Output
+13        00758692     1       Flange Nut, Special
+14        00606000     1       Cotter Pin
+15        00758676     2-a/r   Gasket / Shim (0.004" Thick)
+16        00758677     1-a/r   Gasket / Shim (0.010" Thick)
+17        00758678     1-a/r   Gasket / Shim (0.020" Thick)
+18*       00758679     1       Bearing Spacer, Lower Half of 2 Piece
+19        00758654     1       Plug, Pressure Relief
+20*       00758687     1       Shaft, Output (See Note Below)
+21        00758688     1       Retaining Ring
+22        00758666     2-a/r   Shim (0.004" Thick)
+23        00758667     1-a/r   Shim (0.010"     Thick)
+24        00758668     1-a/r   Shim (0.020" Thick)
+25        00755954     8       Lockwasher
+26        00758646     2-a/r   Gasket / Shim (0.004" Thick)
+27        00758647     1-a/r   Gasket / Shim (0.010" Thick)
+28        00758648     1-a/r   Gasket / Shim (0.020" Thick)
+29        00758659     8       Bolt
+30        00758664     1       Bearing Cap, Input
+31        00758653     1       Seal
+32        00758696     1       Shaft, Input (1-3/8" 6 Spline)
+33        00758693     1       Gear, Output 13 Tooth (540 RPM)
+34        00565000     1       Plug, Oil Level (Not Shown)
+35        00758657     1       Spacer, F/ Input Gear
+36        00758666     2-a/r   Shim (0.004" Thick)
+37        00758667     1-a/r   Shim (0.010" Thick)
+38        00758668     1-a/r   Shim (0.020" Thick)
+39        00758694     1       Gear, Input 19 Tooth (540 RPM)
+
+
+
+
+GEARBOX P/N 00757828B
+Item      Part No.     Qty     Description
+0         00757828B    1       Gearbox Asy, (540 RPM)
+1         00758661     1       Housing
+2         00755954     8       Lockwasher
+3         00758659     8       Cap Screw
+4         00758664     1       Input Cap
+5         00758696     1       Input Shaft
+6         00758653     1       Oil Seal
+7         00758667     2-a/r   Gear Adjusting Shim (0.010" Thick)
+8         00758668     1-a/r   Gear Adjusting Shim (0.020" Thick)
+9         00758646     2-a/r   Input Cap Gasket (0.004" Thick)
+10        00758647     1-a/r   Input Cap Gasket (0.010" Thick)
+11        00759977     1       Spacer
+12        00760889     1       Spacer
+13        00758663     1       Output Cap
+14        00758672     4       Lockwasher
+15        02959661     4       Cap Screw
+16        00758675     1       Blade Hub
+17        00606000     1       Cotter Pin
+18        00758692     1       Nut
+19        00758674     1       Oil Seal
+20        00758676     2-a/r   Output Cap Gasket (0.004" Thick)
+21        00758677     2-a/r   Output Cap Gasket (0.010" Thick)
+22        00760892     1       Output Shaft
+23        00755628     2       Bearing Asy
+24        00758693     1       Gear , Output 13 Tooth (540 RPM)
+25        00759970     1       Brg Adjust Nut, Tanged (01/92 to 03/96)
+25        00762121     1       Brg AdjustNut, Slotted (04/96 to 02/01)
+26        00606000     1       Cotter Pin, (Use w/ Slotted Nut Only)
+26        00759971     1       Tang Washer, (Use w/ Tang Nut Only)
+26        00760994     1       Flat Washer, (Use w/ Tang Nut Only)
+27        00755615     2       Bearing Asy
+28        00758654     1       Vent Plug (Dia. 0.78 Tapered Thread)
+28        00762114     1       Vent Plug (Dia. 0.71 Straight Thread) w/ Seal Washer
+31        00758657     1       Spacer
+32        00758694     1       Gear , Input 19 Tooth (540 RPM)
+33        00565000     1       Oil Level Plug (Sq Head Tapered Thread)
+33        00762517     1       Oil Level Plug (Allen Head w/ Seal Washer)
+
+
+
+
+GEARBOX P/N 00757918
+Item   Part No.     Qty    Description
+0      00757918     1      Gearbox Asy 540 RPM
+1       00758480    2      Bearing Cup & Cone
+2       00758481    1      Shim-Back Gear
+3       00758482    2      Pinion Gear
+4       00001600    1      Cotter Pin
+5       00758487    1      Shaft-Cross
+6       00758483    1      Casing, Upper Half
+7       00758484    1      Plug-Vent
+8       00744338    8      Bolt
+9       00758495    1      Shaft-Input
+10      00758486    2      Oil Seal
+11      00758485    2      Cover-Side Shaft
+12      00758488    1      Shim Cross Shaft
+13      00758489    2      Spring Pin
+14      00758490    1      Shim Lower Gear
+15      00758500    1      Shim Input Gear
+16      00758491    1      Spacer Input Gear
+17      00758499    1      Gear Input
+18      00758493    1      Extension Lower
+19      00758492    1      Shaft Lower Blade
+20      00755626    1      Protective Shield
+21      00755627    2      Oil Seal
+22      00755628    3      Bearing
+23      00758494    1      Bearing Cup & Cone
+24      00751688    8      Bolt
+25      00758482    2      Pinion Gear
+26      00758496    1      Nut
+27      00758498    1      Spring Washer
+28      00758497    1      Locknut
+29      00755623    1      Washer, (Not Shown)
+30      00755624    1      Nut (Not, Shown)
+31      00606000    1      Cotter Pin, (Not Shown)
+
+
+
+
+GEARBOX P/N 00758217B
+Item     Part No.     Qty    Description
+0        00758217B    --     Gearbox Asy, 1000 RPM
+1        00758661     1      Housing-Gearbox
+2        00755615     2      Bearing Cup & Cone, Input
+3        00759977     1      Gear Spacer, Output
+4        00758657     1      Gear Spacer, Input
+5        00769938     2      Bear Cup & Cone, Output
+6        00759970     1      Bearing Adjusting Nut, Output
+7        00760889     1      Bearing Spacer, Output
+8        00758663     1      Bearing Cap, Output
+9        00758672     4      Lockwasher
+10       00758673     4      Bolt
+11       00758674     1      Seal, Output Shaft
+13       00758692     1      Nut, Blade Carrier Retaining
+14       00606000     1      Cotter Pin
+15       00758676     a/r    Gasket, Output Cap (.004) Approx 2 Ea.
+15       00758677     a/r    Gasket, Output Cap (.010) Approx 1 Ea.
+18       00749495     1      Cotter Pin, Use w/ Brg Adjusting Nut Item # 6
+19       00758654     a/r    Pressure Relief Plug, (Tapered Threads )
+19       00762114     a/r    Pressure Relief Plug, (Straight Threads w/ Sealing Washer)
+20       00760892     1      Output Shaft (Use Slotted Nut & Cotter Pin on Top)
+21       00758693     a/r    Gear, Input 13 Tooth (1000 RPM Only)
+23       00758667     a/r    Shim, Output or Input Gear Adjusting (.012) Approx 2 Ea.
+23       00758668     a/r    Shim, Output or Input Gear Adjusting (.020) Approx 2 Ea.
+25       00755954     8      Lockwasher
+26       00758646     a/r    Gasket, Input Cap (.004) Approx 2 Ea.
+26       00758647     a/r    Gasket, Input Cap (.010) Approx 1 Ea.
+29       00758659     8      Bolt
+30       00758664     1      Bearing Cap, Input
+31       00758653     1      Seal, Input Shaft
+32       00758689     1      Shaft, Input
+33       00758694     a/r    Gear, Output 19 Tooth (1000 RPM Only)
+34       00565000     a/r    Plug, Oil Level, Sq Head (Tapered Thread)
+34       00762517     a/r    Plug, Oil Level, Allen Head (Straight Thread w/ Sealing Washer)
+38       00769321     2      Seal Washer, (Use Only w/ 00762517 or 00762114 Plugs)
+
+
+
+
+GEARBOX P/N 00758959
+Item  Part No.    Qty   Description
+1     00758713    1     Input Shaft
+2     00564200    1     Seal
+3     00563700    1     Bearing
+4     00764949    1     Input Cap
+5     00564400    1     Gasket
+6     00758729    1     Gear
+7     00758715    1     Retaining Ring
+8     00758716    1     Housing
+9     00564800    1     Bearing
+10    00758654    1     Relief Filler Plug
+11    00565000    1     Plug
+12    00758730    1     Pinion Gear
+13    00758650    2     Bearing
+14    00758660    1     Retaining Ring
+15    00758720    1     Spacer
+16    00758721    1     Output Cap
+17    00755954    10    Lockwasher
+18    00758659    10    Cap Screw
+19    00758674    1     Seal
+20    00758692    1     Hex Nut
+22    00606000    1     Cotter Pin
+23    00758723    2     Gasket
+24    00758724    2     Gasket
+25    00758725    1     Gasket
+26    00758726    2     Shim
+27    00758727    2     Shim
+28    00758728    1     Shim
+29    00564100    1     Retaining Ring
+
+
+
+
+GEARBOX P/N 00758996
+Item    Part No.     Qty    Description
+0       00758996     1      Gearbox Asy, 1000 RPM
+1       00758653     2      Seal, Output
+2       00762516     2      Cap, Side Cover
+3       00759487     1      Gear, 14 Tooth (1000 RPM)
+4       00758657     1      Spacer
+5       00762517     2      Pipe Plug
+6       00762518     1      Shaft, Output
+7       00762519     1      Housing
+8       00755628     4      Bearing
+9       00755954     24     Lockwasher
+10      00758659     24     Bolt
+11      00748531     a/r    Shim Kit* (0.25, 0.30 & 0.40)
+12      00762520     1      Cap, Hub Input Cover
+13      00762121     1      Adjusting Nut
+14      00026200     1      Cotter Pin
+15      00762521     1      Seal, Input
+16      00762522     1      Shaft Input
+17      00759488     1      Gear, 17 Tooth (1000 RPM)
+18      00762114     1      Pipe Plug Vented (not illustrated)
+
+
+
+
+GEARBOX P/N 00759205B & 00759206B
+Item    Part No.      Qty    Description
+0       00759205B     --     Gearbox Asy,  (Input Gear Mounts in Front) as Shown
+0       00759206B     --     Gearbox Asy,  (Input Gear Mounts in Back) not Shown
+1        00758661     1      Housing-Gearbox
+2        00758655     2      Bearing Cup & Cone, Input
+3        00759977     1      Gear Spacer, Output
+4        00758657     1      Gear Spacer, Input
+5        00755628     2      Bearing Cup & Cone, Output
+6        00770730     1      Bearing Adjusting Nut, Output
+7        00760889     1      Bearing Spacer, Output
+8        00758663     1      Bearing Cap, Output
+9        00758672     4      Lockwasher
+10       00758673     4      Bolt
+11       00758674     1      Seal, Output Shaft
+13       00758692     1      Nut, Blade Carrier Retaining
+14       00606000     1      Cotter Pin
+15       00758676     a/r    Gasket, Output Cap (.004) Approx 2 Ea.
+15       00758677     a/r    Gasket, Output Cap (.010) Approx 1 Ea.
+18       00771620     1      Cotter Pin, Use w/ Brg Adjusting Nut Item # 6
+19       00758654     a/r    Pressure Relief Plug, (Tapered Threads )
+19       00762114     a/r    Pressure Relief Plug, (Straight Threads w/ Sealing Washer)
+20       00760892     1      Output Shaft (Use Slotted Nut & Cotter Pin on Top)
+21       00758693     a/r    Gear, Input 13 Tooth (540 or 1000 RPM )
+23       00758667     a/r    Shim, Output or Input Gear Adjusting (.012) Approx 2 Ea.
+23       00758668     a/r    Shim, Output or Input Gear Adjusting (.020) Approx 2 Ea.
+25       00755954     8      Lockwasher
+26       00758646     a/r    Gasket, Input Cap (.004) Approx 2 Ea.
+26       00758647     a/r    Gasket, Input Cap (.010) Approx 1 Ea.
+29       00758659     8      Bolt
+30       00758664     1      Bearing Cap, Input
+31       00758653     1      Seal, Input Shaft
+32       00758689     1      Shaft, Input
+33       00758694     a/r    Gear, Output 19 Tooth (540 or 1000 RPM )
+34       00565000     a/r    Plug, Oil Level, Sq Head (Tapered Thread)
+34       00762517     a/r    Plug, Oil Level, Allen Head (Straight Thread w/ Sealing Washer)
+35       00769321     2      Seal Washer, (Use Only w/ 00762517 or 00762114 Plugs)
+
+
+
+
+GEARBOX P/N 00760403B, 00750506B & 00750507B
+Item    Part No.     Qty    Description
+0       00760403B    --     Gearbox Asy, 540 RPM (input gear mount in Front) As Shown
+0       00750506B    --     Gearbox Asy, 1000 RPM (input Gear Mount in front)As Shown
+0       00750507B    --     Gearbox Asy, 540 RPM (input Gear Mount in Back) Not Shown
+1       00758661     1      Housing-Gearbox
+2       00755615     2      Bearing Cup & Cone, Input
+3       00759977     1      Gear Spacer, Output
+4       00758657     1      Gear Spacer, Input
+5       00769938     2      Bear Cup & Cone, Output
+6       00759970     1      Bearing Adjusting Nut, Output
+7       00760889     1      Bearing Spacer, Output
+8       00758663     1      Bearing Cap, Output
+9       00758672     4      Lockwasher
+10      00758673     4      Bolt
+11      00758674     1      Seal, Output Shaft
+13      00758692     1      Nut, Blade Carrier Retaining
+14      00606000     1      Cotter Pin
+15      00758676     a/r    Gasket, Output Cap (.004) Approx 2 Ea.
+15      00758677     a/r    Gasket, Output Cap (.010) Approx 1 Ea.
+18      00749495     1      Cotter Pin, Use w/ Brg Adjusting Nut Item # 6
+19      00758654     a/r    Pressure Relief Plug, (Tapered Threads )
+19      00762114     a/r    Pressure Relief Plug, (Straight Threads w/ Sealing Washer)
+20      00760892     1      Output Shaft (Use Slotted Nut & Cotter Pin on Top)
+21      00759488     a/r    Gear, Input 17 Tooth (540 RPM Only)
+21      00759487     a/r    Gear, Input 14 Tooth (1000 RPM Only)
+23      00758667     a/r    Shim, Output or Input Gear Adjusting (.012) Approx 2 Ea.
+23      00758668     a/r    Shim, Output or Input Gear Adjusting (.020) Approx 2 Ea.
+25      00755954     8      Lockwasher
+26      00758646     a/r    Gasket, Input Cap (.004) Approx 2 Ea.
+26      00758647     a/r    Gasket, Input Cap (.010) Approx 1 Ea.
+29      00758659     8      Bolt
+30      00758664     1      Bearing Cap, Input
+31      00758653     1      Seal, Input Shaft
+32      00758689     1      Shaft, Input
+33      00759487     a/r    Gear, Output 14 Tooth (540 RPM )
+33      00759488     a/r    Gear, Output 17 Tooth (1000 RPM )
+34      00565000     a/r    Plug, Oil Level, Sq Head (Tapered Thread)
+34      00762517     a/r    Plug, Oil Level, Allen Head (Straight Thread w/ Sealing Washer)
+35      00769321     2      Seal Washer, (Use Only w/ 00762517 or 00762114 Plugs)
+
+
+
+
+GEARBOX P/N 00760880
+Item    Part No.     Qty    Description
+0       00760880     1      Gearbox Asy, 540 RPM
+1       00758653     2      Seal, Output
+2       00762516     2      Cap, Side Cover
+3       00758693     1      Gear, 13 Tooth (540 RPM)
+4       00758657     1      Spacer
+5       00762517     2      Pipe Plug
+6       00762518     1      Shaft, Output
+7       00762519     1      Housing
+8       00755628     4      Bearing
+9       00755954     24     Lockwasher
+10      00758659     24     Bolt
+11      00748531     a/r    Shim Kit* (0.25, 0.30 & 0.40)
+12      00762520     1      Cap, Hub Input Cover
+13      00762121     1      Adjusting Nut
+14      00026200     1      Cotter Pin
+15      00762521     1      Seal, Input
+16      00762522     1      Shaft Input
+17      00758694     1      Gear, 19 Tooth (540 RPM)
+18      00762114     1      Pipe Plug Vented (not illustrated)
+
+
+
+
+GEARBOX P/N 00763623
+Item    Part No.   Qty   Description
+0       00763623   -     Gearbox Asy
+1       00563900   1     Housing
+2       00764949   1     Input Cap
+3       00563700   3     Ball Bearing
+4       00564200   1     Input Seal
+5       00764518   1     Input Shaft
+6       00564100   3     Retaining Ring
+7       00764516   1     Input Gear
+8       00564400   a/r   Input Gasket (.30)
+9       00758671   1     Shim
+10      00760929   a/r   Output Gasket (.30)
+11      00760928   a/r   Output Gasket (.13)
+12      02161100   10    Lockwasher
+13      00011400   10    Cap Screw
+14      1423       1     Slotted Hex Nut
+15      00606000   1     Cotter Pin
+16      00563500   1     Output Seal
+17      00757683   1     Output Cap
+18      00757682   1     Output Brg Spacer
+19      00764517   1     Output Shaft/Pinion
+20      00564800   1     Ball Bearing
+21      00749508   1     Oil Fill Plug
+22      00565000   1     Level Plug
+23      6192       1     Washer
+
+
+
+
+GEARBOX P/N 00763623B
+Item    Part No.   Qty   Description
+0       00763623B  --    Gearbox Asy (540 rpm)
+1       00563900   1     Housing
+2       00764949   1     Input Cap
+3       00563700   3     Ball Bearing
+4       00564200   1     Input Seal
+5       00764518   1     Input Shaft
+6       00564100   1     Retaining Ring
+7       00764516   1     Input Gear
+8       00564400   a/r   Input Gasket (.30)
+9       00758671   1     Shim
+10      00760929   a/r   Ouput Gasket (.30)
+11      00760928   a/r   Output Gasket (.13)
+12      02161100   10    Lockwasher
+13      00011400   10    Cap Screw
+14      00758692   1     Slotted Flange Nut
+15      00606000   1     Cotter Pin
+16      00563500   1     Output Seal
+17      00757683   1     Output Cap
+18      00757682   1     Output Brg Spacer
+19      00764517   1     Output Shaft/Pinion
+20      00564800   1     Ball Bearing
+21      00749508   1     Oil Fill Plug
+22      00565000   1     Level Plug
+23      6192       1     Washer
+24      00563700   2     Bearing, Output
+
+
+
+
+GEARBOX P/N 00763666
+Item    Part No.     Qty.   Description
+1       00764462     2      Shaft, LH & RH Output
+2       00764463     1      Shaft, Center Cross Input
+3       00764464     4      Seal
+4       02957149     6      Bearing Cone
+5       00016900     6      Bearing Cup
+6       00764467     3      Gear
+7       00764468     1      Housing Lower Half  (w/ Through holes)
+8       00764469     1      Housing Upper Half  (w/ Tapped Holes) Not Shown
+9       00764470     3      Key
+10      00764471     6      Retaining Ring
+11      00753630     1      Plug (Not Shown)
+12      00764473     1      Bushing (Not Shown)
+13      02959018     1      Relief Valve (Not Shown)
+14      00764475     12     Bolt (Not Shown)
+
+
+
+
+GEARBOX P/N 00764053
+Item    Part No.     Qty    Description
+0       00754053     --     Gearbox Asy, (540 RPM)
+1       00755613     1      Gearbox Housing, Main
+2       00758506     1      Gear, Input  20 Tooth (540 RPM)
+3       00755615     2      Bearing
+4       00753238     1      Seal
+5       00755617     1      Shaft, Input
+6       00755618     2      Circlip, Internal
+7       00755619     2      Shim
+8       00755620     1      Circlip, External
+9       00756943     1      Nut, Slotted
+10      00755622     1      Shim
+14      00755626     1      Shield, Protective
+15      00755627     1      Seal
+16      00755628     2      Bearing
+17      00756945     1      Shaft, Output
+18      00758506     1      Gear, Output 20 Tooth (540 RPM)
+19      00756946     1      Cotter Pin
+20      00755632     1      Shim
+21      00755633     1      Plug, Oil Level Check
+22      00755634     1      Seal Cap, Rear
+23      00755635     4      Bolt
+24      00758654     1      Plug, Vent / Oil Fill
+25      00755637     1      Cover, Top
+27      02959391     6      Bolt
+28      00037200     6      Locknut
+29      00755624     1      Nut, Blade Carrier Retaining
+30      00755623     1      Washer, Blade Carrier
+31      163016       1      Cotterpin, Blade Carrier
+
+
+
+
+GEARBOX P/N 00769115
+Item     Part No.    Qty    Description
+0        00769115    --     Gearbox Asy, (540 RPM)
+1        00769162    1      Housing
+2        00762121    2      Bearing Adj. Nut
+3        00026200    2      Cotter Pin
+4        00755954    24     Lockwasher
+5        00758659    24     Cap Screw
+6        00755628    6      Bearing
+7        00758653    2      Seal
+8        00762128    1      Input Cap
+9        00758646    var    Gasket 0.1
+10       00758647    var    Gasket 0.25
+11       00758648    var    Gasket 0.5
+12       00762123    1      Plug
+13       00769160    2      Gear 20 Tooth (540 RPM)
+14       00762522    2      Horizontal Output Shaft
+15       00762521    2      Seal
+16       00758657    1      Spacer
+17       00769163    1      Input Shaft
+18       00758667    var    Shim 0 .3
+19       00758666    var    Shim 0.4
+20       00758668    var    Shim 0.4
+21       00769161    1      Gear 23 Tooth (540 RPM)
+22       00762520    2      Horizontal Hub Cap
+23       00762114    1      Pipe Plug Vented (not shown)
+24*      00010300    4      Lockwasher (Not Shown)
+25*      02675800    4      Bolt (Not Shown)
+
+
+
+
+GEARBOX P/N 00769116
+Item     Part No.    Qty    Description
+0        00769116    --     Gearbox Asy, (1000 RPM)
+1        00769162    1      Housing
+2        00762121    2      Bearing Adj. Nut
+3        00026200    2      Cotter Pin
+4        00755954    24     Lockwasher
+5        00758659    24     Cap Screw
+6        00755628    6      Bearing
+7        00758653    2      Seal
+8        00762128    1      Input Cap
+9        00758646    var    Gasket 0.1
+10       00758647    var    Gasket 0.25
+11       00758648    var    Gasket 0.5
+12       00762123    1      Plug
+13       00769159    2      Gear 26 Tooth (1000 RPM)
+14       00762522    2      Horizontal Output Shaft
+15       00762521    2      Seal
+16       00758657    1      Spacer
+17       00769163    1      Input Shaft
+18       00758667    var    Shim 0 .3
+19       00758666    var    Shim 0.4
+20       00758668    var    Shim 0.4
+21       00769158    1      Gear 20 Tooth (1000 RPM)
+22       00762520    2      Horizontal Hub Cap
+23       00762114    1      Pipe Plug Vented (not shown)
+24       00010300    4      Lockwasher (Not Shown)
+25       02975800    4      Bolt (Not Shown)
+
+
+
+
+GEARBOX P/N 00769912
+Item     Part No.     Qty    Description
+0        00769912     --     Gearbox Asy, (540 RPM)
+1        00770724     1      Housing
+2        00770725     1      Bearing Assembly
+3        00770726     1      Oil Seal
+6        00771226     1      Nut
+7        01422502     1      Cotter Pin
+8        00770728     1      Output Shaft
+9        00770736     1      Gear , Output (13 Tooth) Center (540 RPM)
+10       00770730     1      Bearing Adjusting Nut
+11       00606000     1      Cotter Pin
+12       00755628     3      Bearing Assembly
+13       00770731     1      Shaft Spacer
+14       00766083     12     Washer
+15       00754338     4      Bolt
+16       00762517     1      Plug, For Shipping (Install Item #32 before Operating)
+16A      00762517     1      Plug, Oil level
+17       00769321     3      Washer, Sealing
+18       00770732     1      Inspection Cover
+19       00770733     1      Inspection Cover Gasket
+20       00758646     VAR    Shim Adjustment (0.10)
+21       00758647     VAR    Shim Adjustment (0.25)
+22       00758648     VAR    Shim Adjustment (0.50)
+23       00765905     8      Bolt
+24       00770734     1      Input Cap
+25       00758653     1      Oil Seal
+26       00770735     1      Input Shaft
+27       00770729     1      Gear , Input ( 19 Tooth)  Center (540 RPM)
+28       00758657     1      Spacer
+29       00758667     VAR    Shim (0.30)
+31       00758668     VAR    Shim (0.50)
+32       00762114     1      Pressure Plug Vent (To Be Installed before Operating)
+
+
+
+
+GEARBOX P/N 00769915
+Item    Part No.     Qty    Description
+0       00769915     --     Gearbox Asy, (540 RPM)
+1       00770724     1      Housing
+2       00770725     1      Bearing Asy
+3       00770726     1      Oil Seal
+6       00771226     1      Flange Nut
+7       01422502     1      Cotter Pin
+8       00770728     1      Vertical Output Shaft
+9       00770736     1      13 Tooth Gear (540 RPM)
+10      00770730     1      Bearing Adjusting Nut
+11      00606000     1      Cotter PIn
+12      00755628     3      Bearing Asy
+13      00758667     A/R    Shim (0.30)
+15      00758668     A/R    Shim (0.50)
+16      00770729     1      19 Tooth Gear (540 RPM)
+17      00758657     1      Input Shaft Spacer
+18      00766083     12     Lockwasher
+19      00754338     4      Bolt
+20      00762517     1      Plug, Oil Level Plug (Side of Housing Not Shown)
+21      00769321     2      Sealing Washer (i f/item 20 & 1 f/ item 32)
+22      00770732     1      Inspection Cover
+23      00770733     1      Inspection Cover Gasket
+24      00758646     A/R    Gasket (0.10)
+25      00758647     A/R    Gasket (0.25)
+26      00758648     A/R    Gasket (0.50)
+27      00765905     8      Bolt
+28      00770734     1      Input Cap
+29      00758653     1      Oil Seal
+30      00770735     1      Input Shaft
+31      00770731     1      Input Shaft Spacer
+32      00762517     1      Plug, For Shipping (Remove before Operating)
+33      00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
+
+GEARBOX P/N 00769918
+Item     Part No.     Qty    Description
+0        00769918     --     Gearbox Asy, (540 RPM)
+1        00770724     1      Housing
+2        00770725     1      Bearing Asy
+3        00770726     1      Oil Seal
+4        00770727     1      Seal Protector
+6        00771226     1      Flange Nut
+7        01422502     1      Cotter PIn
+8        00770728     1      Vertical Output Shaft
+9        00770738     1      14 Tooth Gear (540 RPM)
+10       00762121     1      Bearing Adjusting Nut
+11       00606000     1      Cotter PIn
+12       00755628     3      Bearing Asy
+13       00770731     1      Input Shaft Spacer
+14       00766083     12     Lockwasher
+15       00754338     4      Bolt
+16       00762517     1      Plug, Oil Level Plug  (Side of Housing Not Shown)
+17       00769321     2      Sealing Washer
+18       00770732     1      Inspection Cover
+19       00770733     1      Inspection Cover Gasket
+20       00758646     A/R    Gasket (0.10)
+21       00758647     A/R    Gasket (0.25)
+22       00758648     A/R    Gasket (0.50)
+23       00765905     8      Bolt
+24       00770734     1      Input Cap
+25       00758653     1      Oil Seal
+26       00770735     1      Input Shaft
+27       00770739     1      17 Tooth Gear (540 RPM)
+28       00758657     1      Input Shaft Spacer
+29       00758667     A/R    Shim (0.30)
+30       00758668     A/R    Shim (0.50)
+31       00762517     1      Plug, For Shipping (Remove before Operating)
+31       00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
+
+GEARBOX P/N 00769921
+Item    Part No.     Qty    Description
+0       00769921     --     Gearbox Asy, (540 RPM)
+1       00770724     1      Housing
+2       00770725     1      Bearing Asy
+3       00770726     1      Oil Seal
+5       00771227     1      Blade Hub, Weld on & Not Shown
+6       00771226     1      Flange Nut
+7       01422502     1      Cotter Pin
+8       00770728     1      Vertical Output Shaft
+9       00770738     1      14 Tooth Gear (540 RPM)
+10      00762121     1      Bearing Adjusting Nut
+11      00606000     1      Cotter PIn
+12      00755628     3      Bearing Asy
+13      00758667     A/R    Shim (0.30)
+15      00758668     A/R    Shim (0.50)
+16      00770739     1      17 Tooth Gear (540 RPM)
+17      00758657     1      Input Shaft Spacer
+18      00766083     12     Lockwasher
+19      00754338     4      Bolt
+20      00762517     1      Plug, Oil Level Plug (Side of Housing Not Shown)
+21      00769321     2      Sealing Washer (i f/item 20 & 1 f/ item 32)
+22      00770732     1      Inspection Cover
+23      00770733     1      Inspection Cover Gasket
+24      00758646     A/R    Gasket (0.10)
+25      00758647     A/R    Gasket (0.25)
+26      00758648     A/R    Gasket (0.50)
+27      00765905     8      Bolt
+28      00770734     1      Input Cap
+29      00758653     1      Oil Seal
+30      00770735     1      Input Shaft
+31      00770731     1      Input Shaft Spacer
+32      00762517     1      Plug, For Shipping (Remove before Operating)
+32      00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
+
+GEARBOX P/N 00769924
+Item     Part No.     Qty    Description
+0        00769924     --     Gearbox Asy, (1000 RPM)
+1        00770724     1      Housing
+2        00770725     1      Bearing Asy
+3        00770726     1      Oil Seal
+4        00770727     1      Seal Protector
+6        00771226     1      Flange Nut
+7        01422502     1      Cotter PIn
+8        00770728     1      Vertical Output Shaft
+9        00770739     1      17 Tooth Gear (1000 RPM)
+10       00762121     1      Bearing Adjusting Nut
+11       00606000     1      Cotter PIn
+12       00755628     3      Bearing Asy
+13       00770731     1      Input Shaft Spacer
+14       00766083     12     Lockwasher
+15       00754338     4      Bolt
+16       00762517     1      Plug, Oil Level Plug  (Side of Housing Not Shown)
+17       00769321     2      Sealing Washer
+18       00770732     1      Inspection Cover
+19       00770733     1      Inspection Cover Gasket
+20       00758646     A/R    Gasket (0.10)
+21       00758647     A/R    Gasket (0.25)
+22       00758648     A/R    Gasket (0.50)
+23       00765905     8      Bolt
+24       00770734     1      Input Cap
+25       00758653     1      Oil Seal
+26       00770735     1      Input Shaft
+27       00770738     1      14 Tooth Gear (1000 RPM)
+28       00758657     1      Input Shaft Spacer
+29       00758667     A/R    Shim (0.30)
+30       00758668     A/R    Shim (0.50)
+31       00762517     1      Plug, For Shipping (Remove before Operating)
+31       00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
+
+GEARBOX P/N 00769927
+Item    Part No.     Qty    Description
+0       00769927     --     Gearbox Asy, (1000 RPM)
+1       00770724     1      Housing
+2       00770725     1      Bearing Asy
+3       00770726     1      Oil Seal
+5       00771227     1      Blade Hub, Weld on & Not Shown
+6       00771226     1      Flange Nut
+7       01422502     1      Cotter Pin
+8       00770728     1      Vertical Output Shaft
+9       00770739     1      17 Tooth Gear (1000 RPM)
+10      00762121     1      Bearing Adjusting Nut
+11      00606000     1      Cotter PIn
+12      00755628     3      Bearing Asy
+13      00758667     A/R    Shim (0.30)
+15      00758668     A/R    Shim (0.50)
+16      00770738     1      14 Tooth Gear (1000 RPM)
+17      00758657     1      Input Shaft Spacer
+18      00766083     12     Lockwasher
+19      00754338     4      Bolt
+20      00762517     1      Plug, Oil Level Plug (Side of Housing Not Shown)
+21      00769321     2      Sealing Washer (i f/item 20 & 1 f/ item 32)
+22      00770732     1      Inspection Cover
+23      00770733     1      Inspection Cover Gasket
+24      00758646     A/R    Gasket (0.10)
+25      00758647     A/R    Gasket (0.25)
+26      00758648     A/R    Gasket (0.50)
+27      00765905     8      Bolt
+28      00770734     1      Input Cap
+29      00758653     1      Oil Seal
+30      00770735     1      Input Shaft
+31      00770731     1      Input Shaft Spacer
+32      00762517     1      Plug, For Shipping (Remove before Operating)
+31      00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
+
+GEARBOX P/N 00769930
+Item    Part No.     Qty    Description
+0       00769930     --     Gearbox Asy,  (1000 RPM)
+1       00770724     1      Housing
+2       00770725     1      Bearing Assembly
+3       00770726     1      Oil Seal
+6       00771226     1      Nut
+7       01422502     1      Cotter Pin
+8       00770728     1      Output Shaft
+9       00770729     1      Gear, Output (19 Tooth) Center (1000 RPM)
+10      00770730     1      Bearing Adjusting Nut
+11      00606000     1      Cotter Pin
+12      00755628     3      Bearing Assembly
+13      00770731     1      Shaft Spacer
+14      00766083     12     Washer
+15      00754338     4      Bolt
+16      00762517     1      Plug, Oil level
+17      00769321     3      Washer, Sealing
+18      00770732     1      Inspection Cover
+19      00770733     1      Inspection Cover Gasket
+20      00758646     VAR    Shim Adjustment (0.10)
+21      00758647     VAR    Shim Adjustment (0.25)
+22      00758648     VAR    Shim Adjustment (0.50)
+23      00765905     8      Bolt
+24      00770734     1      Input Cap
+25      00758653     1      Oil Seal
+26      00770735     1      Input Shaft
+27      00770736     1      Gear, Input (13 Tooth) Center (1000 RPM)
+28      00758657     1      Spacer
+29      00758667     VAR    Shim (0.30)
+31      00758668     VAR    Shim (0.50)
+32      00762114     1      Pressure Plug Vent (To Be Installed before Operating)
+
+
+
+
+GEARBOX P/N 00770367
+Item   Part No.     Qty   Description
+0      00770367     --    Gearbox Asy
+1      00770398     1     Spacer, Input Shaft
+2      00564600     1     Input Gear
+3      00564100     1     Retaining Ring
+4      00758654     1     Vent Plug (Tapered)
+4      00762114     1     Vent Plug (Straight)
+4      00769321     1     Washer (Straight)
+5      00770399     1     Input Shaft
+6      00770400     1     Housing
+7      00758671     a/r   Shim  (0.20)
+8      00563700     2     Bearing
+9      00770401     1     Shaft / Pinion Output
+10     00770402     a/r   Shim, Pinion Adj.
+11     00770403     1     Shim, Pinion Spacer
+12     00758660     1     Retaining Ring
+13     00770368     1     Bearing Spacer
+14     00760929     a/r   Gasket 0.30
+15     00760928     a/r   Gasket 0.13
+16     00758721     1     Cap, Output
+17     00758674     1     Seal, Output
+18     00758692     1     Nut
+19     00606000     1     Cotter Pin
+20     00758659     10    Bolt
+21     00755954     10    Lockwasher
+22     00755628     2     Bearing
+23     00564400     a/r   Gasket 0.30
+24     00770404     1     Input Cap
+25     00564200     1     Seal, Input
+
+
+
+
+GEARBOX P/N 00771225
+Item    Part No.     Qty    Description
+0       00771225     --     Gearbox Asy,  (540 RPM)
+1       00770724     1      Housing
+2       00770725     1      Bearing Assembly
+3       00770726     1      Oil Seal
+6       00771226     1      Nut
+7       01422502     1      Cotter Pin
+8       00770728     1      Output Shaft
+9       00770736     1      Gear, Output 13 Tooth  (540 RPM)
+10      00762121     1      Bearing Adjusting Nut
+11      00606000     1      Cotter Pin
+12      00755628     3      Bearing Assembly
+13      00770731     1      Shaft Spacer
+14      00766083     12     Washer
+15      00754338     4      Bolt
+16      00762517     1      Plug, Oil level
+17      00769321     3      Washer, Sealing
+18      00770732     1      Inspection Cover
+19      00770733     1      Inspection Cover Gasket
+20      00758646     VAR    Shim Adjustment (0.10)
+21      00758647     VAR    Shim Adjustment (0.25)
+22      00758648     VAR    Shim Adjustment (0.50)
+23      00765905     8      Bolt
+24      00770734     1      Input Cap
+25      00758653     1      Oil Seal
+26      00770735     1      Input Shaft
+27      00770736     1      Gear, Input 13 Tooth  (540 RPM)
+28      00758657     1      Spacer
+29      00758667     VAR    Shim (0.30)
+31      00758668     VAR    Shim (0.50)
+32      00762114     1      Pressure Plug Vent (To Be Installed before Operating)
+
+
+
+
+GEARBOX P/N 00775919
+Item   Part No.     Qty   Description
+0      00775919     1     Gearbox Asy (540 RPM
+1      00775921     1     Housing
+2      00755954     8     Lockwasher
+3      00758659     8     Bolt
+4      00758664     4     Input Cap
+5      00758689     1     Input Shaft
+6      00773640     1     Input Seal
+7      00758667     AR    Shim
+8      00758668     AR    Shim
+9      00758646     AR    Input Cap Gasket
+10     00758647     AR    Input Cap Gasket
+11     00759977     1     Spacer
+12     00775923     1     Output Spacer
+13     00758663     1     Output Cap
+14     00758672     4     Lockwasher
+15     02959661     4     Bolt
+17     00606000     1     Cotter Pin
+18     00758692     1     Flanged Nut
+19     00758674     1     Oil Seal
+20     00758676     AR    Gasket
+21     00758677     AR    Gasket
+22     00775922     1     Output Shaft
+23     00769938     2     Bearing Assembly
+24     00758693     1     Gear, Output 13 Tooth (540 RPM)
+25     00770730     1     Bearing Adjusting Nut
+26     00770421     1     Cotter Pin
+27     00755615     2     Bearing Assembly
+28     00770737     2     Drain Plug
+29     00769321     3     Sealing Washer
+30     00758657     1     Spacer
+31     00758694     1     Gear, Input 19 Tooth (540 RPM)
+32     00762114     1     Vent Plug
+33     00750952     6     Bolt
+33     00756077     6     Washer
+33     00695100     6     Locknut
+
+
+
+
+GEARBOX P/N 02978513
+Item      Part No.       Qty.     Description
+0         02978513       --       Gearbox Asy, (540 RPM)
+1         02978747       1        Casing
+2         02978748       2        Bearing
+3         02978733       1        Oil seal
+4         02978749       1        Input shaft
+5         02978750       2        Snap ring
+6         02978751       2        Shim
+7         02978752       1        Cotter pin
+8         02978753       1        Nut
+9         02978754       1        Gear, (540  RPM)
+10        02978758       1        Shaft, Input
+11        02978755       1        Seal Protector
+12        02978756       1        Oil seal
+13        02978757       1        Bearing
+14        02978759       1        Bearing
+15        02978760       1        Shim
+16        02978761       1        Shim
+17        02978762       1        Cap
+18        02978763       4        Bolt
+19        02978764       1        Plug
+20        02978765       1        Cover
+21        02978766       1        Gear, ( 540 RPM)
+22        02978767       1        Castle nut
+23        02978768       1        Flat washer
+24        02978769       1        Washer, disc spring
+25        02978770       1        Splined hub (Welded to Blade Carrier)
+26        02978771       1        Cotter pin
+
+
+
+
+GEARBOX P/N 02978514
+Item    Part No.     Qty.   Description
+0       02978514     --     Gearbox Asy. (540 RPM)
+1       02978732     2      Shaft 1-3/4" X 20 Spline
+2       02978733     2      Oil Seal
+3       02978731     2      Plug
+4       02978735     2      Snap Ring
+5       02978734     2      Bearing
+6       02978736     2      Gear,  (540 RPM)
+7       02978734     2      Bearing
+8       02978737     2      Shim Kit
+9       02978738     1      Casing
+10      02978739     2      Snap Ring Lining
+11      02978740     2      Oil Seal
+12      02978741     2      Shim
+13      02978742     1      Bearing
+14      02978743     1      Shaft 1-3/4" X 20 Spline
+15      02978744     1      Snap Ring
+16      02978742     1      Bearing
+17      02978746     1      Gear,  (540 RPM)
+18      02978727     1      Plug
+19      02978730     6      Spring Washer
+20      02978729     6      Bolt
+21      02978728     1      Cover, Top
+22      000944       4      Lock Nut, (f/mounting Gearbox)
+23      00753753     4      Bolt, (f/mounting Gearbox
+
+
+
+
+GEARBOX P/N 02978523
+Item      Part No.       Qty.     Description
+0         02978523       --       Gearbox Asy, (540 or 1000 RPM)
+1         02978747       1        Casing
+2         02978748       2        Bearing
+3         02978733       1        Oil seal
+4         02978749       1        Input shaft
+5         02978750       2        Snap ring
+6         02978751       2        Shim
+7         02978752       1        Cotter pin
+8         02978753       1        Nut
+9         02978772       1        Gear, 540 or 1000 RPM
+10        02978758       1        Shaft, Input
+11        02978755       1        Seal Protector
+12        02978756       1        Oil seal
+13        02978757       1        Bearing
+14        02978759       1        Bearing
+15        02978760       1        Shim
+16        02978761       1        Shim
+17        02978762       1        Cap
+18        02978763       4        Bolt
+19        02978764       1        Plug
+20        02978765       1        Cover
+21        02978773       1        Gear, ( 540 or 1000 RPM)
+22        02978767       1        Castle nut
+23        02978768       1        Flat washer
+24        02978769       1        Washer, disc spring
+25        02978770       1        Splined hub (Welded to Blade Carrier)
+26        02978771       1        Cotter pin
+
+
+
+
+GEARBOX P/N 02978533
+Item      Part No.       Qty.     Description
+0         02978533       --       Gearbox Asy, (540 or 1000 RPM)
+1         02978747       1        Casing
+2         02978748       2        Bearing
+3         02978733       1        Oil seal
+4         02978749       1        Input shaft
+5         02978750       2        Snap ring
+6         02978751       2        Shim
+7         02978752       1        Cotter pin
+8         02978753       1        Nut
+9         02978772       1        Gear, (540  or 1000 RPM)
+10        02978758       1        Shaft, Input
+11        02978755       1        Seal Protector
+12        02978756       1        Oil seal
+13        02978757       1        Bearing
+14        02978759       1        Bearing
+15        02978760       1        Shim
+16        02978761       1        Shim
+17        02978762       1        Cap
+18        02978763       4        Bolt
+19        02978764       1        Plug
+20        02978765       1        Cover
+21        02978773       1        Gear, ( 540 or 1000 RPM)
+22        02978767       1        Castle nut
+23        02978768       1        Flat washer
+24        02978769       1        Washer, disc spring
+25        02978770       1        Splined hub (Welded to Blade Carrier)
+26        02978771       1        Cotter pin
+
+
+
+
+GEARBOX P/N 02978968
+Item    Part No.     Qty.   Description
+0       02978968     --     Gearbox Asy. (1000 RPM)
+1       02978732     2      Shaft 1-3/4" X 20 Spline
+2       02978733     2      Oil Seal
+3       02978731     2      Plug
+4       02978735     2      Snap Ring
+5       02978734     2      Bearing
+6       02978969     2      Gear, (1000 RPM)
+7       02978734     2      Bearing
+8       02978737     2      Shim Kit
+9       02978738     1      Casing
+10      02978739     2      Snap Ring Lining
+11      02978740     2      Oil Seal
+12      02978741     2      Shim
+13      02978742     1      Bearing
+14      02978743     1      Shaft 1-3/4" X 20 Spline
+15      02978744     1      Snap Ring
+16      02978742     1      Bearing
+17      02978970     1      Gear, (1000 RPM)
+18      02978727     1      Plug
+19      02978730     6      Spring Washer
+20      02978729     6      Bolt
+21      02978728     1      Cover, Top
+22      000944       4      Lock Nut, (f/mounting Gearbox)
+23      00753753     4      Bolt, (f/mounting Gearbox
+
+
+
+
+GEARBOX P/N 02978971
+Item      Part No.       Qty.     Description
+0         02978971       --       Gearbox Asy, (1000 RPM)
+1         02978747       1        Casing
+2         02978748       2        Bearing
+3         02978733       1        Oil seal
+4         02978749       1        Input shaft
+5         02978750       2        Snap ring
+6         02978751       2        Shim
+7         02978752       1        Cotter pin
+8         02978753       1        Nut
+9         02978972       1        Gear, (1000  RPM)
+10        02978758       1        Shaft, Input
+11        02978755       1        Seal Protector
+12        02978756       1        Oil seal
+13        02978757       1        Bearing
+14        02978759       1        Bearing
+15        02978760       1        Shim
+16        02978761       1        Shim
+17        02978762       1        Cap
+18        02978763       4        Bolt
+19        02978764       1        Plug
+20        02978765       1        Cover
+21        02978973       1        Gear, ( 1000 RPM)
+22        02978767       1        Castle nut
+23        02978768       1        Flat washer
+24        02978769       1        Washer, disc spring
+25        02978770       1        Splined hub (Welded to Blade Carrier)
+26        02978771       1        Cotter pin
+
+
+
+
+GEARBOX P/N 4800
+Item  Part No. Qty    Description
+0     4800    --      Gearbox Asy, (540 RPM)
+1     4829     1      Casing
+2     4832     1      Key
+3     4833     3      Bearing
+4     4834     1      Oil Seal
+5     4835     1      Input Shaft
+6     4836     1      Crown Gear (30 teeth)
+7     4837     1      Spacer
+8     4838     1      Internal Clip
+9     4839     1      External Clip
+10    4847     1      Shoulder Ring
+11     4848    1      Seal, Dust Shield
+12     4849    2      Shim
+13     4850    1      Output Shaft (12 teeth)
+14     4851    2      Plug
+15     4852    1      Bearing
+16     4853    1      Cover
+17     4855    1      Shoulder Ring
+18     4857    1      O-Ring
+19     4840    1      Nut Slotted (Not Shown)
+20     4846    1      Washer  (Not Shown)
+21     7343    1      Cotter Pin (Not Shown)
+
+
+
+
+GEARBOX P/N 700493
+Item Part No.  Qty  Description
+700793   -    Gearbox Asy.
+1     100225   1    Pinion Shaft
+2     100055   1    Seal, Output
+3     000330   1    Retaining Ring
+4     100707   1    Seal Housing
+5     100232   a/r  Shim (.020")
+5     100233   a/r  Shim (.007")
+5     100234   a/r  Shim (.005")
+5     100235   a/r  Shim (.002")
+6     100241   1    Spacer
+7     100237   a/r  Shim (.002")
+7     100238   a/r  Shim (.004")
+7     100239   a/r  Shim (.006")
+7     100240   a/r  Shim (.020")
+8     000331   1    Retainer Ring
+9     000329   1    Bearing, Cone
+10    000327   4    Bearing, Cup
+11    000328   3    Bearing, Cone
+12    100231   1    Bearing Cap
+13    000354   16   Bolt
+14    000019   20   Lockwasher
+15    100228   1    Gear Housing
+16    700495   1    Shaft & Gear Asy
+17    100229   1    Housing Cover
+18    100054   1    Seal, Input
+19    100230   1    Seal Housing
+20    000601   4    Bolt
+21    000054   1    Pipe Plug, Level (1/2")
+22    000055   1    Pipe Plug, Fill  (1/4" )
+
+
+
+
+GEARBOX P/N 702673
+Item Part No.  Qty  Description
+0    702673    -   Gearbox Asy.
+1    001718    1   Pinion
+2    001719    1   Seal
+3    001717    1   Nut
+4    001720    1   Spring Washer
+5    00754757  2   Bearing, Roller
+6    001716    1   Spacer
+7    00754752  2   Circlip, Internal
+8    001722    1   Bearing, Roller
+9    00753222  2   Shim
+10   00754761  1   Shim
+11   001724    1   Seal
+12   001725    1   Shaft & Gear
+13   00754459  1   Bearing, Ball
+14   001708    8   Bolt
+15   001710    1   Cover
+16   00755633  2   Plug
+17   000055    2   Plug, Drain
+18   002516    1   Housing
+19*  00769800  1   Gasket (See * NOTE:)

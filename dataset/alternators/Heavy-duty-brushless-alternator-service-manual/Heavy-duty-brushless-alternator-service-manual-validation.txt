@@ -1,0 +1,71 @@
+﻿Illus
+No     Name                                               Qty.
+1      Housing, Rectifier End                             1
+2      Bearing, Outer Race                                1
+3      Bearing, Inner Race                                1
+4      Frame, Drive End                                   1
+5      Bearing, Ball                                      1
+6      Regulator                                          1
+7      Diode Trio                                         1
+8      Bridge, Rectifier                                  1
+9      Field Coil & Support                               1
+10     Rotor Assembly                                     1
+11     Stator Assembly                                    1
+12     Capacitor                                          1
+13     Fan                                                1
+14     Pulley (Not Shown)                                 N/A
+15     Plate, Cover                                       1
+16     Retainer, Bearing                                  1
+17     Bushing, Rectifier End                             1
+18     Package, Output Terminal                           1
+19     Package, Relay Terminal                            1
+20     Package, Indicator Light Terminal                  1
+21     Package, Hardware                                  1
+A      Field Coil Leads                                   2
+B      Stator Leads                                       3
+C      Insulator, Grommet                                 1
+18     Output Terminal Package                            1
+181    Nut, Hex Head                                      2
+182    Washer, Flat                                       2
+183    Insulator                                          1
+184    Insulator, Housing                                 1
+185    Insulator, Connector                               1
+18.    Strap, Output                                      1
+187    Stud, Output                                       1
+19     Relay Terminal Package                             1
+191    Nut, Hex Head                                      1
+192    Washer, Lock                                       1
+193    Stud, Relay                                        1
+194    Insulator, Terminal                                1
+195    Washer (Square)                                    1
+196    Insulator, Housing                                 1
+197    Washer, Flat                                       1
+198    Strap, Relay                                       1
+199    Nut, Hex Flanged                                   1
+20     Indicator Light Terminal Package                   1
+201    Nut, Hex Head                                      1
+202    Washer, Lock                                       1
+203    Stud, Indicator Light                              1
+204    Insulator, Terminal                                1
+205    Washer (Square)                                    1
+206    Insulator, Housing                                 1
+207    Washer, Flat                                       1
+208    Strap, Indicator                                   1
+209    Nut, Hex Flanged                                   1
+21     Hardware Package                                   1
+211    Nut, Lock                                          1
+212    Washer, Flat                                       1
+213    Bolt, Thru                                         4
+214    Screw, Retainer                                    4
+215    Collar, Shaft                                      1
+216    Screw, Cover Plate                                 4
+217    Screw, Insulated Hex Head (Regulator, Short)       2
+218    Nut, Hex Head                                      4
+219    Connector, Bridge to Regulator Stud                1
+220    Cover, Terminal                                    1
+221    Screw, Hex Head, Field Coil Attch.                 4
+222    Plug, Rectifier Housing                            1
+223    Screw and Lockwasher Assembly                      1
+224    Screw, Ground                                      3
+225    Cap, Pin Terminal                                  1
+226    Screw, Insulated Hex head (Rectifier, Long)        2

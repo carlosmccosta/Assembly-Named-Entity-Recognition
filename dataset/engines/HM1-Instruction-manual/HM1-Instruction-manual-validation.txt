@@ -1,0 +1,50 @@
+HM1 Steam Engine Kit Parts List
+
+Main Bag
+	1	80006	Instruction Manual
+	1	39011	Abrasive Paper, 400 grit
+	1	A2023	Flywheel
+
+Bag A
+	3	10001	Nut, 0-80, 3/32” AF
+	5	10212	Machine Screw, 0-80 x 3/16” Pan Head Slot, Stainless Steel
+	6	10808	Machine Screw, 0-80 x 1/8” Hex Head, Brass
+	4	10820	Machine Screw, 0-80 x 5/16” Hex Head, Brass
+	1	12608	Set Screw, 2-56 x 1/8”, Stainless Steel
+	8	12812	Machine Screw, 2-56 x 3/16” Hex Head, Brass
+	1	17808	Shoulder Bolt, 0-80, Hex Head, Brass
+	1	19000	Nut, 00-90, 5/64” AF, Brass
+	1	40009	O-Ring, AS-568-009, Buna-N
+	1	40030	Wrench, Hex Key, .035” AF
+	1	40043	E-Ring, E-18
+	1	51011	Wrench, Combination Open End 3/32 - 5/64
+	1	51101	Wrench, Socket, 3/32” AF
+	1	51102	Wrench, Socket, 1/8” AF
+
+Bag B
+	2	53068	Crosshead Guide Rods
+	1	53112	Cylinder Mount
+	1	53113	Cylinder
+	1	53115	Cylinder Cover, Plain
+	1	53122	Ferrule, Crosshead to Piston Rod
+	1	53123	Fork, Piston Rod to Connecting Rod
+	1	53124	Crosshead Guide Support
+	1	53125	Connecting Rod
+	1	53127	Slide Valve
+	1	53133	Steam Chest Cover
+
+Bag C
+	1	A1005	Steam Pipe Assembly
+	1	A1006	Exhaust Pipe Assembly
+	1	A2015	Piston and Rod Assembly
+	1	A2016	Crosshead Assembly
+	1	A2017	Steam Chest Assembly
+	2	A2018	Bearing Assembly
+	1	A2020	Valve Spindle Assembly
+	1	A2021	Cylinder Cover Assembly with Seal
+	1	A2022	Crankshaft Assembly
+
+Bag D
+	1	53105	Base
+	1	A2019	Eccentric Strap Assembly
+	1	80007	Gasket Set

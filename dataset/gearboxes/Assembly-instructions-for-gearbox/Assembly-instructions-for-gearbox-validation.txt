@@ -1,0 +1,57 @@
+﻿Appendix A             Parts List
+
+Component       Part Number    Description                               Qty. Per 
+                RA553455S1     GEARBOX ASSEMBLY                          1 
+                MRA-200        GEARBOX INTERNALPARTS KIT                 1 
+       1        NUT-020        M16 NUT                                   3 
+       2        MRA-248        SELECTOR ROD - 5TH/REV                    1 
+       3        MRA-252        SELECTOR FORK - 5TH/REV                   1 
+       4        MRA-247-A      SELECTOR ROD 3rd/4th- ASSY                1 
+       5        MRA-251        SELECTOR FORK - 3RD/4TH                   1 
+       6        MRA-250        SELECTOR FORK - 1ST/2ND                   1 
+       7        MRA-246        SELECTOR ROD                              1 
+       8        MRA-4TH-SET    4TH GEAR SET - CONSISTS OF:               1 
+       8a       MRA-233-18/20  INPUT GEAR                                1 
+       8b       MRA-235-18/20  PINION GEAR                               1 
+       9        MRA-221-SET    MAINSHAFT AND FINAL DRIVE                 1 
+       10       MRA-234-SET    LAYSHAFT SET - CONSISTS OF:               1 
+       10a      MRA-234        LAYSHAFT                                  1 
+       10b      MRA-233-12/36  PINION GEAR                               1 
+       10c      MRA-233-13/26  PINION GEAR                               1 
+       11       MRA-237        REVERSE IDLER GEAR                        1 
+       12       MRA-5TH-SET    5TH GEAR SET - CONSISTS OF:               1 
+       12a      MRA-233-28/24  INPUT GEAR                                1 
+       12b      MRA-235-28/24  PINION GEAR                               1 
+       13       FT-219-1A      CIRCLIP                                   2 
+       14       BEA-029        BEARING                                   6 
+       15       MRA-221-2      MAINSHAFT SPACER - HUB                    2 
+       16       MRA-221-1      MAINSHAFT SPACER                          1 
+       17       BEA-148        BEARING (NJ207EC)                         1 
+       18       BEA-099        BEARING (NJ2207EC)                        1 
+       19       LIP-041        OIL SEAL                                  1 
+       20       MRA-226        1ST/2ND HUB                               1 
+       21       ST-228         3RD/4TH HUB                               1 
+       22       MRA-228        5TH/REVERSE HUB                           1 
+       23       MRA-221-3      MAINSHAFT SPACER                          1 
+       24       DGB-232-S      CLUTCH RING                               3 
+       25       CIR-076        CIRCLIP                                   1 
+       26       MRA-231        REVERSE PINION GEAR                       1 
+       27       MRA-246-1      SELECTOR SPACER (3-OFF EACH)              1 
+       28       MRA-3RD-SET    3RD GEAR SET - CONSISTS OF:               1 
+       28a      MRA-233-17/25  INPUT GEAR                                1 
+       28b      MRA-235-17/25  PINION GEAR                               1 
+       29       DG-265-6       KEY                                       1 
+       30       MRA-248-1      KEY                                       2 
+                SK-1698        FORK SETTING FIXTURE                      1 
+
+OPTION PARTS 
+For strong neutral shift return 
+       1        MD771659       SPRING, NEUTRAL RETURN                    1 
+       2        MD771658       SPRING, NEUTRAL RETURN                    1 
+       3        MD747930       DETENT                                    3 
+Evolution 7 conversion parts. 
+       1        MD771828       BRACKET ASSEMBLY, SHIFT CABLE             1 
+       2        MD756706       SLEVE, SPEED METER DRIVEN GEAR            1 
+       3        MD747055       GEAR SPEED SENSOR                         1 
+       4        MR581401       M/T CASE BRACKET                          1 
+       5        MF241250       BOLT, WASHER ASSEMBLY (M8X14)             1 

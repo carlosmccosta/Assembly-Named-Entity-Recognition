@@ -1,0 +1,54 @@
+Assembly
+During assembly, it is suggested that you mark each paragraph of the instructions as you complete it. This will help you to avoid skipping a section should you be interrupted during the assembly process.
+Begin by “lapping” all the mating and working surfaces. Refer to the General Procedures section on lapping if necessary. The areas that require lapping are:
+Both open ends of the cylinder (53113)
+The port face of the cylinder (the side with the 3 openings)
+The valve face (53127) with the shallow rectangular opening
+Both sides of the steam chest assembly (A2017)
+The flat side of the steam chest cover (53133)
+The flat side of the cylinder cover assembly (A2021)
+One side of the plain cylinder cover (53115
+If you intend to polish your engine, polish these parts at the same time you lap them.
+Clean all of the lapped parts. Be sure no abrasive residue remains in the steam passages in the cylinder or in the seals on each end of the steam chest and cylinder cover assembly.
+Install the piston O-Ring (40009) in the groove of the piston assembly (A2015).
+Place the cylinder on end with the port face to the left and the mounting face toward you.
+Install the cylinder cover assembly on the top end of the cylinder using an oiled gasket. Using the 3/32” hex socket wrench (51101), install four 0-80 x 1/8” hex head screws (10808) to attach the cylinder cover. Snug but DO NOT tighten the bolts.
+Place a drop of oil in the piston rod hole on the cylinder cover assembly. Place a drop of oil on the O-ring on the piston assembly and on the piston rod.
+Insert the piston assembly, rod end first, into the open end of the cylinder, passing the piston rod through the seal in the cylinder cover assembly.
+Press the piston completely into the cylinder so it touches the cylinder cover assembly. Loosen the four bolts holding the cylinder cover, then gently snug the two screws AWAY from the port face. Now tighten the two screws NEAREST the port face. Now remove the two screws farthest away from the port face. Later, the two cross guide rods (53068) will be installed where the screws were removed.
+The purpose of this last exercise is to center the cylinder cover assembly and seal on the cylinder bore. To check this, slide the piston from one end to the other in the cylinder, using the piston rod. It may feel a little stiff as the seals will remain tight until the engine has run for a few hours. However, it should feel even from one end to the other.
+Test fit the valve spindle assembly in the slots in the valve (53127). The spindle must drop into the narrow slots with the enlarged section engaged in the wide slot. The valve must be free to move on the spindle so it can seat on the cylinder port face. If the spindle is tight in any of the valve slots, open the slot up SLIGHTLY with a small file or the abrasive paper supplied in the kit.
+Remove the valve spindle from the valve. Place a drop of oil in the hole on each end of the steam chest (A2017). This is to lubricate the seals that the valve spindle passes through. Insert the threaded end of the valve spindle through one of the seal holes from the inside of the steam chest. Slide it in until the other end will fit inside the steam chest. Then slide this end through the seal on the other end of the steam chest. Center the enlarged portion of the spindle in the steam chest.
+Coat the port face of the cylinder with oil. Place a gasket on the port face. Place the valve on the port face with the shallow recess covering the port openings in the cylinder. With the threaded end of the valve spindle in the same direction as the threaded end of the piston rod, set the steam chest on the cylinder and align it so the valve spindle drops into the slots in the valve.
+Secure the chest to the cylinder using two 0-80 x 5/16” hex head screws (10820). DO NOT attempt to tighten these screws as the threaded holes in the cylinder are not deep enough to permit the screws to tighten onto the steam chest.
+Thread the 00-90 nut (19000) on the valve spindle.
+Mount the cylinder to the cylinder mount (53112) using four 0-80 x 3/16” pan head slotted stainless steel screws (10212).
+Attach the cylinder mount to the base (53105) using four 2-56 x 3/16” hex head screws. The threaded ends of the piston rod and valve spindle face the opposite end of the base.
+Thread a 0-80 nut (10001) on each crosshead guide rod (53068).
+Install the crosshead guide rods into the two empty holes in the cylinder cover. The rods should be threaded in as far as possible with only finger pressure, and for appearance purposes, should then be adjusted so the ends are an equal distance from the cylinder. Tighten the nuts onto the cylinder cover.
+Slide the crosshead assembly (A2016) on the crosshead guide rods so the large hole is centered on the piston rod. The taper on the crosshead guide bearings can face either toward or away from the cylinder.
+Slide the crosshead guide support (53124) on the crosshead guide rods and secure it to the base with a 0-80 x 3/16” pan head slotted stainless steel screw.
+Slide the crosshead assembly against the crosshead guide support.
+Place the ferrule (53122) on the piston rod with the small hole in the ferrule facing the cylinder. The threads on the piston rod will be concealed inside the ferrule.
+Insert the connecting rod fork (53123) through the crosshead assembly and slide the assembly to the piston rod. The round end of the connecting rod fork will start to enter the ferrule on the piston rod. Insert a 3/32” blade screwdriver in the slot on the piston and thread the piston rod into the fork. Leave it slightly loose so the fork can be rotated. It will be tightened later.
+Thread the eccentric strap assembly (A2019) 5 turns onto the valve spindle. Then rotate it until the side that has the bearing protruding faces the slot in the base. Do NOT tighten the 00-90 nut on the valve spindle.
+Attach one bearing assembly (A2018) to the base near the center of the base using 2-56 x 3/16” hex head screws. The side with the protruding bearing is away from the flywheel slot in the base.
+Slide the eccentric portion of the flywheel hub (A2023) into the eccentric strap assembly bearing. Lower the flywheel into the slot in the base. Slide the crankshaft assembly (A2022) through the bearing and then through the flywheel.
+Slide the other bearing assembly on the crankshaft with the protruding bearing away from the flywheel. Secure the bearing assembly to the base with 2-56 x 3/16” hex head screws.
+Oil the crankshaft bearings and the eccentric.
+Check that the crankshaft turns freely in the bearing assemblies. It may be slightly stiff, but should not be binding while rotating. If the crankshaft does not turn freely, loosen all the screws holding the bearing assemblies to the base and then tighten them a little at a time so all the screws are tightened evenly.
+Carefully inspect the connecting rod (53125). Notice that on one end, the rod has a slight protrusion around the hole on one side. Slide the connecting rod onto the crankpin of the crankshaft assembly so this protrusion is next to the crankdisk of the crankshaft. This spaces the connecting rod away from the crankdisk so it does not rub.
+Place the other end of the connecting rod in the slot in the fork attached to the crosshead. Move the piston and/or rotate the crankshaft until the holes in the fork line up with the hole in the connecting rod. Place the head of the shoulder bolt (17808) into the 3/32” hex wrench and use it to hold the bolt while you insert the bolt through the fork and connecting rod. Start it from the side nearest the crosshead guide rods. Place a 0-80 nut on the shoulder bolt and tighten.
+Hold the connecting rod with needle nose pliers near the crosshead. Place tape or paper on the jaws of the pliers to keep from scratching the connecting rod. Now tighten the piston into the crosshead guide with a screwdriver in the slot of the piston while keeping the fork from rotating by holding the connecting rod with the pliers. When finished, the fork must not bind on the connecting rod.
+Slide the eccentric strap back onto the eccentric hub of the flywheel because it will have probably fallen off by now. A groove will be visible in the eccentric. Rotate the flywheel so the eccentric strap moves as far away from the base as possible. The set screw hole in the flywheel will be approximately on top. Place the points of the E-ring (40043) into the groove of the eccentric. Press the ring down until it snaps in place. The points will center up on the crankshaft to keep the ring from rotating. Rotate the flywheel while observing the E-ring. If properly installed, the outer edge of the ring will be concentric with the eccentric strap.
+Install the 2-56 set screw (12608) in the flywheel hub but do not tighten.
+NOTE: When tightening the set screw in the following steps, position the flywheel on the crankshaft so it is near but not touching the bearing at the crankdisk end of the crankshaft. The crankdisk should be touching the bearing.
+Rotate the crankshaft until the crankpin is nearest the cylinder. Make sure the setscrew in the flywheel is still on top. Tighten the setscrew.
+Observe the valve in the steam chest while rotating the flywheel. The valve will uncover a portion of the cylinder ports at each end of its travel. At each extreme of travel, the amount of the port uncovered should be the same. If it is not, rotate the valve spindle with needle nose pliers until the amount of port uncovered at each end is the same.
+Rotate the flywheel until the crankpin is nearest the cylinder again. Observe the valve. Both ports should be covered. If both ports are not covered, loosen the set screw and repeat the last two steps until the ports are covered in both positions of the piston.
+Tighten the 00-90 nut on the valve spindle.
+Place two drops of oil in the steam chest around the valve. Press the valve against the cylinder port face. The oil will help hold the valve in place.
+Remove the two bolts holding the steam chest in place. Install the steam chest cover (53133) using an oiled gasket and the two screws just removed plus two more 0-80 x 5/16” hex head screws. Try to ensure the valve stays against the cylinder face.
+Install the plain cylinder cover (53115) with an oiled gasket using four 0-80 x 1/8” hex head screws.
+Screw the 3/32” diameter steam pipe assembly (A1005) into the steam chest cover.
+Screw the 1/8” diameter exhaust pipe assembly (A1006) into the cylinder.

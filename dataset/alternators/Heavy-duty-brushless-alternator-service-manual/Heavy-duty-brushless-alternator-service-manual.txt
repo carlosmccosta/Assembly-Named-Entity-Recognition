@@ -1,0 +1,260 @@
+DISASSEMBLY AND BENCH CHECKS
+TEST EQUIPMENT NEEDED:
+Multimeter
+Regulator Tester
+
+ALTERNATOR
+NOTICE: On some alternators on certain engine configurations, a 1.5 µf capacitor has been installed to the output terminal and attached with a cover screw. Remove the capacitor (DRA 1985444) before performing "Regulatror Quick Check.".
+Remove screws (216) and rectifier end plate (15) to expose electronics compartment. (See Fig. 12).
+Inspect electronics compartment for contamination, for shorted or grounded wires, and for loose connections. If contamination is present, clean and dry compartment before proceeding. The protective coating on all electronic components is a good insulator and must be scraped off to get a good contact for test equipment probes.
+
+FIELD COIL
+Disconnect 2 field leads (A) from regulator (6) (See Fig. 13), by removing 2 insulated regulator attachment screws (217). Use ohmmeter (or voltmeter, ammeter and battery) to check resistance of field coil.
+Compare to Field Check ohms (or volts and amps) in Specifications at the end of this manual or from Service Specification Bulletin. If outside specifications, replace field coil as described later in this manual.
+
+DIODE TRIO
+To check the diode trio (7), remove it from the electronics compartment by detaching the 3 nuts (218), stator leads (B) and attaching screw (217). Note that the insulating washer on the screw is assembled over the top of the diode trio connector. Discard screw if insulation is fractured during removal.
+
+CAPACITOR
+Remove capacitor (12) by removing the remaining two attachment screws (224) and screw (226) sliding out capacitor. (A sharp tool may be used to break varnish seal.)
+Using continuity check mode (diode check mode on digital meter), check for a shorted capacitor by touching ohmmeter leads to capacitor lead (F) and grounding tab (T). (See Fig. 15) This check should show an open circuit.
+
+REGULATOR
+To remove regulator (6) for testing, remove sense lead nut (218), bridge to regulator stud connector (219) and 2 screws (217) if not removed previously and screw (224). Disconnect “I” terminal sense lead strap to allow regulator removal. (See Fig. 16) Note: Discard insulated screw if insulation is fractured during removal.
+Check regulator on approved tester for SI type regulators. If regulator tests good, return it to service. If it tests bad, replace it. Install regulator as described later in this section.
+
+RECTIFIER BRIDGE
+Use the ohmmeter or (for digital meters) the diode check function of the multimeter to check the rectifier bridge (8). Bridge may be checked in place in the RE housing (1).
+All terminals must be disconnected from the threaded phase studs. “R” terminal and output terminal straps (198 &186) may be raised approximately one inch (2.5 cm) above rectifier for removal of diode trio (7) or rectifier bridge (8).
+Check 6 diodes as follows:
+Place negative ohmmeter lead on grounded heat sink. Touch positive ohmmeter lead firmly to metal diode clips that surround each of the 3 threaded studs. All 3 readings should be the same, and indicate open circuits. Switch leads and repeat. All 3 new readings should indicate continuity (Fig. 17)
+Repeat checks using insulated (positive) heat sink in place of grounded heat sink. With negative ohmmeter lead on insulated heat sink, all 3 readings should indicate continuity. Switch leads and repeat. All 3 new readings should indicate open circuits.
+If all readings are correct, the rectifier bridge is good.
+If any reading is wrong, an open or shorted diode is indicated and rectifier bridge should be replaced. To remove bridge, remove nut (218), nut (199) and relay strap (198) from regulator stud (193), two bridge attaching screws (226), and insulated capacitor attaching screw (224). Lift capacitor (12) and rectifier bridge (8) from SRE housing (Fig. 18).
+
+STATOR
+Disconnect the 3 stator phase leads (B) from the diode bridge studs by removing 3 nuts (218). Use continuity check function of ohmmeter to check stator windings. (See Fig. 18) Place one meter lead on one of the stator phase lead connectors and check for continuity to each of the other two stator leads.There should be continuity to both. If not, one or more of the stator coils is open; replace the stator as described later in this section.
+To check for grounds, again touch one meter lead to one of the stator phase leads, and touch the other meter lead to clean metal ground on the alternator housing. There should not be continuity. If there is continuity, the stator is grounded and should be replaced as described later in this section.
+It is not possible to detect shorted stator windings with ordinary shop equipment. However, if all other electrical checks are normal and the alternator has exhibited low output, shorted stator windings may be the cause. In such cases, replace the stator as described later in this section.
+
+FINAL DISASSEMBLY
+NOTICE: Do not damage exposed stator or field windings. Bumping or scraping these windings may break the insulation and leave a place for a short circuit or ground to develop later, causing the alternator to fail. Protect the windings from damage by careful handling.
+To replace the field coil (9), stator assembly (11), rotor assembly (10), or drive end (5) or rectifier end bearings (2), the drive end frame assembly must be separated from the rectifier end housing. (Fig. 19) Use 5/16" hex wrench or 5/16" hex drive, in the end of the shaft, to hold while removing shaft nut (211). Remove washer (212), pulley (14), and fan (13).
+Remove the 4 thru bolts (213). Carefully separate the drive end housing (4) from the stator (11) and rectifier end housing (1), taking care not to damage stator windings (See Fig. 20).
+NOTICE: Rectifier bridge must be removed before removing stator. (See Paragraph 7 and Fig. 18) To remove stator (11) from rectifier end housing (1), be sure all 3 stator leads are disconnected from diode bridge studs in electronics compartment. Pry stator and housing apart carefully. Guide stator leads and grommet (C) through well as stator is pulled from housing. It may be necessary to push on grommet with a blunt instrument to unseat it from the housing (See Fig. 21).
+To remove field coil and support (9) from rectifier end housing, (See Fig. 22) remove 4 field coil and support attaching screws (221). Lift coil and support from housing, while guiding field leads through hole.
+To remove rectifier end bearing (2) from RE housing (1), (See Fig. 23) use small screwdriver at slot to pry plug (222) from housing.
+
+NOTICE: Do not drive bearing out with hammer or other tool. Use arbor press to push bearing from housing.
+Wipe excess grease from bearing well, then press bearing through to inside of housing.
+
+If bearing inner race (3) appears to be worn or rough, remove from rotor shaft with a suitable puller.
+To replace rotor (10) or drive end bearing (5), (See Fig. 24) remove 4 bearing retainer attachment screws (214) from outside of housing (4). Lift rotor with bearing from housing, then pull bearing off of rotor shaft. If inside collar (215) appears rough or damaged, pull collar from shaft.
+NOTICE: Do not drive mounting hinge bushing from lug on rectifier end housing with a hammer or other tool. Use arbor press or vise to remove and replace bushing.
+To remove mounting hinge bushing (17) from lug on rectifier end housing (1), Press bushing from housing using arbor press with suitable tool.
+
+ALTERNATOR ASSEMBLY
+ASSEMBLY OF DE FRAME AND ROTOR
+
+INSTALL OR CONNECT
+Press inner race for rectifier end bearing (3) onto short end of rotor shaft. Stop when race is 3.7 mm (.15 in.) above end of shaft (See Fig. 25).
+Press inside collar (215) onto rotor shaft until collar is against shoulder on rotor (10). Place retainer plate (16) onto collar (flanged side of retainer will face away from rotor, toward bearing). Using open tube that bears only on inner race of bearing, press new DE bearing (5) onto rotor shaft until bearing is against collar.
+Insert bearing (5) (on rotor shaft) into bearing well in drive end frame (4). (See Fig. 26) Bearing will be a snug fit, but should slip in easily when properly aligned. Lubricate outside of bearing very lightly with ball and roller bearing lubricant (1948791) if necessary to facilitate assembly.
+Hold drive end assembly with long end of rotor shaft down so that bearing retainer plate (16) falls against housing, then align retainer with screw holes. (See Fig. 26) Start each of the four retainer attaching screws (214), then tighten screws gradually in sequence to pull retainer squarely against bearing.
+
+TIGHTEN
+Bearing retainer attaching screws (214) to 5 N.m (45 lb. in.).
+
+IMPORTANT
+To allow access for later installation of thru bolts (213), do not assemble fan and pulley to drive end assembly at this time.
+
+
+ASSEMBLY OF RECTIFIER END HOUSING AND COMPONENTS
+
+INSTALL OR CONNECT
+Lightly lubricate outside surface of hinge bushing (17). Press hinge bushing into hole in lug on rectifier end housing (1). Install bushing flush with inside of lug to allow maximum distance between two hinge lugs for mounting. Final position of hinge bushing will be adjusted during mounting (See Fig. 27).
+Position new bearing (2) into rectifier end housing (1) with seal toward rotor assembly (10) as assembled. Press bearing outer race into housing center hole until flush with machined face inside housing. (See Fig. 28) Push plug (222) into end of housing until outside edges are flush with edge of RE housing.
+Add ball and roller bearing lubricant (1948791) until cavity between plug (222) and bearing outer race (2) is about half full, placing grease so that it touches the edge of the bearing outer race in several places around the outside of the bearing. Cover opening with tape to prevent contamination.
+Turn leads so that they will be properly positioned after installation. (See Fig. 29) Place field coil and support (9) into rectifier end housing (1), guiding leads through hole into electronics compartment and aligning mounting holes in support with screw holes in rectifier housing. Ensure leads do not touch housing. Install 4 field coil and support attachment screws (221) (3 screws used in early production).
+
+TIGHTEN
+Field coil and support attachment screws (217) to 6.2 N.m (55 lb. in.).
+
+INSTALL OR CONNECT
+NOTICE: Handle stator with care to avoid bending windings or breaking varnish insulation on windings. If windings are damaged before or during installation, they may become shorted and cause reduced alternator output. Stator must be installed before rectifier.
+Straighten stator leads (B) to ease installation. Lubricate grommet (C) on stator leads lightly with petroleum jelly. Welded junction connector on some stators must be positioned straight up from windings to prevent grounding to housing or rotor when alternator is assembled. Straighten stator lead wires all the way to the windings and insert through well in housing into electronics compartment (See Fig. 30).
+Align thru-bolt holes in stator (11) with those in RE housing (1). Push stator into housing far enough to hold it in place, being sure grommet (C) on wires is inserted into well in housing at the same time. Stator lead wires should be stiff enough to push grommet into well as stator is installed (if not, carefully push on grommet with a blunt instrument to seat it in the well). The stator must be fully seated in housing at this time. Note: If necessary, place wood blocks on opposite corners of the stator frame and use arbor press (or tap blocks with hammer) to seat stator frame against rectifier end housing. Do not push against windings!
+Rectifier bridge (8) to RE housing (1).
+Install one rectifier bridge attaching screw (224) through grounded heat sink into RE housing. (Fig. 31) Finger tighten.
+Capacitor (12) to holes in end of rectifier bridge (8) (Fig. 32) Install ground screw (224) through capacitor (12), grounded heat sink, and into RE housing. Finger tighten.
+Output strap (186) over insulated rectifier and capacitor holes. (If new output terminal assembly, install per instructions in package.)
+Insulated capacitor attaching screw (226), through output strap (186), capacitor connector (12), and into RE housing. Finger tighten.
+
+INSPECT
+Regulator mounting area for presence of grease or dirt (Fig. 33). Good electrical contact is necessary in this area.
+NOTICE: Do not immerse or wet regulator with solvent. Internal damage to regulator could result.
+
+CLEAN
+Regulator mounting bosses in RE housing, metal base plate and contact rings on regulator by wiping with dry cloth.
+
+INSTALL OR CONNECT
+Regulator (6) with terminal cover (220) assembled to RE housing (1) with regulator attaching screw (224) (grounding). (See Fig. 33) Finger tighten.
+One field coil lead terminal (A) over regulator (6) mounting hole closest to terminal. (Ensure leads do not touch edge of frame hole.)
+Insulated screw (217) through lead terminal (A) and regulator (6) into rectifier end housing (1). Finger tighten.
+Bridge to regulator stud connector (219) over threaded stud of regulator (6) with nut (218). Finger tighten.
+Diode trio (7) on to 3 threaded studs on rectifier bridge (8).
+Insulated screw (217) through indicator strap (208) hole, long leg of diode trio (7) and other field coil lead terminal (A) into regulator (6) unused hole and into R.E. housing. (See Fig. 34) Finger tighten.
+Screw (226) through other hole in bridge to regulator stud connector (219) into rectifier bridge (8) and into RE housing. Finger tighten.
+
+TIGHTEN
+Two rectifier ground screws (224) to 4 N.m (35 lb. in.) (See Fig. 35)
+
+INSTALL OR CONNECT
+"R" terminal connector strap (198) over rectifier stud closest to capacitor (12). (If installing new "R" terminal follow instruction in package.) (See Fig. 35)
+Three stator leads (B) over matching rectifier bridge (8) studs.
+Three nuts (218) on rectifier bridge studs. Finger tighten.
+Secure fasteners shown in the following order (See Fig. 36)
+
+TIGHTEN
+One regulator ground (mounting) screw (224) to 2.5 N.m (23 lb. in.)
+Two insulated regulator screws (217) to 2.0 N.m (20 lb. in.)
+Two rectifier bridge insulated screws (226) to 2.0 N.m (20 lb. in)
+Three rectifier bridge nuts (218) to 2.5 N.m (23 lb. in.)
+Regulator stud nut (218) to 2.0 N.m (20 lb. in.)
+
+FINAL ALTERNATOR ASSEMBLY
+
+CLEAN
+Inner race of rectifier end bearing (3) on rotor shaft to prevent contamination of grease. (See Fig. 37) Remove tape to expose rectifier end bearing.
+Align mounting lugs and assemble two halves of alternator (See Fig. 37), inserting rectifier end bearing inner race (on rotor shaft) into bearing in rectifier end housing (1). Seat drive end housing (4) at this time. Using arbor press and appropriate block to apply even pressure on end frames.
+Insert 4 thru-bolts (213) through drive end housing (4) and stator (11) into threaded holes in rectifier end housing (1). Align housings and stator as needed to allow thru-bolts to stand straight in holes and engage threads. When all four thru-bolts are inserted, tighten them in round-robin fashion.
+
+TIGHTEN
+Thru bolts (213) to 12.4 N.m (110 lb. in.)
+After assembly, dip rectifier end frame of alternator about one and one quarter inch (1¼") deep into clear electric grade varnish or otherwise coat area of electronics to protect from corrosion (See Fig. 38).
+
+INSTALL
+NOTICE: Make sure varnish is dry before proceeding.
+After varish is dry, install rectifier end cover plate (15) with four attachment screws (216). If removed, replace capacitor (DRA 198544) with one screw (216) (See Fig. 39).
+
+TIGHTEN
+Attachment screws (216) to 3 N.m (26 lb. in.).
+
+INSTALL
+Fan (13) onto rotor shaft with vanes toward body of alternator (See Fig. 40).
+
+NOTICE: Several pulley styles are available from ACDelco for 7/8" shaft alternators, including a blank that can be custom machined for unique applications.
+Pulley (14) suitable for engine application.
+Flat washer (212) and lock nut (211) onto shaft with locknut flat side next to washer.
+Insert 5/16" hex wrench or driver into end of shaft. Holding the shaft with a hex driver installed on a torque wrench makes an ideal way to check torque while tightening the nut. Tighten pulley nut to 102 N.m (75 lb. ft.).
+
+
+ALTERNATOR BENCH TEST
+
+TEST EQUIPMENT NEEDED:
+Alternator Test Stand (5000 rpm capability at least 5 HP)
+Battery or Battery Set (fully charged)
+Variable Carbon Pile Load Test
+Ammeter (current capability at least 15 amps higher than alternator rating)
+Voltmeter
+Ohmmeter
+
+The bench test procedure will verify alternator performance prior to installation on the vehicle. This test checks the alternator output in the same manner as the Rated Output Check covered earlier. If bench test equipment is not available, install the alternator on the engine according to manufacturer’s instructions and repeat the Rated Output Check to verify alternator operation. If bench test equipment is available, proceed as follows:
+Mount alternator in test stand according to test stand manufacturer’s instructions.
+
+IMPORTANT: Battery or battery set must be fully charged for test results to be valid.
+NOTICE: When a 12-volt carbon pile load test is used to diagnose a 24-volt system, attach load test only to 12-volt potential in battery set. Attaching a 12-volt load test to a 24-volt potential will damage the carbon pile.
+With carbon pile load turned off and with battery or battery set fully charged, make electrical connections as shown in Fig. 41. Battery voltage and ground polarity must be same as system in which alternator is used. Check and record battery or battery set voltage before proceeding with test.
+With carbon pile load off, start test stand and slowly increase alternator speed to highest rpm shown under Cold Output specifications in 33/34 SI Alternator Specifications at the end of this manual. Observe voltmeter.
+-If voltage does not increase but remains at or below previous reading (Step 2), there is no alternator output. Turn carbon pile load off and stop test stand. Residual magnetism in rotor may have been lost. Skip to Step 5.
+-If voltage increases above 15.5 volts on 12-volt system (or above 31 volts on 24-volt system), voltage is uncontrolled. Turn carbon pile load off and stop test stand. Recheck alternator for proper assembly. If alternator has been assembled properly, replace regulator as described under Unit Repair. Also check field coil for shorts and replace if defective.
+-If voltage is proper, proceed to next step. With alternator running at highest rpm shown under Cold Output in Specifications, turn on carbon pile load and adjust to obtain maximum alternator output on ammeter.
+-If ammeter reading is within 15 amps of Cold Output in Specifications, alternator is good. Turn off carbon pile load and stop test stand.
+-If ammeter reading is more than 15 amps below specification, alternator is not operating properly. Turn off carbon pile load and stop test stand. Return to Unit Repair section in this manual and re-diagnose the alternator.
+CAUTION: Do not allow jumper lead to be accidentally grounded while connected to battery insulated terminal. If the free end of this lead is accidentally touched to the alternator housing or other grounded areas, the jumper lead may quickly get hot enough to cause a skin burn or to damage the jumper lead. Keep jumper lead carefully insulated from grounding during this procedure.
+
+EQUIPMENT NEEDED:
+Jumper Lead (18 ga. min; no fuse)
+To restore residual magnetism in alternators with an “R” or “I” terminal, alternator ground terminal must be connected to battery ground terminal. This may be done directly or through the test stand wiring. (See Fig. 42)
+Disconnect carbon pile load test from battery if still connected. Disconnect any leads connected to alternator “R” or “I” terminal. Connect jumper lead to battery positive. Without touching other grounded areas (See CAUTION Above), momentarily touch (“flash”) free end of jumper lead to alternator “R” or “I” terminal. The momentary current flow into the terminal will restore the proper magnetism in the rotor. Disconnect the jumper lead from the battery, then return to Step 1 and repeat Alternator Bench Test.
+
+ALTERNATOR INSTALLATION
+CAUTION: Failure to disconnect grounded battery cable at battery before removing or attaching alternator “BAT” terminal lead may result in an injury. If a tool is shorted to the battery cable connector at the output terminal, the tool can quickly heat enough to cause a skin burn or to damage the tool or cable.
+
+REMOVE OR DISCONNECT
+Negative cable at battery.
+
+NOTICE: Always reinstall fasteners at original location. If necessary to replace fasteners, use only correct part number or equivalent. (See Fig. 43)
+If correct part number is not available, use only equal size and strength.
+Fasteners that are NOT to be reused will be noted in procedure.
+Fasteners requiring thread locking compound will be noted in procedure.
+Use specified torque values when shown.
+Using or replacing fasteners in any other manner could result in part or system damage.
+
+INSTALLATION PROCEDURE (See Figure 44)
+Always follow engine manufacturer’s instructions for installing alternator on engine. The following procedure is typical and may not match all steps necessary for a specific application.
+
+TEST EQUIPMENT NEEDED:
+Belt Tension Gage
+
+NOTICE: Before installing alternator to engine, check mounting bracket (101) and adjustment bracket (104), also stabilizer bracket (111 Fig. 46); if used, to ensure they are not worn or cracked. Make sure they will securely mount alternator to engine with proper hardware.
+
+TIGHTEN
+All fasteners holding alternator mounting bracket (101) to engine manufacturers torque specifications.
+
+ADJUST
+Rectifier end bushing (17) position in RE housing mounting lug to allow maximum distance between mounting lugs (H).
+NOTICE: Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed.
+
+INSTALL OR CONNECT
+33 SI or 34 SI mounting lugs (H) to alternator mounting bracket (101).
+One flanged mounting bolt (102) through the D.E. frame mounting lug (H), the alternator mounting bracket (101), and the R.E. frame mounting lug bushing (17).
+Flanged mounting nut (103) to flanged mounting bolt (102) finger tight.
+
+NOTICE: If either bolt or nut are not flanged a 1/8" thick, hardened steel flat washer (105) (See Figure 43) must be substituted for flanged applications.
+
+Flanged adjustment bolt (106) through flat washer (105), slot in adjustment bracket (104) and thread into hole in DE frame adjustment lug (J) finger tight.
+Alternator belt(s) (107) onto pulley (14). 
+
+NOTICE: If engine uses automatic belt tensioning (idler) see engine manufactures installation instruction.
+Idler if used.
+
+NOTICE: Do not pry on alternator, rectifier end housing (1) to adjust belt tension. This may damage alternator. Pry against the drive end frame (4) with suitable pry bar (108).
+NOTICE: When alternator is used to attain belt tension see engine manufacturers tension specifications.
+
+Pry bar (108) between engine and drive end frame (4) of alternator. Using pry bar (108) as a lever apply force to pry alternator and increase belt tension.
+
+ADJUST
+Belt (107) tension using belt tension gage to specification and hold. (See Fig. 45)
+
+TIGHTEN
+Adjustment bracket (104) to engine or vehicle manufacturers specifications. Flange adjustment bolt (106) and flanged mounting bolt (102) and nut (103) to 88 N.m (65 lb. ft.).
+
+MEASURE
+Belt (107) tension with belt tension gage to ensure the specification is maintained. If not repeat steps 7.
+
+INSTALL OR CONNECT
+NOTICE: Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed.
+Stabilizer mounting bolt (109) through flat washer (105), stabilizer bracket (111), RE housing stabilizer lug (1), flat washer (105) and thread into nut (110) finger tight. (See Fig. 46)
+
+TIGHTEN
+Stabilizer bolt (109) and nut (110) to 88 N.m (65 lb. ft.).
+
+VEHICLE WIRING INSTALLATION (See Figure 47 & 48)
+NOTICE: On certain engine configurations a 1.5 µf capacitor (DRA 198544) was retrofited to some alternators.
+
+INSTALL OR CONNECT
+Battery lead (112), lead capacitor (116) if required, lockwasher (182) and nut (181) onto output stud (187), labeled "POS" on cover plate (15) finger tight. (See Fig. 48)
+Relay lead (113), lockwasher (192) and nut (191) onto relay stud (193) labeled "R" on cover plate finger tight, if used.
+Indicator light lead (114), lockwasher (202) and nut (201) on to indicator light stud (203), labeled "I" on cover plate finger tight, if used.
+Ground screw and lockwasher assembly (223) through ground wire lead (115) into threaded hole in rectifier end housing (1) located on top of 33 SI or on side of 34 SI finger tight.
+
+TIGHTEN
+Ground screw and lockwasher assembly (223) to 6 N.m (55 lb. in.)
+NOTICE: Use suitable open end wrench to hold nut (181) hex heads on "R" and "I" terminal studs (193 and 203). (See Fig. 49.)
+Hex head nut (181) on "POS" terminal to 7 N.m (65 lb. in.).
+Hex nuts (191) and (201) or ""R" and "I" terminals to 2 N.m (20 lb. in.), if used.
+
+INSTALL OR CONNECT
+PIN terminal cap on any terminals not used or any PIN connections.
+Vehicle battery cable to battery(s).

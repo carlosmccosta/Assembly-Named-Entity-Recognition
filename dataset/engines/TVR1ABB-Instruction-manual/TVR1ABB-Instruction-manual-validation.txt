@@ -1,0 +1,66 @@
+TOOLS LIST
+3/32 flat blade screwdriver
+1/8 flat blade screwdriver
+Sharp file
+6 inch single cut mill bastard
+Small needle nose pliers
+Tweezers
+
+
+PARTS LIST
+Part# Qty    Description
+10000  2     Nut, 0-80
+10208  7     Machine Screw, 0-80 x 1/8” pan head slot
+10212  5     Machine Screw, 0-80 x 3/16” pan head slot
+10408  22    Machine Screw, 0-80 x 1/8” fillister head slot
+12216  14    Machine Screw, 2-56 x 1/4” pan head slot
+12220  9     Machine Screw, 2-56 x 5/16” pan head slot
+12228  9     Machine Screw, 2-56 x 7/16” pan head slot
+12232  2     Machine Screw, 2-56 x 1/2” pan head slot
+12412  21    Machine Screw, 2-56 x 3/16” fillister head slot
+12420  9     Machine Screw, 2-56 x 5/16” fillister head slot
+12608  5     Setscrew, 2-56 x 1/8”
+39001  2     Abrasive paper, 400 grit, 2 3/4” x 4 1/2”
+40003  4     0-ring, 1/1 6” x 3/16”        AS568-003
+40006  2     0-ring, 1/8” x 1/4”   AS568-006
+40012  2     0-ring, 3/8” x 1/2”   AS568-012
+40030  1     Wrench, male, Hex,   .035” AF
+40050  4     Ball Bearing, 3/16” ID x 3/8” OD x 1/8”
+51004  2     Cylinder cover, Finished, Machined
+51005  2     Steam Chest Cover
+51006  2     Washer, 3/16” x 5/16” x .0 1 5”
+51007  4     Seal Retainer, 1/16” hole
+51008  2     Seal Retainer, 1/8” hole
+51009  1     Wrench, 3/16” AF
+53004  2     Cylinder, Finished, Machined, 1/2” x 5/8”
+53007  2     Steam Chest, Finished, Machined
+53008  2     Slide Valve
+53023  2     Nut, Special, 5-40, 3/16” AF, .047” thick
+53061  2     Crosshead Guide, Finished, Machined
+53062  2     Crosshead
+53064  2     Pin, Crosshead - Connecting Rod
+53071  1     Cylinder Mount
+53073  4     Column, 2 1/8” long
+53074  2     Bellcrank
+53075  2     Eccentric Strap
+53076  2     Eccentric
+53084  2     Slide, T-Slot, Male
+53086  1     Bar, Valve Detent
+53087  2     Link, Offset
+53088  2     Link, 2 hole
+53089  2     Fork, Rod End, 0-80 Internal Thread
+53100  1     Connector, Reverse Linkage
+53101  2     Bushing, .093” OD, .060” ID, .130” Long
+53175  2     Bearing Mounting Cap, Inner
+53176  2     Bearing Mounting Cap, Outer
+53177  1     Base
+54040  6     Bushing, A.125”, B.093”, C.060”, D.065”, E.008”
+54104  2     Bushing, Bellcrank Mount
+A1003  1     Manifold, Steam Inlet
+A1004  1     Manifold, Steam Exhaust
+A2001  2     Piston Assembly, with Rod
+A2004  2     Valve Spindle Assembly
+A2007  1     Crankshaft Assembly
+A2008  1     Handle Assembly
+A2009  2     Connecting Rod Assembly
+A2014  2     Slide Assembly, T-Slot, Female

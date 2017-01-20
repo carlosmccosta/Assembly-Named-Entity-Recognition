@@ -1,0 +1,357 @@
+﻿----------------------- Page 1-----------------------
+
+         SC1A  
+                 
+       SLIDE CRANK  
+     “SCOTCH YOKE”  
+         ENGINE KIT  
+1/2” BORE x 5/8”  STROKE  
+                
+                
+ INSTRUCTION MANUAL  
+
+----------------------- Page 2-----------------------
+
+                       SAFETY PRECAUTIONS  
+                                          
+    General  safety  precautions  used  in  machine  shops  must  
+be  used  in  the  machining  operations  necessary  for  the  
+finishing of this kit.  
+      
+     USE PROTECTIVE EYE WEAR AT ALL TIMES.  
+     USE    ADEQUATE         VENTILATION        WHEN      USING      CUTTING  
+          FLUIDS.  
+    AVOID  SKIN  CONTACT  WITH  CUTTING  FLUIDS  AND  OTHER  
+          CHEMICALS.  
+      
+    Some of the chemicals and materials recommended for  
+cleaning, part retention and cutting fluids may be toxic if not  
+used  in  accordance  with  the  instructions  provided  by  the  
+manufacturer of the materials.  Some of the recommended  
+chemicals or materials may be flammable and should not be  
+used around open flame or other possible sources of ignition.  
+      
+    This engine is designed to run at pressures up to 30 PSI.  At  
+this pressure, the no load engine speed can be expected to  
+be 5000 to 6000 RPM.  If the kit is machined, assembled and  
+operated in accordance with these instructions, no problems  
+should  be  experienced.    Pressures  greater  than  30  PSI  may  
+cause mechanical failure in the engine.  If the engine is run  
+on  steam,  the  steam  supply  boiler  MUST  have  a  safety  
+release valve set to no higher than 35 PSI.  
+      
+                           LIMITED WARRANTY  
+                                            
+    Graham Industries warrants that the materials supplied in  
+this kit are free from defects for a period of 60 days from the  
+date of purchase.  If defects are discovered in the supplied  
+materials,   the   defective   material   will   be   replaced   upon  
+notification  to  us  in  writing.    Graham  Industries  reserves  the  
+right to require defective material to be returned to us.  This  
+warranty   does   not   apply   to   materials   that   have   been  
+damaged by machining or assembly.  
+
+----------------------- Page 3-----------------------
+
+
+----------------------- Page 4-----------------------
+
+
+----------------------- Page 5-----------------------
+
+
+----------------------- Page 6-----------------------
+
+
+----------------------- Page 7-----------------------
+
+
+----------------------- Page 8-----------------------
+
+
+----------------------- Page 9-----------------------
+
+                                                   INTRODUCTION  
+                                                                 
+     The GAGE SC1 is a compact double-acting steam engine of 1/2” bore with a 5/8” stroke.  A  
+slide valve is used to control the steam.  The compact size is possible by using a “Scotch yoke”  
+drive between the piston and crankshaft.  An eccentric driven yoke operates the valve.  Using  
+yoke  drives  eliminates  the  length  of  the  connecting  rod  and  crosshead  commonly  used  in  
+steam engines.  
+       
+     The “Scotch yoke” has greater frictional losses than a conventional crosshead-connecting  
+rod arrangement, however, unless operating a heavy load, the difference is small.  This engine  
+is  non-reversing  as  shown  in  the  plans.    If  you  want  to  make  this  engine  reversing,  there  is  
+enough room between the crankshaft bearings for a slip eccentric.  
+       
+     Modern  production  techniques,  using  computer  controlled  machine  tools,  have  made  
+practical  replacing  traditional  castings  with  parts  pre-machined  from  solid  materials.    In  
+general, these parts are not completely finished, however, there iis always the fitting, filing and  
+polishing necessary to make a showpiece model.  
+
+                                                                                                         1  
+
+----------------------- Page 10-----------------------
+
+                                                      PARTS LIST  
+Part #    Qty      Description  
+  
+  
+A2027       1      Base, Machined  
+  53032     1      Flywheel, 1 3/4” 5 Spoke, Brass  
+  
+                             BAG “A” - Hardware  
+  10000     1       Nut, 0-80, 3/32” AF  
+  10408    10       Machine Screw, 0-80 x 1/8” Fillister Slot  
+  12216     4       Machine Screw, 2-56 x 1/4" Pan Slot  
+  12228     4       Machine Screw, 2-56 x 7/16” Pan Slot  
+  12412    16       Machine Screw, 2-56 x 3/16” Fillister Slot  
+  12608     1       Set Screw, 2-56 x 1/8”, .035” Hex Drive  
+  14608     1       Set Screw, 4-40 x 1/8”, .050” Hex Drive  
+  40003     2      O-Ring, 1/16” ID x 3/16” OD            AS568-003  
+  40006     1      O-Ring, 1/8” ID x 1/4" OD                       AS568-006  
+  40012     1      O-Ring, 3/8”ID x 1/2" OD                        AS568-012  
+  40030     1      Wrench, Hex, .035” AF  
+  40031     1      Wrench, Hex, .050” AF  
+  51006     1      Washer, Thrust, 3/16” ID, 5/16” OD  
+  53023     1      Nut, Special, 5-40, .047” Thick  
+  
+                             BAG “B” - Large Parts  
+A2001       1      Piston Assembly  
+A2002       1      Crankshaft Assembly  
+  53004     1      Cylinder, Finished  
+  53007     1      Steam Chest, 12x58  
+  53009     1      Cylinder Mount  
+  53011     1      Scotch Yoke Guide  
+  53029     2      Standard  
+  
+                             BAG “C” - Assemblies, Small Parts  
+A1001       1      Steam Pipe Assembly, Inlet  
+A1002       1      Steam Pipe Assembly, Exhaust  
+A2003       1      Valve Drive Yoke Assembly  
+A2004       1      Valve Spindle Assembly  
+  51004     1      Cylinder Cover  
+  51005     1      Steam Chest Cover  
+  51007     2      Seal Retainer, 1/16”  
+  51008     1      Seal Retainer, 1/8”  
+  53008     1      Slide Valve  
+  53012     1      Scotch Yoke Slide  
+  53015     1      Eccentric  
+
+                   2  
+
+----------------------- Page 11-----------------------
+
+                                                       SPECIFICATIONS  
+                                                                       
+Bore:                           1/2 inch  
+Stroke:                         5/8 inch  
+Valve travel:                   .070 inch  
+Flywheel Diameter:              1 3/4 inch  
+Weight:                         8 ounces  
+Size:  (WxDxH)                  1.8” x 2.5” x 2.7”  
+       
+       
+
+                                                                                                                   3  
+
+----------------------- Page 12-----------------------
+
+                                                            ASSEMBLY  
+                                                                      
+     Now it all comes together.  The rest of the parts in the kit are useable as they are supplied,  
+but you may want to clean them up with a file and/or abrasive paper for appearance.  
+       
+     As  parts  are  assembled,  put  a  light  coat  of  oil  on  all  the  working  surfaces.    Use  a  good  
+grade  of  light  sewing  machine  or  instrument  oil.    Some  household  oils  contain  more  solvent  
+than oil and can not be recommended.  Automotive oil is too thick even in the lighter weights.   
+I use Starrett Tool and Instrument oil.  It is available from many machinist supply companies.  
+       
+     Paper gaskets may be used if desired on all the sealing joints, but they are not necessary if  
+the parts are well finished.  If you do use gaskets, use typing paper with oil applied to it.  
+       
+     Check the crankshaft assembly for any solder or retaining compound at the two joints and  
+clean  if  necessary.    Make  sure  the  crankpin  and  crankshaft  do  not  protrude  beyond  the  
+crankdisk where they are supposed to be flush.  File if necessary.  
+       
+     Remove any burrs from the 5/16” x 3/16” thrust washer and slide it on the crankshaft.  Check  
+the crankshaft fit in the bearing holes in the base.  If the base was painted, there may be a little  
+bit of paint in the bearings.  Remove the crankshaft assembly.  
+       
+     Slide the valve drive yoke into the 1/16” holes in the base.  This needs to be a free sliding fit.   
+Again, check for paint.  Enlarge the holes a little if necessary or bend the guide pins a little bit if  
+there is binding at the ends of the pins only.  
+       
+     Insert a 2-56 x 3/32” setscrew in the eccentric.  Insert the eccentric in the valve drive yoke  
+with  the  setscrew  ends  towards  the  flywheel  end.    Slide  the  crankshaft  with  thrust  washer  
+through the inside bearing, the eccentric and the outside bearing.  
+       
+     Install  a  4-40  x  3/32”  setscrew  in  the  flywheel  hub.    Slide  the  flywheel  on  the  crankshaft.   
+Place a piece of paper or shim stock about .003”  to .008” thick between the flywheel and front  
+bearing.  Apply pressure between the flywheel and the crankdisk and tighten the setscrew in  
+the flywheel.  Remove the spacer.  Leave the eccentric loose on the shaft for now.  Rotate the  
+flywheel gently.  There should be no binding.  
+       
+     Place one of the standards on the base with the groove facing inside.  Secure to the base  
+with  two  2-56  x  1/4”  pan  head  screws.    Do  not  tighten.    Place  the  scotch  yoke  slide  on  the  
+crank pin and place the scotch guide on the slide.  Engage the end of the guide in the slot in  
+the standard with the 5-40 hole away from the base.  Place the other standard on the base  
+while engaging the guide in the slot of the standard.  Secure the standard to the base with two  
+2-56 x 1/4” pan head screws.  
+       
+     Cut  two  strips  of  thin  paper  3/16”  wide  and  slide  them  between  each  standard  and  the  
+scotch  yoke  guide  in  the  slots.    Position the  crankshaft to  place  the  guide  nearest the  base.   
+Press the two standards together with your fingers.  Apply the pressure over the guide locations.   
+Tighten the four screws attaching the standards to the base.  Remove the spacer papers.  
+       
+
+                     4  
+
+----------------------- Page 13-----------------------
+
+     Rotate the crankshaft to move the guide away from the base.  Place the cylinder mount on  
+the standards and secure with four 2-56 x 3/16” fillister head screws.  Try rotating the crankshaft.   
+If  the  guide  binds,  loosen  the  screws  on  the  cylinder  mount  and  spread  the  top  of  the  
+standards  apart  slightly.    Tighten  the  screws.    If  binding  still  occurs,  locate  the  problem  and  
+correct  it  before  continuing.    Sometimes  the  standards  will  tilt  slightly  toward  each  other  
+because of shrinkage in the base casting.  If this is the case, it may be necessary to remove the  
+standards  one  at  a  time  and  file  a  VERY  SLIGHT  bevel  on  the  bottom  of  the  standard  to  
+compensate.  This is normally not necessary.  
+       
+     Now that the bottom part of the engine is operating smoothly, remove the cylinder mount.  
+       
+     Install a 3/8” ID x 1/2” OD “O” ring on the piston.  Be sure to put a little bit of oil on the “O”  
+ring.  Check that the piston rod “O” ring retainer is an easy fit on the piston rod.  If it is tight,  
+enlarge the 1/8” hole with a needle file or a #31 drill bit.  Make sure there are no burrs.  Remove  
+the “O” ring retainer.  
+       
+     Slide  the  piston  rod  through  the  cylinder  mount  from  the  side  of  the  mount  opposite  the  
+recess for the piston rod seal.  Put some oil on the 1/8” ID x 1/4” OD “O” ring and slide it on the  
+piston rod.  Be gentle sliding over the threaded portion of the piston rod so the “O” ring is not  
+damaged.  Press the “O” ring retainer on the piston rod and secure to the cylinder mount with  
+two 0-80 x 1/8” long screws.  Thread the 5-40 jam nut on the piston rod.  
+       
+     Decision time:  The steam inlet and exhaust should be on opposite sides of the cylinder (but  
+this is not required).  The cylinder is completely symmetrical so the exhaust can be on either side  
+of the engine.  If you have a preference as to which side of the engine the exhaust is on, place  
+it on that side during the following step.  
+       
+     Oil the bore of the cylinder.  Slide the cylinder onto the piston and seat it on the cylinder  
+mount.  Rotate the cylinder so the port face is to one side of the cylinder mount and secure the  
+cylinder to the cylinder mount with six 2-56 x 3/16” fillister head screws.  
+       
+     Check  that  there  are  no  burrs  inside  the  steam  chest.    Insert  the  valve  rod  assembly  
+threaded end through the hole in either end of the chest from the INSIDE of the chest.  Slide it  
+all the way in.  The valve driver will barely fit past the opposite end of the chest.  Slide the rod  
+back through the hole in the opposite end of  the chest.  
+       
+     Slide an oiled 1/16” ID “O” ring on each end of the valve rod.  Press them into the recess on  
+each  end  of  the  valve chest.    Check  the  “O”  ring  retainers  for  an  easy  fit  on  the  valve  rod.   
+Open them up with a #52 or #51 drill bit if necessary.  Remove any burrs.  Slide a retainer on  
+each end of the rod and secure them to the steam chest with 0-80 x 1/8” fillister head machine  
+screws.  Slide the rod to make sure there are no binds.  Thread the 0-80 nut on the end of the  
+rod.  
+       
+     Lightly oil the port face of the cylinder.  Set the valve on the port face with the valve recess  
+next to the cylinder.  Orient the steam chest so the steam inlet is on the opposite side of the  
+cylinder steam exhaust and the long end of the valve rod extends beyond the cylinder mount.   
+Place the steam chest cover over the port face with the valve driver engaging the valve in the  
+wide  slot  and  the  valve  rod  passing  through  the  narrow  slot.    Temporarily  secure  the  steam  
+chest to the cylinder with two 2-56 x 7/16” pan head machine screws.  These screws may not  
+                                                                                                               5  
+seat as the chest cover is not installed yet.  
+       
+
+----------------------- Page 14-----------------------
+
+     Place the cylinder assembly on top of the standards and secure with four 2-56 x 3/16” pan  
+head machine screws.  Adjust the standards as before to make sure the scotch yoke guide is  
+free.    Tighten  the  mounting  screws.    Position  the  crankshaft  to  move  the  scotch  yoke  guide  
+nearest the base.  
+       
+     Use  a  small  screwdriver  to  push  the  piston  down  to  engage  the  piston  rod  thread  in  the  
+guide.  Turn the piston using the screwdriver in the slot in the piston rod to thread the rod into  
+the guide.   Thread the rod into the guide until you  feel the piston touch the cylinder mount.   
+Make sure the guide is at the bottom of the stroke nearest the base.  Rotate the piston in the  
+opposite direction about 5/8 of a turn.  Rotate the crankshaft to place the piston at the top  
+end of the cylinder.  There should be about 1/64” (.015”) between the piston top and the top of  
+the cylinder.  Tighten the piston rod jam nut against the guide while keeping the piston from  
+turning with the screwdriver.  
+       
+     This engine can’t be reversed in operation, but it can be adjusted to run in either direction  
+by the setting of the eccentric.  Decide which direction you want the engine to run.  
+       
+     Rotate the crankshaft so the piston is at the top of the cylinder.  Rotate the eccentric so the  
+setscrew faces the side of the engine that you want the top of the flywheel to rotate toward.   
+Center the face of the eccentric in the valve drive yoke and tighten the setscrew.  Rotate the  
+crankshaft so the eccentric setscrew is up.  Check that the position of the scotch yoke guide is  
+in the middle of it’s travel.  
+       
+     With  the  eccentric  setscrew  facing  up,  press  the  valve  rod  down  to  engage  the  0-80  
+threads.  Thread the valve rod into the valve drive yoke.  If a small drill chuck is available, use it  
+to  grip  the  portion  of  the  valve  rod  that  protrudes  above  the  steam  chest.    Otherwise,  use  
+smooth jaw needle nose pliers to turn the rod.  
+       
+     After  the  rod  is  started  in  the  yoke,  remove  the  drill  chuck  (if  used)  and  rotate  the  
+crankshaft.    Adjust  the  valve  rod  so  the  steam  ports  I  the  cylinder  are  uncovered  an  equal  
+amount at the ends of the valve travel.  Tighten the 0-80 nut on the valve rod against the yoke.   
+Check the setting of the valve once again.  
+       
+     Remove the two screws holding the steam chest in place.  Using these two screws and two  
+more, install the steam chest cover on the steam chest.  Align the chest cover and the chest to  
+the cylinder edges and tighten the screws.  
+       
+     Rotate the crankshaft several times to check for binding.  Install the cylinder cover on the  
+cylinder on the cylinder using six 2-56 x 3/16” fillister head screws.  Check for any binding again.  
+       
+     Attach the steam fittings with pipes to the cylinder and steam chest with 0-80 x 1/8” fillister  
+head screws.  The 1/8” pipe is the steam inlet and attaches to the steam chest.  The 5/32” pipe  
+is the exhaust pipe and attaches to the cylinder block.  
+       
+
+                     6  
+
+----------------------- Page 15-----------------------
+
+                                                       TEST RUNNING  
+                                                                    
+     For  test  funning  the  engine,  a  supply  of  regulated  air  adjustable  from  0  to  30  PSI  is  
+recommended.  
+       
+     Clamp the base of the engine in a drill press vise.  If the base is painted, use strips of paper  
+to prevent chipping the paint.  Oil all the bearings, the sides of the scotch yoke guide, the slider  
+and the eccentric.  Place a few drops of oil in the steam inlet pipe.  
+       
+     Connect the air supply to the steam inlet pipe.  If no additional fittings have been installed  
+on  the  steam  inlet,  slide  a  piece  of  1/8”  ID  plastic  tubing  over  the  inlet  pipe  to  make  the  
+connection.  
+       
+     Set  the  air  pressure  to  10  PSI  and  rotate  the  flywheel  in  the  direction  you  have  selected  
+during the eccentric adjustment.  The engine should start running.  If it tries, but does not keep  
+running,  increase  the  pressure  to  a  maximum  of  20  PSI.    If  the  engine  will  not  run  at  20  PSI,  
+something is binding or out of adjustment.  If no binding is present, check the eccentric setting.   
+It must be at 90 degrees to the crankshaft.  
+       
+     After the engine starts, let it run for a few minutes.  Then reduce the pressure intil it stops.  This  
+will probably be about 7 or 8 PSI.  Increase the pressure a few pounds and restart the engine.   
+Let the engine run for an hour or two at this speed.  About every 20 minutes, disconnect the air  
+and add a few drops of oil in the steam inlet.  This extra oil is necessary to carry away metal  
+particles from the face of the valve as it wears in.  You will probably notice that the oil coming  
+from the exhaust will be darkened from these particles.  
+       
+     After the engine has run in at low speeds, the speed can be increased by increasing the air  
+pressure.  DO NOT EXCEED 30 PSI.  As the engine continues to run in, the low speed operation  
+will improve.  The prototypes all ran on about 3 PSI after they had several hours of running time  
+on them.  
+                                                   STEAM OPERATION  
+                                                                    
+     Operation  on  steam  requires  some  form  of  lubrication  system  for  the  steam.    Unlike  air  
+operation, the wet steam washes away the oil on the valve and in the cylinder.  
+       
+     A displacement lubricator attached to the engine at the inlet pipe is the easiest, but other  
+types can be used.  
+       
+     While steam cylinder oil is the best, other types can be used if the engine is not being used  
+with steam pressures higher than 25 PSI and the steam is not superheated.  
+
+                                                                                                              7  

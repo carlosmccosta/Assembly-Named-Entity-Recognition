@@ -1,0 +1,571 @@
+﻿----------------------- Page 1-----------------------
+
+    Assembly Instructions for 
+
+  RA553455S1..Gearbox Assembly 
+MRA-200..Gearbox internal parts kit. 
+   (SK-1698.....Fork setting fixture) 
+
+Conversion for Lancer Evolution 
+
+----------------------- Page 2-----------------------
+
+Table of Contents 
+
+Section         Description                   Page 
+
+1.              Preparation                     1 
+
+2.              Layshaft Assembly               2 
+
+3.              Mainshaft Assembly              3 
+
+4.              Fork Setting                    6 
+
+5.              Final Assembly                  9 
+
+Appendix A      Parts List                     11 
+
+Appendix B      Assembly Drawing               12 
+
+Appendix C      Gearbox Parts as Packed        13 
+
+Appendix D      Part of Ralliart Manual        15 
+
+Appendix E      Spacer List for Adjustment     16 
+
+----------------------- Page 3-----------------------
+
+1.      Preparation 
+
+Deconstruct the existing gearbox and set aside the following items for 
+future use: 
+
+1.      All casings and external mechanisms. 
+2.      1st/2nd selector head including roll pin. 
+3.      5th/reverse selector head including roll pin. 
+4.      16 x Maincase bolts. 
+        (M10x40 - MF140266) 
+5.      4 x Gear shift shaft bolts and washers. 
+        (M8X25 - MF140227)                                                             1 
+6.      2 x Selector shaft bolts and washers. 
+        (M8X22- MF241254) 
+7.      6 x Sump tray bolts.                                 4          5         6          7           8 
+        (M6X10 - MD097012 
+8.      Reverse idler retaining bolts and wash’r. 
+        (M10X46 - MD749978) 
+9.      3 x Detents  
+        (MD7499435 - or option - see appendix A) 
+10.     Reverse switch (MD730979) 
+11.     Drain plug (MD701850) 
+12.     Final drive wheel retaing bolt 
+13.     Reverse idler post 
+14.     Differential (complete) 
+
+         2                                      3                                     9 
+
+        10                                     11                                     12 
+
+        13                                     14 
+
+                                                 Page 1 
+
+----------------------- Page 4-----------------------
+
+2.     Layshaft Assembly 
+
+Press off bearings from the original layshaft using Raliart tool #MD998801, as shown in fig 2-1 and fig 
+2-2  and remove seals from the maincase bearing. 
+
+     fig 2-1                                               fig 2-2 
+
+Build the layshaft assembly engaging MRA-235-17/25 Hub Gear (#28a), MRA-235-18/20 (#8a) and 
+MRA-235-28/24 (#12a) gears onto the splined shaft MRA-234 (#10a). Secure the assembly by fitting 
+circlip CIR-076 (#25). 
+
+Press the bearings retained from the original shaft onto the assembly and fit circlip 
+FT-219-1A (#13). 
+
+                                                                                          13 
+
+                                                                                25 
+                                                                     12a 
+                                                            8a 
+                                                  28a 
+
+                    10a 
+
+                                                                       Existing Bearings 
+
+ Fig 2-3. Layshaft Assembly 
+
+                                               Page 2 
+
+----------------------- Page 5-----------------------
+
+3.      Mainshaft Assembly 
+
+Use the fork setting fixture (SK-1698) to assist in assembling the mainshaft. 
+
+Place the mainshaft (MRA-221 - #9a) into the fork setting fixture (fig 3-1). 
+
+Slide mainshaft spacer MRA-221-1 (#16) onto the mainshaft (fig 3-2).  
+
+               9a 
+                                 Fork setting 
+                                 fixture - 
+                                                                                        16 
+                                 SK-1698 
+
+      fig 3-1.                                               fig 3-2. 
+
+                                                                   Hub - MRA-226            non-Splined 
+Place MRA-233-13/26 pinion gear (#10c) and bearing                                          end 
+BEA-029 (#14) onto the smooth bore, splined, end of 
+hub  MRA-226  (#20)  (fig  3-3a).  Fit  clutch  ring  DGB-      Splined 
+                                                                end 
+232-S (#24) onto the hub external spline, completing 
+the  sub  assembly  by  fitting  MRA-233-12/36  pinion 
+gear (#10b), and bearing BEA-029 (#14).  
+
+                                                               fig 3-3a 
+
+Engage the sub assembly onto the mainshaft splines, smooth bore side first (fig 3-3), followed by 
+mainshaft hub spacer MRA-221-2 (#15) (fig 3-4). 
+
+              14 
+                                  20 
+                                     10c                             15 
+
+                                       24 
+          10b 
+
+      fig 3-3.                                               fig 3-4. 
+
+                                                 Page 3 
+
+----------------------- Page 6-----------------------
+
+Follow    the  same  procedure  for  the  sub  assembly  of  MRA-233-            Hub - ST-228 
+17/25  pinion gear (#28b) and bearing BEA-029 (#14) onto the end 
+                                                                              Splined 
+of 3rd/4th hub ST-228 (#21).                                                  both 
+
+                                                                              ends 
+Engage clutch ring DGB-232-S (#24) onto the hub external spline, 
+completing the sub assembly by fittingMRA-233-18/20  pinion gear 
+(#8b) and 3rd/4th hub ST-228 (#21). 
+                                                                              fig 3-5a 
+Engage the sub assembly onto the mainshaft splines, MRA-233- 
+17/25  pinion gear (#28b)  towards the final drive. Fit the second mainshaft hub spacer.MRA-221-2 
+(#15). 
+
+                             21 
+           14 
+                                 8b 
+       28b 
+                                                                      15 
+                                   24 
+
+fig 3-5. 
+                                                               fig 3-6. 
+
+                                                                                       12b 
+                                                                                                  22 
+                                                                                           14 
+The same procedure is followed for the sub assembly of 
+MRA-233-28/24  pinion gear (#12b) and bearing BEA- 
+029 (#14) onto the end of hub MRA-228 (#22). 
+
+Engage clutch ring DGB-232-S (#24) onto the hub exter- 
+nal  spline,  completing  the  sub  assembly  by  fitting 
+reverse pinion gear MRA-231 (#26), making sure the 5th 
+gear is placed on the stepped end of 5th/REV hub MRA- 
+228 (#22) (fig 3-7a).                                              Stepped end 
+                                                               fig 3-7a. 
+
+                                                 Page 4 
+
+----------------------- Page 7-----------------------
+
+Engage the third hub onto the mainshaft with MRA-233-28:24  pinion gear (#12b) towards the final 
+drive (fig 3-7).  
+
+Fit mainshaft spacer MRA-221-3 (#23) 
+with its larger face towards the reverse 
+gear (fig 3-8 and 3-8a).                                                             23 - Ensure 
+                                                                                     stepped face is 
+                                                                                     away from gear 
+
+                 14                  22 
+                                          26      fig 3-8a. 
+
+            12b                          24 
+
+    fig 3-7.                                                        fig 3-8. 
+
+Press the inner race of bearing BEA-148 (#17) up to the spacer and secure with circlip 
+FT-219-1A (#13). Insert the oil seal (#19) in the mainshaft (fig 3-9). 
+
+                            fig 3-9. 
+
+                                                  Page 5 
+
+----------------------- Page 8-----------------------
+
+ 4.      Fork Setting 
+
+ Insert the roller bearing BEA-099( #18) for the mainshaft into the clutch housing. 
+
+ To obtain the correct end float/preload for both layshaft and mainshaft, follow the procedure as laid 
+ down on pages 22B-16 and 22B-17 of the Lancer Evo workshop manual (reproduced as Appendix D 
+ in this manual). 
+
+ Place the correct shim (see Appendix E) and bearing BEA-148 (#17)  into the mainshaft counterbore 
+ within the maincase (Fig 4-1). 
+
+ Place a .040” (1.0mm) selector spacer MRA-246-1 (#27) onto 1st/2nd selector rod MRA-246 (#7) and 
+ fit fork MRA-250 (#6)  without its key. Lightly lock in place with a plain M16 x 1.5 nut (10Nm torque). 
+ Ensure the detent notches are facing away from the fork (Fig 4-2). 
+
+ Engage the fork onto the clutch ring between 1st and 2nd gear on the main shaft. Holding the selec- 
+ tor rod in place, lower the final drive shaft assembly into position in the maincase. At the same time 
+ guide the selector rod into its bore (Fig 4-3).  
+
+Fig 4-1                                                Fig 4-2 
+
+ Fig 4-3 
+
+                                               Page 6 
+
+----------------------- Page 9-----------------------
+
+                                                            Fit the fork setting fixture over the final drive spigot 
+                                                            on  the  mainshaft  and  selector  rod.  Using  four  (4) 
+                                                            maincase  bolts  lightly  secure  the  fixture  (10Nm 
+                                                            torque) (Fig 4-4). 
+
+                                                            Set the selector rod to the neutral position (centre 
+                                                            notch) by looking through the detent hole and fit one 
+                                                            of the original detents (Fig 4-5). 
+
+Fig 4-4 
+
+                                                              Fig 4-5 
+
+                                                            Using a mirror inspect the fork setting (Fig 4-6). The 
+                                                            dogs on the clutch ring must be mid way between 
+                                                            the dogs on the 1st and 2nd pinion gears. Should 
+
+                                                            minor adjustments be necessary, the spacer MRA- 
+                                                            246-1  (#27)  can  either  be  ground  to  size,  or 
+Fig 4-6                                                     replaced  with  a  thicker  spacer  suitably  ground  to 
+                                                           size. 
+
+Having obtained the correct fork setting, remove the mainshaft and set aside the selector rod and fork. 
+
+Follow the same procedure as above, using another .040”(1.0mm) spacer MRA-246-1 (#27) to assem- 
+ble the 3rd/4th rod MRA-247-A (#4) and fork MRA-251(#5) (without its key). Having fitted the mainshaft, 
+selector rod assembly and detent in place with the fixing jig.  
+
+                                                        As a guide, a .046”(1.15mm) spacer MRA-246-1 (#27) 
+                                                        is required to fit the 5th/REV selector rod MRA-248 (#2) 
+                                                        and fork MRA-252 (#3) . Build in the same way as the 
+                                                        other rods (without its key) and fit the assembly, again 
+                                                        with the aid of the fixing jig. Fork setting inspection can 
+                                                        be made through the “sump plate” aperture adjacent to 
+                                                        the reverse idler gear. Again, any adjustments must be 
+                                                        made by grinding the spacer to the required size. 
+
+                                                        Remove the mainshaft and 5th/REV rod. Fit the appro- 
+                                                        priate  keys  (DG-256-6  (#29)  and  MRA-248  (#30))to 
+                                                        each fork, and, using Fig 4-7 as a guide, lock each fork 
+                                                        to  its  rod  with  NUT020  (#1)  as 
+                                                        illustrated. 
+
+ Fig 4-7 
+
+                                                    Page 7 
+
+----------------------- Page 10-----------------------
+
+Selector Frok and Rod Assemblies 
+
+                                                                          5th-Reverse Selector Fork 
+                                                                          and Rod Assembly  
+                                                                          consists: 
+                                                                          MRA-248 Selector Rod Item # 2 
+                                                                          MRA-252 Selector Fork Item # 3 
+                                                                          NUT-020 M16 Nut          Item # 1 
+                                                                          MRA-248 Key              Item # 29 
+                                                                          MRA-246-1 Spacer         Item # 27 
+                                                                          Selector head and roll pin recov- 
+                                                                          ered from doner gearbox 
+       1st-2nd Selector Fork and 
+       Rod Assembly consists: 
+       MRA-246 Selector Rod Item # 7 
+       MRA-250 Selector Fork Item # 6 
+       NUT-020 M16 Nut          Item # 1 
+       MRA-248 Key              Item # 29 
+       MRA-246-1 Spacer         Item # 27 
+       Selector head and roll pin recov- 
+       ered from doner gearbox 
+
+                                3rd-4thSelector Fork and Rod 
+                                Assembly consists: 
+                                MRA-247-A Selector Rod   Item # 4 
+                                (Complete with selector head and roll 
+                                pin) 
+                                MRA-251 Selector Fork     Item # 5 
+                                NUT-020 M16 Nut             Item # 1 
+                                DG-265-6 Key                Item # 29 
+                                MRA-246-1 Spacer            Item # 27 
+
+----------------------- Page 11-----------------------
+
+5.      Final Assembly 
+
+Fit the final drive wheel to the existing differential using the original bolts tightened to 132Nm with 
+Loctite 648 
+
+Fit the outer bearing, BEA-099 (#18) into the appropriate counterbore in the clutch housing. Place the 
+differential assembly into the clutch housing. 
+
+Fit the fork assembly onto the three clutch rings (Fig 5-1) and, while held in place, mesh the layshaft 
+and its gears into engagement with drive gears on the mainshaft(Fig 5-2). Holding both shafts and the 
+selector rods locked together (Fig 5-3), lower the complete assembly into the clutch housing (Fig 5- 
+4). The layshaft should be guided through the oil seal allowing its bearing to locate in the bellhousing. 
+The mainshaft will engage in the final drive wheel and its bearing into the outer race. At  the same 
+time the three selector rods will align with their respective location bores. 
+
+Fig 5-1.                                               Fig 5-2. 
+
+Fig 5-3.                                               Fig 5-4. 
+
+                                              Page 9 
+
+----------------------- Page 12-----------------------
+
+Place bearing BEA-148 (#17) onto it’s inner race on the mainshaft. 
+
+Using  heavy  grease,  hold  the  layshaft  and  mainshaft  shims  into  their  counterbores  in  the  main 
+case.Using Hylamar to seal the faces, lower the maincase onto the gear assembly. Check that the 
+selector rods are free by sliding them through their travel before finally bolting up the cases(44Nm). 
+Fit the detents to the selector rods in the neutral position. Replace the selector mechanism and its 
+locking pin. 
+
+Exchange the reverse idler gear MRA-237 (#11) using the original spacers and circlip. Remount in its 
+cradle inside the sump aperture and fit the plate using sealant. 
+
+                                              Page 10 
+
+----------------------- Page 13-----------------------
+
+Appendix A             Parts List 
+
+ Component      Part Number    Description                           Qty. Per 
+                RA553455S1     GEARBOX ASSEMBLY                          1 
+
+                MRA-200        GEARBOX INTERNALPARTS KIT                 1 
+
+       1        NUT-020        M16 NUT                                   3 
+       2        MRA-248        SELECTOR ROD - 5TH/REV                    1 
+       3        MRA-252        SELECTOR FORK - 5TH/REV                   1 
+       4       MRA-247-A       SELECTOR ROD 3rd/4th- ASSY                1 
+       5        MRA-251        SELECTOR FORK - 3RD/4TH                   1 
+       6        MRA-250        SELECTOR FORK - 1ST/2ND                   1 
+       7        MRA-246        SELECTOR ROD                              1 
+       8        MRA-4TH-SET    4TH GEAR SET - CONSISTS OF:               1 
+      8a        MRA-233-18/20  INPUT GEAR                                1 
+      8b        MRA-235-18/20  PINION GEAR                               1 
+       9        MRA-221-SET    MAINSHAFT AND FINAL DRIVE                 1 
+       10       MRA-234-SET    LAYSHAFT SET - CONSISTS OF:               1 
+      10a       MRA-234        LAYSHAFT                                  1 
+      10b       MRA-233-12/36  PINION GEAR                               1 
+      10c       MRA-233-13/26  PINION GEAR                               1 
+       11       MRA-237        REVERSE IDLER GEAR                        1 
+       12       MRA-5TH-SET    5TH GEAR SET - CONSISTS OF:               1 
+      12a       MRA-233-28/24  INPUT GEAR                                1 
+      12b       MRA-235-28/24  PINION GEAR                               1 
+       13       FT-219-1A      CIRCLIP                                   2 
+       14       BEA-029        BEARING                                   6 
+       15       MRA-221-2      MAINSHAFT SPACER - HUB                    2 
+       16       MRA-221-1      MAINSHAFT SPACER                          1 
+       17       BEA-148        BEARING (NJ207EC)                         1 
+       18       BEA-099        BEARING (NJ2207EC)                        1 
+       19       LIP-041        OIL SEAL                                  1 
+       20       MRA-226        1ST/2ND HUB                               1 
+       21       ST-228         3RD/4TH HUB                               1 
+       22       MRA-228        5TH/REVERSE HUB                           1 
+       23       MRA-221-3      MAINSHAFT SPACER                          1 
+       24       DGB-232-S      CLUTCH RING                               3 
+       25       CIR-076        CIRCLIP                                   1 
+       26       MRA-231        REVERSE PINION GEAR                       1 
+       27       MRA-246-1      SELECTOR SPACER (3-OFF EACH)              1 
+       28       MRA-3RD-SET    3RD GEAR SET - CONSISTS OF:               1 
+     28a        MRA-233-17/25  INPUT GEAR                                1 
+     28b        MRA-235-17/25  PINION GEAR                               1 
+       29       DG-265-6       KEY                                       1 
+       30       MRA-248-1      KEY                                       2 
+
+                SK-1698        FORK SETTING FIXTURE                      1 
+
+OPTION PARTS 
+
+For strong neutral shift return 
+       1        MD771659       SPRING, NEUTRAL RETURN                    1 
+       2        MD771658       SPRING, NEUTRAL RETURN                    1 
+       3        MD747930       DETENT                                    3 
+
+Evolution 7 conversion parts. 
+       1        MD771828       BRACKET ASSEMBLY, SHIFT CABLE             1 
+       2        MD756706       SLEVE, SPEED METER DRIVEN GEAR            1 
+       3        MD747055       GEAR SPEED SENSOR                         1 
+       4       MR581401        M/T CASE BRACKET                          1 
+       5        MF241250       BOLT, WASHER ASSEMBLY (M8X14)             1 
+
+                                                Page 11 
+
+----------------------- Page 14-----------------------
+
+Appendix B          Assembly Drawing 
+
+                                          Page 12 
+
+----------------------- Page 15-----------------------
+
+Appendix C        Gearbox Parts as Packed  
+                   Bottom Layer 
+                             15  16  23                      7  
+
+                                                                                      10a 
+
+  9b 
+
+  24  
+
+                                                                                       1 
+
+  20 
+
+  21 
+
+  22 
+
+                                                                                       14  
+
+                                                                                       4  
+ 28a 
+
+                                                                                       9a 
+
+                                                                                       2  
+
+                                       Page 13 
+
+----------------------- Page 16-----------------------
+
+Appendix C (cont’d)    Gearbox Parts as Packed  
+                       Top Layer 
+                       6                  5                      3 
+
+  18 
+
+                                                                                  26 
+
+  17 
+
+  8b                                                                             12a) 
+
+                                                                                 28b 
+
+ 10c 
+                                                                                  11  
+
+                                                                                 10b 
+
+ 12b 
+
+                                     8a 
+
+                                     Page 14 
+
+----------------------- Page 17-----------------------
+
+Appendix D 
+
+REPRODUCED FROM                                             LANCER EVOLUTION WORKSHOP MANUAL 
+
+                                           ADJUSTMENT BEFORE ASSEMBLY 
+                                           SPACER SELECTION FOR ADJUSTING INPUT 
+                                           SHAFT END PLAY / OUTPUT SHAFT PRELOAD / 
+                                           DIFFERENTIAL PRELOAD 
+                                           (1)    Install the input shaft, output shaft and centre differential 
+                                                         as a set to the clutch housing. 
+
+                                           (2)    Place two pieces of solder (1.6 mm in diameter and  
+                                                  approx 10mm in length) on the input shaft rear bearing  
+                                                  at the positions shown in the illustration. 
+
+                                           (3)    Place two pieces of solder (1.6 mm in diameter and  
+                                                  approx 10mm in length) on the transmission case at the  
+                                                  positions shown in the illustration. 
+                                           (4)    Install the bearing outer race. 
+                                           (5)    Install the transmission case and tighten the bolts to the 
+                                                         specified torque. 
+
+                                           (6)    Remove the transmission case. If the solder is not  
+                                                  crushed, repeat the steps (2) through (5) using solder  
+                                                  with larger diameter. 
+
+                                           (7)    Measure the thickness of the crushed solder with a  
+                                                  micrometer and select spacers that will provide the  
+                                                  standard end play/proload value. 
+                                                  Standard Value: 
+                                                  Input shaft end play..............0 - 0.17 mm 
+                                                  Output shaft end play...........0.13 - 0.18 mm 
+                                                  Centre differential preload...0.05 - 0.11 mm 
+
+                                               Page 15 
+
+----------------------- Page 18-----------------------
+
+Appendix E          Spacer List for Adjustment 
+
+           Spacer M/T Input Shaft 
+
+           PART#     THICKNESS                                    Spacer M/T Differential 
+           MD723600         1.34 
+           MD723603         1.43                                  PART#     THICKNESS 
+           MD723606         1.52                                  MD727660          0.74 
+           MD723609         1.61                                  MD754476          0.77 
+           MD756760         1.70                                  MD727661          0.80 
+           MD756763         1.79                                  MD720937          0.83 
+
+                                                                  MD720938          0.86 
+                                                                  MD720939          0.89 
+           Spacer M/T Output Shaft                                MD720940          0.92 
+                                                                  MD720941          0.95 
+           PART#     THICKNESS                                    MD720942          0.98 
+           MD720938         0.86                                  MD720943          1.01 
+           MD720939         0.89                                  MD720944          1.04 
+           MD720940         0.92                                  MD720945          1.07 
+           MD720941         0.95                                  MD710454          1.10 
+           MD720942         0.98                                  MD700270          1.13 
+           MD720943         1.01                                  MD710455          1.16 
+           MD720944         1.04                                  MD710456          1.19 
+           MD720945         1.07                                  MD700271          1.22 
+           MD710454         1.10                                  MD710457          1.25 
+           MD700270         1.13                                  MD710458          1.28 
+           MD710455         1.16                                  MD706574          1.31 
+           MD710456         1.19 
+           MD700271         1.22 
+           MD710457         1.25 
+           MD710458         1.28 
+           MD706574         1.31 
+           MD710459         1.34 
+           MD710460         1.37 
+           MD710461         1.40 
+           MD710462         1.43 
+
+                                             Page 16 

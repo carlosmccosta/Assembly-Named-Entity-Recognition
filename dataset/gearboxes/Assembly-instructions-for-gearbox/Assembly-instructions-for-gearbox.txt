@@ -1,0 +1,45 @@
+﻿Layshaft Assembly
+Press off bearings from the original layshaft using Raliart tool #MD998801, as shown in fig 2-1 and fig 2-2 and remove seals from the maincase bearing.
+Build the layshaft assembly engaging MRA-235-17/25 Hub Gear (#28a), MRA-235-18/20 (#8a) and MRA-235-28/24 (#12a) gears onto the splined shaft MRA-234 (#10a). Secure the assembly by fitting circlip CIR-076 (#25).
+Press the bearings retained from the original shaft onto the assembly and fit circlip FT-219-1A (#13).
+
+Mainshaft Assembly
+Use the fork setting fixture (SK-1698) to assist in assembling the mainshaft.
+Place the mainshaft (MRA-221 - #9a) into the fork setting fixture (fig 3-1).
+Slide mainshaft spacer MRA-221-1 (#16) onto the mainshaft (fig 3-2).
+Place MRA-233-13/26 pinion gear (#10c) and bearing BEA-029 (#14) onto the smooth bore, splined, end of hub MRA-226 (#20) (fig 3-3a). Fit clutch ring DGB-232-S (#24) onto the hub external spline, completing the sub assembly by fitting MRA-233-12/36 pinion gear (#10b), and bearing BEA-029 (#14).
+Engage the sub assembly onto the mainshaft splines, smooth bore side first (fig 3-3), followed by mainshaft hub spacer MRA-221-2 (#15) (fig 3-4).
+Follow the same procedure for the sub assembly of MRA-233-17/25 pinion gear (#28b) and bearing BEA-029 (#14) onto the end of 3rd/4th hub ST-228 (#21).
+Engage clutch ring DGB-232-S (#24) onto the hub external spline, completing the sub assembly by fittingMRA-233-18/20 pinion gear (#8b) and 3rd/4th hub ST-228 (#21).
+Engage the sub assembly onto the mainshaft splines, MRA-233- 17/25 pinion gear (#28b) towards the final drive. Fit the second mainshaft hub spacer.MRA-221-2 (#15).
+The same procedure is followed for the sub assembly of MRA-233-28/24 pinion gear (#12b) and bearing BEA-029 (#14) onto the end of hub MRA-228 (#22).
+Engage clutch ring DGB-232-S (#24) onto the hub external spline, completing the sub assembly by fitting reverse pinion gear MRA-231 (#26), making sure the 5th gear is placed on the stepped end of 5th/REV hub MRA- 228 (#22) (fig 3-7a).
+Engage the third hub onto the mainshaft with MRA-233-28:24 pinion gear (#12b) towards the final drive (fig 3-7).
+Fit mainshaft spacer MRA-221-3 (#23) with its larger face towards the reverse gear (fig 3-8 and 3-8a).
+Press the inner race of bearing BEA-148 (#17) up to the spacer and secure with circlip FT-219-1A (#13). Insert the oil seal (#19) in the mainshaft (fig 3-9).
+
+Fork Setting
+Insert the roller bearing BEA-099( #18) for the mainshaft into the clutch housing.
+To obtain the correct end float/preload for both layshaft and mainshaft, follow the procedure as laid down on pages 22B-16 and 22B-17 of the Lancer Evo workshop manual (reproduced as Appendix D in this manual).
+Place the correct shim (see Appendix E) and bearing BEA-148 (#17) into the mainshaft counterbore within the maincase (Fig 4-1).
+Place a .040” (1.0mm) selector spacer MRA-246-1 (#27) onto 1st/2nd selector rod MRA-246 (#7) and fit fork MRA-250 (#6) without its key. Lightly lock in place with a plain M16 x 1.5 nut (10Nm torque).
+Ensure the detent notches are facing away from the fork (Fig 4-2).
+Engage the fork onto the clutch ring between 1st and 2nd gear on the main shaft. Holding the selector rod in place, lower the final drive shaft assembly into position in the maincase. At the same time guide the selector rod into its bore (Fig 4-3).
+Fit the fork setting fixture over the final drive spigot on the mainshaft and selector rod. Using four (4) maincase bolts lightly secure the fixture (10Nm torque) (Fig 4-4).
+Set the selector rod to the neutral position (centre notch) by looking through the detent hole and fit one of the original detents (Fig 4-5).
+Using a mirror inspect the fork setting (Fig 4-6). The dogs on the clutch ring must be mid way between the dogs on the 1st and 2nd pinion gears. Should minor adjustments be necessary, the spacer MRA- 246-1 (#27) can either be ground to size, or replaced with a thicker spacer suitably ground to size.
+Having obtained the correct fork setting, remove the mainshaft and set aside the selector rod and fork.
+Follow the same procedure as above, using another .040”(1.0mm) spacer MRA-246-1 (#27) to assemble the 3rd/4th rod MRA-247-A (#4) and fork MRA-251(#5) (without its key). Having fitted the mainshaft, selector rod assembly and detent in place with the fixing jig.
+As a guide, a .046”(1.15mm) spacer MRA-246-1 (#27) is required to fit the 5th/REV selector rod MRA-248 (#2) and fork MRA-252 (#3) . Build in the same way as the other rods (without its key) and fit the assembly, again with the aid of the fixing jig. Fork setting inspection can be made through the “sump plate” aperture adjacent to the reverse idler gear. Again, any adjustments must be made by grinding the spacer to the required size.
+Remove the mainshaft and 5th/REV rod. Fit the appropriate keys (DG-256-6 (#29) and MRA-248 (#30))to each fork, and, using Fig 4-7 as a guide, lock each fork to its rod with NUT020 (#1) as illustrated.
+
+Final Assembly
+Fit the final drive wheel to the existing differential using the original bolts tightened to 132Nm with Loctite 648
+Fit the outer bearing, BEA-099 (#18) into the appropriate counterbore in the clutch housing. Place the differential assembly into the clutch housing.
+Fit the fork assembly onto the three clutch rings (Fig 5-1) and, while held in place, mesh the layshaft and its gears into engagement with drive gears on the mainshaft(Fig 5-2). Holding both shafts and the
+selector rods locked together (Fig 5-3), lower the complete assembly into the clutch housing (Fig 5-4). The layshaft should be guided through the oil seal allowing its bearing to locate in the bellhousing.
+The mainshaft will engage in the final drive wheel and its bearing into the outer race. At the same time the three selector rods will align with their respective location bores.
+Place bearing BEA-148 (#17) onto it’s inner race on the mainshaft.
+Using heavy grease, hold the layshaft and mainshaft shims into their counterbores in the main case.Using Hylamar to seal the faces, lower the maincase onto the gear assembly. Check that the selector rods are free by sliding them through their travel before finally bolting up the cases(44Nm).
+Fit the detents to the selector rods in the neutral position. Replace the selector mechanism and its locking pin.
+Exchange the reverse idler gear MRA-237 (#11) using the original spacers and circlip. Remount in its cradle inside the sump aperture and fit the plate using sealant.

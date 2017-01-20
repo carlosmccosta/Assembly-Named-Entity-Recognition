@@ -1,0 +1,43 @@
+PARTS LIST
+
+Part # Qty  Description
+A2027  1  Base, Machined
+53032  1  Flywheel, 1 3/4” 5 Spoke, Brass
+
+BAG “A” - Hardware
+10000  1  Nut, 0-80, 3/32” AF
+10408  10  Machine Screw, 0-80 x 1/8” Fillister Slot
+12216  4  Machine Screw, 2-56 x 1/4" Pan Slot
+12228  4  Machine Screw, 2-56 x 7/16” Pan Slot
+12412  16  Machine Screw, 2-56 x 3/16” Fillister Slot
+12608  1  Set Screw, 2-56 x 1/8”, .035” Hex Drive
+14608  1  Set Screw, 4-40 x 1/8”, .050” Hex Drive
+40003  2  O-Ring, 1/16” ID x 3/16” OD  AS568-003
+40006  1  O-Ring, 1/8” ID x 1/4" OD  AS568-006
+40012  1  O-Ring, 3/8”ID x 1/2" OD  AS568-012
+40030  1  Wrench, Hex, .035” AF
+40031  1  Wrench, Hex, .050” AF
+51006  1  Washer, Thrust, 3/16” ID, 5/16” OD
+53023  1  Nut, Special, 5-40, .047” Thick
+
+BAG “B” - Large Parts
+A2001  1  Piston Assembly
+A2002  1  Crankshaft Assembly
+53004  1  Cylinder, Finished
+53007  1  Steam Chest, 12x58
+53009  1  Cylinder Mount
+53011  1  Scotch Yoke Guide
+53029  2  Standard
+
+BAG “C” - Assemblies, Small Parts
+A1001  1  Steam Pipe Assembly, Inlet
+A1002  1  Steam Pipe Assembly, Exhaust
+A2003  1  Valve Drive Yoke Assembly
+A2004  1  Valve Spindle Assembly
+51004  1  Cylinder Cover
+51005  1  Steam Chest Cover
+51007  2  Seal Retainer, 1/16”
+51008  1  Seal Retainer, 1/8”
+53008  1  Slide Valve
+53012  1  Scotch Yoke Slide
+53015  1  Eccentric

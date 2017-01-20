@@ -1,0 +1,1808 @@
+﻿----------------------- Page 1-----------------------
+
+                                   1G-500 
+      PRPRODUCT INFODUCT INFORMAORMATIONTION 
+      PRODUCT INFORMATION             1/98 
+      PRPRODUCT INFODUCT INFORMAORMATIONTION 
+
+                     33 SI 
+
+                           34 SI 
+
+           HEAVY DUTY 
+BRUSHLESS ALTERNATOR 
+       SERVICE MANUAL 
+
+©1998 Delco Remy International Inc. All Rights Reserved. 
+
+----------------------- Page 2-----------------------
+
+PAGE                                                                                                 33/34 SI ALTERNATOR 
+                                                    FEATURES 
+
+SPECIFICATIONS: 
+
+MAXIMUM SPEED: 
+Continuous: 10,000 rpm 
+Intermittent:  12,000 rpm                                                                                     198.0 mm 
+
+ROTATION: 
+Clockwise 
+Counterclockwise 
+
+TEMPERATURE LIMITS: 
+-40°F or -40°C Ambient 
++200°F or +93°C Ambient 
+
+POLARITY:                                                                              262.4 mm                       33-6210 
+
+Negative Ground Standard 
+Insulated Models Available 
+
+MOUNTING:                                                       Brushless Construction 
+SAEJ180 Standard                                                Stationary Field Coil 
+                                                                No Brushes or Slip Rings 
+WEIGHT: 
+33 SI 24.5 pounds or 11.1kg                                     Corrosion Protection 
+34 SI 25.4 pounds or 11.5g 
+                                                                Special Environmental Protection Coating 
+
+Built-In Voltage Regulator                                      Applications 
+Solid-State Integrated Circuit                                  Line-Haul Diesel Trucks 
+Flat Temperature-Compensated 
+                                                                Large Commercial Diesel Engines 
+Low Parasitic Draw 
+                                                                Harsh Environments 
+Low Turn-On Speed 
+                                                                Heavy Belt Loads and Vibrations 
+Improved RFI Suppression 
+Load Dump Protection 
+
+            Relay                   Indicator Light       Heavy-Duty             Stationary                   Die Cast 
+          Terminal                     Terminal          Roller Bearing          Field Coil                  Aluminum 
+   Output                                                                       (Brushless)                     Fan 
+
+  Terminal 
+
+                                                                                                            Heavy-Duty 
+                                        Integrated                                                          Ball Bearing 
+                                          Circuit        Rectifier                    Stator 
+                                        Regulator        Bridge 
+
+                                                                                                                    33-6208 
+
+----------------------- Page 3-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                                     PAGE 1 
+
+                              PRODUCT INFORMATION AND SERVICE MANUAL 
+
+                    33/34 SI HEAVY DUTY BRUSHLESS ALTERNATOR 
+
+                                                                   CONTENTS 
+Introduction ............................................................... 1 Alternator Unit Repair ...............................................   9 
+Features ..................................................................... 2   Disassembly and Bench Checks .........................   9 
+Operating Principles .................................................. 3          Final Disassembly ............................................... 12 
+Troubleshooting ........................................................ 4    Alternator Assembly ................................................. 14 
+     A. All Charging Systems .................................... 4                DE Frame and Rotor ........................................... 14 
+      B. Systems with Indicator Light ......................... 5                  Rectifier End Housing and Components ............ 14 
+      C. Systems without Indicator Light .................... 5                    Final Alternator Assembly ................................. 18 
+      D. R Terminal Accessory Problems ................... 6                       Alternator Bench Test ......................................... 20 
+      E. No Output ....................................................... 6  Alternator Installation ............................................... 21 
+      F. Rated Output Check ....................................... 7         Alternator Specifications ........................................... 25 
+                                                                              Service Parts .............................................................. 26 
+
+                                                                               The 34 SI is identical to the 33 SI except for the stabilizing 
+                                                                               lug  (4th  lug)  on  top  of  the  rectifier  end  frame  and  the 
+                                                                               ground screw is located on the right side of the rectifier end 
+                                                                               housing.  The stabilizing lug provides superior vibration 
+                                                                               resistance on certain applications. 
+
+                                                                               The 33/34 SI alternator may be operated in either clockwise 
+                                                                               or counterclockwise directions (external fan may require 
+                                                                               changing to reverse rotation) at continuous speeds of up to 
+                                                                               10,000 alternator rpm.  Intermittent speeds of up to 12,000 
+                                                                               alternator rpm are also acceptable.  The ambient temperature 
+                                                                               range for proper operation is -34°C to +93°C  (-30°F to 
+                                                                               +200°F). 
+
+                                                                 33-6211 
+
+                  Figure 1.  33 SI Alternator 
+
+                          INTRODUCTION 
+
+The 33/34 SI series alternator is a brushless, heavy-duty 
+integral charging system with built-in diode rectifier and 
+voltage  regulator,  producing  DC  current  for  battery 
+electrical systems.  The 33/34 SI series is designed for use 
+on large and mid-range diesel and gasoline engines in over                                                                                      33-6212 
+
+the-road service, as well as for off-road, agricultural, and                        Figure 2.  Typical Output vs. Alternator RPM 
+construction equipment. 
+
+----------------------- Page 4-----------------------
+
+PAGE       2                                                                                                              33/34 SI ALTERNATOR 
+
+The solid state, integrated circuit voltage regulator built 
+                                                                                                 OPTIONS 
+into  the  33/34  SI  alternator  limits  system  voltage  by 
+switching the ground circuit for the field on and off.  When 
+the ground circuit is on, field current passes from a diode 
+trio through the stationary field coil.  Nominal regulated 
+voltages of 13.8, 14.0, and 14.2 volts are available for 12 
+volt systems, and 27.5 volts for 24-volt systems. 
+
+                                                                                                 I 
+                                                                                             R 
+                                                                                        POS 
+For 12-volt systems, output ratings of 110 and 135 amperes 
+are available.  For 24-volt systems, an output rating of 100 
+amperes  is  available.    Refer  to  Figure  2  for  graphs  of 
+typical  outputs  over  a  range  of  alternator  speeds.    For                                                                 BATTERY 
+output ratings of specific 33/34 SI models refer to DRA                               ALTERNATOR 
+model specifications.                                                                                                                            33-6214 
+
+                             FEATURES                                               Figure 4.  One-Wire System with "I" Terminal 
+
+The  33/34  SI  alternator  is  designed  for  a  “one-wire” 
+                                                                               Other connections to the 33/34 SI series include  an “R” 
+charging system configuration.   “One-wire” refers to the 
+                                                                               (relay), “I” (indicator light) terminal, and a ground lead 
+minimum number of lead wire connections necessary at 
+                                                                               connection to the alternator’s rectifier end housing. 
+the  alternator  for  operation  and  requires  only  that  the 
+alternator  output  terminal  be  connected  to  the  battery 
+                                                                               An “R” or relay terminal is located on the rectifier end 
+insulated (positive for a negative-ground system)  terminal 
+                                                                               frame next to the output terminal.  This terminal may be 
+and that a ground path be provided between the alternator 
+                                                                               used to operate some types of charge indicators, an ADLO 
+housing  and  the  battery ground terminal.  (See Figure 3) 
+                                                                               system,  a  tachometer,  or  similar  device  by  providing 
+(Insulated  units  will  have  a  battery  "Pos"  and  battery 
+                                                                               voltage pulses at a frequency of 8 pulses for each revolution 
+"Neg" terminal for "Output" and "Ground" connections.) 
+                                                                               of  the  alternator.    The  current  draw  of  the  accessories 
+                                                                               being powered through this terminal must not exceed 4 
+                                                                               amperes and operate at approximately one half of system 
+                                                                               voltage.  The “R” terminal may be 10-24 threaded or the 
+                                                                               pin type. 
+
+                I 
+              R 
+         POS 
+                                                                                                                      "R" TERMINAL 
+                                                                                        GROUND 
+
+                                                                                                                                  "I" TERMINAL 
+                                                                                    OUTPUT 
+     ALTERNATOR                                  BATTERY                          TERMINAL 
+                                                                                      (B+) 
+
+                                                                                                                      I 
+                                                                  33-6213 
+                                                                                                            R 
+             Figure 3.  Basic One-Wire System                                                     POS 
+
+The  “I”  terminal  may  be  used  in  a  circuit  to  power  an 
+indicator light and/or to lower the engine speed (RPM) at 
+which the alternator will turn on.  Typical system wiring                                                                                    34 SI 
+using this type of circuit is shown in Figure 4.  This is                                                                                GROUND 
+commonly  referred  to  as  a  “one-wire  system  with  "I" 
+terminal” or as a “two-wire system. 
+
+External connections to the 33/34 SI alternator are made to 
+terminals shown in Figure 5.  The standard output terminal 
+is a 1/4"-28 thread.  With this type of terminal, the exposed 
+                                                                                                                                                33-6215 
+metal parts will have battery voltage when connected to the 
+battery.                                                                                Figure 5.  33/34 SI Electrical Terminals 
+
+----------------------- Page 5-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                           PAGE 3 
+
+The “I” terminal is connected internally to the field circuit.                         OPERATING PRINCIPLES 
+An indicator light connected in series with this terminal 
+will glow whenever there is a voltage difference between              An alternator is a voltage-creating machine.  The voltage 
+the  “positive”  side  of  the  field  circuit  and  the  system      regulator limits the maximum voltage that the alternator 
+voltage at other side of the indicator light.  During normal          will  produce  at  the  output  terminal  by  controlling  the 
+alternator operation, the light will be off since the diode           magnetic field present in the stationary field.  The output 
+trio  output  voltage  equals  the  system  voltage.    Current       voltage, induced in the stator and rectified by the diodes, 
+passed through the field winding during engine start-up,              allows current to flow to satisfy the electrical loads placed 
+results in a lower alternator turn-on speed.  A diode or              on the system, up to a maximum current that is characteristic 
+resistor may be used instead of a light bulb if no indicator          of the alternator design. 
+light is needed.  (See Fig. 4)   Up to 1 ampere of current may 
+be passed through this circuit to aid in alternator turn-on.          Schematics of the alternator circuitry are shown in Figure 
+An “I” terminal is normally a threaded stud type with a 10-           6 (standard unit) and Figure 7 (insulated unit).  With the 
+24 thread.                                                            alternator  rotor  turning,  a  magnetic  field  around  the 
+                                                                      stationary  field  coil  is  conducted  by  the  rotor  poles  to 
+A threaded 1/4" hole (with screw and lockwasher assembly)             induce voltages in the stator windings.  The faster the rotor 
+in the rectifier end housing is provided to connect a ground          turns, the higher the induced voltage will be. 
+lead  if  used;  otherwise,  the  ground  path  is  through  the 
+mounting  hardware  and  brackets  to  the  engine.    On             The initial voltages at start-up are generated by residual 
+replacement units, a paper tag is present identifying the             magnetism  in  the  rotor.    On  applications  with  an  “I” 
+“ground screw”; remove and discard the tag.  The screw                terminal in use, this magnetism will be boosted by a small 
+and lockwasher assembly should be installed in the housing            amount  of  current  flowing  through  the  field  from  the 
+regardless  of  whether  a  ground  lead  is  connected,  to          indicator  light  circuit.    As  speed  and  output  increase, 
+prevent entry of dirt and water.                                      voltage available at the diode trio becomes sufficient to 
+                                                                      supply field current for normal operation.  When the output 
+All electronic parts of the alternator are specially coated           voltage exceeds the battery voltage, the alternator begins 
+for  environmental  protection  against  moisture  and  dirt,         to drive the system voltage.  If the wiring system includes 
+and the alternator is “inside cooled” by air drawn through            an indicator light, the presence of system voltage at the 
+inlets in the rectifier end frame and exiting from the drive          diode  trio  equalizes  the  voltage  on  both  sides  of  the 
+end frame behind the fan.                                             indicator light and the light goes out. 
+
+                         REGULATOR                           I 
+
+   FIELD                                  CAPACITOR                        FIELD 
+    COIL                                                                   COIL                  REGULATOR 
+
+                              DIODE TRIO 
+                                                             B+                                                                  I 
+                                                                                        DIODE TRIO 
+                                                                                                                                B+ 
+                                                                                                  CAPACITOR 
+
+                                                             R 
+             STATOR 
+                                                                                                                                R 
+                                                                                 STATOR 
+
+                                                            GND 
+
+                     RECTIFIER BRIDGE                                                     RECTIFIER BRIDGE                      B- 
+
+                                                           33-6216                                                               33-6217 
+
+              Figure 6.  Alternator Schematic                                   Figure 7.  Insulated Model Schematic 
+
+----------------------- Page 6-----------------------
+
+PAGE     4                                                                                               33/34 SI ALTERNATOR 
+
+While the system voltage is below the voltage regulator            •   Undercharged or overcharged battery. 
+setting, the regulator turns on the field current and allows       •   Short  life  of  light  bulbs  or  other  electric  equipment 
+the alternator to produce as much output as possible for the          caused by abnormally high system voltage. 
+alternator speed (rpm), temperature and system voltage.            •   System voltmeter readings outside normal range. 
+When the voltage setting is reached, the regulator turns the       •   Incorrect or no operation of accessories connected to 
+field current off.  When the field current is turned off, the         alternator “R” terminal. 
+magnetic field in the rotor collapses and the alternator 
+output voltage begins to fall.  The falling voltage causes         Diagnose system as follows: (See Fig. 8) 
+the  regulator  to  turn  the  field  current  back  on  and  the 
+magnetic field to rebuild.  This switching action of the           A. ALL CHARGING SYSTEMS - 
+regulator continues rapidly, keeping the output and system 
+voltage very close to the voltage setting.  This will continue        TEST EQUIPMENT NEEDED: 
+unless  the  electrical  demands  of  the  system  cause  the 
+system voltage to fall below the voltage setting.  Should              •  Belt Tension Gage 
+this  happen,  the  regulator  will  again  allow  full  field         •  Battery State-of-Charge Indicator 
+current to flow so that the maximum output of the alternator 
+at  the  given  speed,  temperature  and  system  voltage  is      1.  Check electrical system wiring and battery terminals 
+realized.                                                             for poor connections or other obvious conditions that 
+                                                                      might result in shorts, opens, grounds, or high resistance. 
+An  internal  sense  lead  installed  between  the  output            Correct as necessary. 
+terminal/diode heat sink and regulator stud, is used for 
+voltage control.                                                   2.  Check alternator drive belt for proper tension.  Adjust 
+                                                                      to manufacturer's specifications. 
+                   TROUBLESHOOTING 
+                                                                   3.  Check  battery  for  state-of-charge.    If  low,  recharge 
+Trouble in the charging system will normally be indicated             according  to  manufacturer’s  specifications  and  load 
+by one of the following:                                              test to establish serviceability.  Further diagnostic tests 
+                                                                      require a known good, fully-charged battery for accurate 
+•   Indicator light “on” with engine running.                         results. 
+•   Indicator light “off” with key on, engine not running. 
+
+                                             INDICATOR 
+                                                                                                       VOLTMETER 
+                                             LIGHT 
+
+                                               INDICATOR 
+                              FUSE                LIGHT                                D2 
+                              BLOCK                  CIRCUIT 
+                KEY 
+                                                                                D3,E2 
+                SWITCH 
+                                              OUTPUT                   I 
+                                                                  R 
+                                              TERMINAL       POS 
+
+                                                                         ALTERNATOR 
+                          INDICATOR 
+                          LIGHT ("I") 
+                          CONNECTOR 
+                                                                                          E1 
+                                                                                                        BATTERY 
+
+                                                           FUSE 
+                 TERMINAL            B2, B3 
+                 CONNECTOR 
+                 (DISCONNECTED) 
+
+                                                                                                                           33-6218 
+
+                                      Figure 8.  Troubleshooting a 33/34 SI System 
+
+----------------------- Page 7-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                               PAGE 5 
+
+B. SYSTEMS WITH INDICATOR LIGHT -                                        -   If indicator light does not come on with jumper lead in 
+                                                                             place, locate and correct open circuit in indicator light 
+    TEST EQUIPMENT NEEDED:                                                   circuit between battery and light.  Circuit fuse may be 
+                                                                             open.  (With engine running, light is being powered by 
+    •   Jumper Lead with 5-Amp Fuse                                          alternator and grounded through other circuits connected 
+                                                                             in parallel to indicator light circuit.)  Correct as necessary. 
+1.  If indicator light is on with engine running: 
+                                                                         4.  If indicator light is on with key switch in “off” position: 
+    Stop engine.  Turn key switch to “run” position.  Indicator 
+    light should be on.  If not, go to Step 3.                               Disconnect indicator light circuit at alternator. 
+
+    Disconnect indicator light lead at alternator.  This will            -   If indicator light remains on, locate and correct shorted 
+    be the “I” terminal connector.                                           condition between the light and alternator. 
+
+    If indicator light remains on, locate and correct shorted            -   If indicator light goes out, diode is shorted in rectifier. 
+    or grounded condition in indicator light circuit between                 Locate  and  replace  diode  as  described  under  Unit 
+    the light and the alternator.                                            Repair. 
+
+    If indicator light goes out, light is working properly.              C. SYSTEMS  WITH  VOLTMETER,  NO  INDICATOR 
+    Proceed to “C.” for check of system with indicator light                 LIGHT, OR WITH LIGHT WORKING PROPERLY - 
+    working properly. 
+                                                                             TEST EQUIPMENT NEEDED: 
+2.  If indicator light does not come on with the key switch 
+    in the “run” position with the engine stopped (“bulb                     •   Voltmeter 
+    check” mode): 
+                                                                          1.  If battery is undercharged, indicator light remains on 
+    Leave  key  in  “run”  position  with  engine  stopped.                  while vehicle is running, or system voltmeter shows 
+    Disconnect indicator light lead from alternator.  This                   operating voltage is below acceptable range: 
+    will be at the “I” terminal.  Use fused (5-amp) jumper 
+    lead to ground indicator lamp circuit in harness connector               With engine stopped and all electrical loads off, use 
+    to  ground  screw  or  other  clean  metal    ground  on                 voltmeter  to  check  system  voltage  across  battery 
+    alternator housing.                                                      terminals.  Record voltage. 
+
+-   If indicator light comes on with jumper lead in place,                   Start engine and run at moderate speed.  Check system 
+    repair  or  replace  alternator  as  described  under  Unit              voltage across battery terminals with engine running. 
+    Repair. 
+                                                                         -   If voltage reading at battery terminals is different from 
+-   If indicator light does not come on with jumper lead in                  reading  showing  at  system  voltmeter  (if  equipped), 
+    place,  verify  that  alternator  is  properly  grounded  by             locate and correct cause of incorrect reading. 
+    touching jumper lead to another ground source.  If lamp 
+    still does not light, locate  and correct open circuit in            -   If voltage is lower than reading previously recorded 
+    indicator light circuit.  Circuit fuse may be open or light              with  engine  stopped,  there  is  no  alternator  output. 
+    bulb may be burned out.  Correct as necessary.                           Proceed to section on No Output. 
+
+3.  If indicator light comes on while engine is running, but             -   If voltage is higher than previous reading with engine 
+    is not on with engine stopped and key switch in “run”                    stopped, alternator output is present.  Proceed to Rated 
+    position:                                                                Output Check. 
+
+    Leave  key  in  “run”  position  with  engine  stopped.              2.  If battery is overcharged (as evidenced by excessive 
+    Disconnect indicator light lead from alternator.  This                   water use or electrolyte spewing from battery vents), or 
+    will be at the “I” terminal.  Use fused (5-amp) jumper                   light bulbs or other electrical equipment have shortened 
+    lead  to  ground  indicator  lamp  circuit  to  alternator               life due to suspected high system voltage, or system 
+    housing.                                                                 voltmeter reads above normal range: 
+
+-   If indicator light comes on with jumper lead in place,                   With fully charged battery, engine running at moderate 
+    replace internal indicator light lead assembly or regulator              speed and all electrical loads off, use voltmeter to check 
+    as described under Unit Repair.                                          voltage  at  battery  terminals.    (Battery  electrolyte 
+                                                                             temperature must be below 120°F (49°C).) 
+
+----------------------- Page 8-----------------------
+
+PAGE      6                                                                                               33/34 SI ALTERNATOR 
+
+   For a 12-volt system, readings should be stable, around                IMPORTANT 
+    13.5 - 14.5 volts and in no case go above 15.5 volts.  For 
+   a 24-volt system, readings should be stable, around 27           1.  For alternators without an “I” terminal in use, battery 
+   - 28 volts and in no case go above 31 volts.                        positive  voltage  at  the  output  terminal  and  residual 
+                                                                       magnetism in rotor are necessary for alternator to turn 
+-  One-wire system:  If voltage is erratic or goes above               on.  With engine stopped, use voltmeter to verify that 
+    15.5 volts (31 volts on 24-volt system), check internal            battery voltage is present in cable at output terminal.  If 
+    sense circuit and regulator as described under                     not, locate and correct cause of voltage loss. 
+     Unit Repair. 
+                                                                       Residual  magnetism  in  the  rotor  is  sometimes  lost 
+D. "R" TERMINAL ACCESSORY PROBLEMS                                     during servicing of the alternator.  The rotor can normally 
+                                                                       be  remagnetized  without  removing  alternator  from 
+1.  Disconnect lead from “R” terminal. 
+                                                                       application. 
+
+2.  Start engine and run at moderate speed.  Check system              CAUTION:    Do  not  allow  jumper  lead  to  be 
+   voltage across battery terminals with engine running.               accidentally grounded while connected to battery 
+   Record voltage.                                                     terminal.  If the free end of this lead is accidentally 
+                                                                       touched to the alternator housing or other grounded 
+3.  Use voltmeter to check voltage between “R” terminal                areas, the jumper lead may quickly get hot enough 
+   and alternator ground screw or other clean metal ground.            to cause a skin burn or to damage the jumper lead. 
+                                                                       Keep  jumper  lead  carefully  insulated  from 
+-  If voltage is near half of system voltage, “R” terminal             grounding during this procedure. 
+   output is O.K.  Note that this is a pulsating signal, so 
+    some voltmeters may give an unsteady reading.                      To remagnetize rotor, make sure the normal   connections 
+                                                                       are made to the alternator output terminal and to the 
+-  If no voltage is present, replace diode trio assembly as            ground circuit.  Disconnect the wiring harness from the 
+   described under Unit Repair.                                        “R” terminal.  Momentarily connect a jumper lead from 
+                                                                       battery positive to the alternator “R” (or unused “I”) 
+-  If the voltage is nearly the same as the alternator output          terminal.  (See Fig. 42)  This will cause field current to 
+   voltage, check the voltage at the other small terminal.             momentarily  flow  through  the  field  windings  in  the 
+   If  that  voltage  is  near  half  system  voltage,  the  "R"       proper  direction  and  restore  magnetism.    Reconnect 
+   terminal  leads  were  connected  to  the  "I"  terminal. 
+                                                                       wiring harness to “R” terminal, then recheck alternator 
+   Connect them to the "R" (half voltage) terminal.  If both           for output. 
+   terminals are near alternator output voltage, replace the 
+   diode trio assembly, unless internally both terminals           2.  For systems with an “I” terminal in use, the indicator 
+   are wired to the same place.  In that case, rewire the "R"          light  current  at  this  terminal  will  establish  normal 
+   terminal to the rectifier bridge stud as shown in Unit              magnetism at each engine start-up.  Such systems may 
+   Repair section.                                                     depend  on  this  current  to  help  ensure  a  low  turn-on 
+                                                                       speed of the alternator.  With engine stopped and key 
+E. NO OUTPUT                                                           switch  in  “run”  position,  use  voltmeter  to  check  for 
+                                                                       voltage  present  at  this  terminal.    With  “I”  terminal 
+   TEST EQUIPMENT NEEDED:                                              connected and indicator lamp on, voltage will be less 
+                                                                       than battery voltage.  If necessary, disconnect wiring at 
+    •  Voltmeter 
+                                                                       “I”  terminal  to  make  this  check,  check  for  battery 
+    •  Jumper Lead (18 ga. min; no fuse) 
+                                                                       voltage in harness wire.  If voltage is present, proceed 
+   Note that 33/34 SI alternators must be connected to a               to Step 3.  If no voltage is present, check “I” terminal 
+   battery for the voltage sensing circuit to allow initial            circuit for cause of voltage loss (bulb may be burned 
+   turn on (refer to section on Features).  When properly              out).  Correct as necessary. 
+
+   connected and system checks indicate a “no output” 
+   condition, use the following steps to determine if the           3.  If no conditions have been found that might prevent the 
+   alternator requires repair:                                         alternator from turning on (Step 1 or 2), remove alternator 
+                                                                       from engine in accordance with engine manufacturer’s 
+                                                                       instructions and proceed to Unit Repair. 
+
+----------------------- Page 9-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                           PAGE 7 
+
+                                      CLAMP-ON 
+                                      AMMETER           A                                           CARBON 
+                                                                                                    PILE 
+
+                                                                         F9 
+
+                                                 I 
+                                              R 
+                                        POS 
+
+                                                                          F6,F8                                 BATTERY 
+
+                                       ALTERNATOR 
+                                                                                              V                  F5 
+
+                                                                                      VOLTMETER 
+
+                                                                                                                                33-6219 
+
+                                                 Figure 9.  Rated Output Check 
+
+F.  RATED OUTPUT CHECK                                                    volt potential in battery pack.  Attaching a 12-volt load 
+                                                                          test to a 24-volt potential will damage the load test. 
+    TEST EQUIPMENT NEEDED: 
+                                                                          With load turned off, attach carbon pile load test across 
+    •  Voltmeter                                                          battery. 
+    •  Ammeter  (current  capability  at  least  15  amperes 
+       higher than alternator rating)                                 5.  Attach  voltmeter  lead  to  grounded  battery  terminal, 
+    •  Variable Carbon Pile Load Test                                     observing  proper  polarity  for  system.    Leave  other 
+                                                                          voltmeter lead open for checks at various points. 
+    CAUTION:  Failure to disconnect grounded battery 
+    cable at battery before removing or attaching battery             6.  Check  and  record  voltage  at  battery  terminal.    For 
+    cable at alternator output terminal may result in an                  multi-battery  systems,  check  voltage  of  battery  set 
+    injury.    If  a  tool  is  shorted  to  the  battery  cable          connected as if in battery charging mode. 
+    connector at the output terminal, the tool can quickly 
+    heat enough to cause a skin burn or the tool or cable             7.  With all system electrical loads off, start engine and run 
+    may be damaged.                                                       at moderate speed (rpm).  Alternator speed should be 
+                                                                          near 5,000 rpm. 
+1.  Refer to Fig. 9 for test equipment hookups as described 
+    in following steps.  If inductive pickup (“clamp on”)             8.  Recheck voltage at battery terminal.  Voltage should be 
+   type ammeter is used, place current clamp on alternator                higher than previous reading, but below 15.5 volts on 
+    output lead and skip to Step 4.  If series ammeter is used,           12-volt system (31 volts on 24 volt system). 
+    disconnect grounded battery cable at battery first. 
+                                                                      -   If reading is lower than previous reading (Step 6), refer 
+2.  Install ammeter in series with alternator output terminal.            to section on No Output. 
+
+3.  Reconnect grounded battery cable at battery.                      -   If reading is higher than 15.5 volts on 12-volt system 
+                                                                          (31 volts on 24-volt system), refer to section on High 
+4.  NOTICE:  When a 12-volt carbon pile load test is used                 Voltage Output. 
+   to diagnose a 24-volt system attach load test only to 12- 
+
+----------------------- Page 10-----------------------
+
+PAGE       8                                                                                                33/34 SI ALTERNATOR 
+
+9.  Turn carbon pile load on and adjust to obtain maximum                          REGULATOR "QUICK CHECK" 
+    alternator output on ammeter.  Record maximum output. 
+
+                                                                     NOTICE:  On  some  alternators  on  certain  engine 
+   With alternator still running at maximum output, check            configurations, a 1.5µf capacitor has been installed to the 
+    and  record  voltage  drop  in  ground  circuit  between         output terminal and attached with a cover screw. Remove 
+    alternator housing and grounded battery terminal. Then           the capacitor (DRA 1985444) before performing "Regulator 
+    check  voltage  drop  from  output  terminal  to  battery 
+                                                                     Quick Check." 
+   positive.  Turn carbon pile load off. 
+
+                                                                     A “No Output” condition may be caused by a defective 
+   Maximum ampere output should be within 15 amps of 
+                                                                     regulator.    This  can  be  determined  by  the  following 
+    output rating stamped on alternator identification plate, 
+                                                                     procedure. 
+    or as listed in Specifications section of this manual. 
+   Voltage  drop  should  be  0.25  volts  or  less  for  each 
+   voltage drop test on 12-volt system (0.5 volts or less on                CAUTION: Do not allow jumper lead or probe to 
+   24-volt system).                                                         touch strap or battery while connected to ground. 
+                                                                            If the free end of this lead is accidentally touched 
+-   If ground circuit voltage drop is over 0.25 volts on 12-                to battery voltage, the jumper lead may quickly 
+   volt system (0.5 volts on 24-volt system), clean and                     get hot enough to cause a skin burn or to damage 
+   tighten all ground circuit connections.  If this does not                the  jumper  lead.    Keep  jumper  lead  carefully 
+    correct excessive voltage drop, check ground circuit                    insulated  from  battery  and  alternator  voltage 
+    cables for improper sizing or high resistance conditions.               surfaces during this procedure. 
+
+    Correct as necessary. 
+                                                                     Install and hook up alternator (Fig. 10) in test bench (at 
+                                                                     least 5 hp) and remove rectifier cover plate.  Attach one end 
+-   If within 15 amps of rating, alternator is good.  Look 
+                                                                     of a test lead to alternator ground and the other to a sharp 
+    elsewhere for cause of problem. 
+                                                                     test  probe  (Fig.  11).    Spin  alternator  at  approximately 
+                                                                     2,000  rpm  and  touch  probe  to  insulated  field  ground 
+-   If more than 15 amps below rating, repair or replace 
+    alternator.                                                      terminal under the insulation at regulator (not on screw 
+                                                                     head).  Be sure probe touches metal terminal through the 
+                                                                     protective coating! 
+
+                                                                                                            TOUCH UNDER 
+            CARBON PILE 
+                                                                                                            THE INSULATION 
+                                                                            FIELD 
+                                                                           GROUND                                     TEST 
+                                              TEST PROBE                  TERMINAL                                    LEAD 
+
+                              CLAMP ON 
+                              AMMETER 
+
+             BATTERY 
+                                          ALTERNATOR 
+
+                                                          33-6221 
+
+            Figure 10. Test Bench Schematic 
+
+                                                                                                                                33-6220 
+
+                                                                               Figure 11.  Regulator “Quick Check” 
+
+----------------------- Page 11-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                         PAGE 9 
+
+If ammeter shows 20 amps or more and drops to zero when                     CAUTION:  Using or replacing fasteners in any 
+probe is removed, replace the regulator and test field coil                 other  manner  could  result  in  part  or  system 
+for shorts or grounds.                                                      damage. 
+
+If no output, remove alternator and make bench checks.               If diagnosis determines that alternator repair is needed, 
+                                                                     remove alternator from engine according to manufacturer’s 
+               ALTERNATOR  UNIT REPAIR                               instructions. 
+
+       CAUTION: Disconnect grounded cable at battery                 DISASSEMBLY AND BENCH CHECKS 
+       before  removing  or  attaching  battery  cable  at 
+       alternator  output  terminal.    Otherwise,  a  tool             TEST EQUIPMENT NEEDED: 
+       shorted to the battery cable at the output terminal 
+       can quickly heat enough to cause a skin burn or                  •   Multimeter 
+       damage the tool or cable.                                        •   Regulator Tester 
+
+    NOTICE: Always reinstall fasteners at original location.            ALTERNATOR 
+    If necessary to replace fasteners, use only correct part 
+   number or equivalent.                                             NOTICE:       On  some  alternators  on  certain  engine 
+                                                                     configurations, a 1.5µf capacitor has been installed to the 
+       •  If correct part number is not available, use only          output terminal and attached with a cover screw. Remove 
+         equal  size  and  strength.    For  alternator  internal    the  capacitor  (DRA  1985444)  before  performing 
+         fasteners,  refer to Delco Remy Standard  Hardware          "Regulatror Quick Check." 
+         Fasteners  section in Service Parts Catalog. 
+       •  Fasteners that are NOT to be reused will be noted          1.  Remove screws (216) and rectifier end plate (15) to 
+         in procedure.                                                  expose electronics compartment.  (See Fig. 12) 
+       •  Fasteners requiring thread locking compound will 
+         be noted in procedure.                                      2.  Inspect electronics compartment for contamination, for 
+       •  Use specified torque values when shown.                       shorted or grounded wires, and for loose connections. 
+                                                                        If contamination is present, clean and dry compartment 
+                                                                        before  proceeding.    The  protective  coating  on  all 
+                                                                        electronic components is a good insulator and must be 
+                                                                        scraped off to get a good contact for test equipment 
+                                                                        probes. 
+                                           I 
+                                    R 
+                              POS                                       OHMMETER - USE WITHOUT BATTERY 
+
+                                                                                            VOLTMETER - USE WITH BATTERY 
+                                                          15 
+
+              216                                                                                      A                 217 
+                                                                                                                                6 
+
+                                                    1 
+
+                                                                                                                                224 
+
+                                                                                                           CLAMP ON 
+                                                                                                           AMMETER 
+
+    1. RECTIFIER END 
+       HOUSING                                                                 6. REGULATOR 
+       ASSEMBLY                                                             217.  SCREW 
+   15. COVER PLATE                                                          224.  SCREW 
+ 216.  SCREW 
+                                                         33-6222                                                              33-6223 
+
+          Figure 12.  Electronics Compartment                              Figure 13  Checking Field Coil Resistance 
+
+----------------------- Page 12-----------------------
+
+PAGE    10                                                                                                 33/34 SI ALTERNATOR 
+
+    FIELD COIL                                                          CAPACITOR 
+
+3.  Disconnect  2  field leads (A) from regulator (6)  (See         5.  Remove capacitor (12) by removing the remaining two 
+   Fig. 13), by removing 2 insulated regulator attachment               attachment screws (224) and screw (226) sliding out 
+    screws (217).  Use ohmmeter (or voltmeter, ammeter                  capacitor.  (A sharp tool may be used to break varnish 
+   and battery) to check resistance of field coil.                      seal.) 
+
+   Compare to Field Check ohms (or volts and amps) in 
+    Specifications at the end of this manual or from Service                                   T 
+    Specification Bulletin.  If outside specifications, replace                                           OHMMETER 
+   field coil as described later in this manual. 
+                                                                        12 
+
+    DIODE TRIO 
+                                                                                             F 
+
+4.  To check the diode trio (7), remove it from the electronics 
+   compartment by detaching the 3 nuts (218), stator leads 
+                                                                       12.  CAPACITOR                                         33-6225 
+   (B) and attaching screw (217).  Note that the insulating 
+   washer on the screw is assembled over the top of the                    Figure 15.  Electrical Check of Capacitor 
+   diode trio connector.  Discard screw if insulation is 
+   fractured during removal.                                            Using continuity check mode (diode check mode on 
+                                                                        digital meter), check for a shorted capacitor by touching 
+                                                                        ohmmeter leads to capacitor lead (F) and grounding tab 
+                  OHMMETER                       217                    (T).  (See Fig. 15) This check should show an open 
+                                                                        circuit. 
+                                                   218 (3) 
+                                                                        REGULATOR 
+
+                                                                    6.  To remove regulator (6) for testing, remove sense lead 
+                                                    7 
+                                                                        nut (218), bridge to regulator stud  connector (219) and 
+                                                                        2 screws (217) if not removed previously and screw 
+                                                                        (224).  Disconnect “I” terminal sense lead strap to allow 
+                                                                        regulator removal.  (See Fig. 16) Note: Discard insulated 
+                                                                        screw if insulation is fractured during removal. 
+              1 
+                                                     B 
+
+                                                                                                                224 
+                                                                                          217                                218 
+
+                                                                         1. RECTIFIER END 
+       1. RECTIFIER END                                                     HOUSING ASSEMBLY                                   219 
+          HOUSING ASSEMBLY                                               6. REGULATOR 
+       7. DIODE TRIO 
+    217.  SCREW (INSULATED, SHORT)                                    217. SCREW (2 INSULATED,                           6 
+    218.  NUTS                                                              SHORT) 
+                                                         33-6224      218. NUT 
+
+                                                                      219. CONNECTOR 
+       Figure 14.  Electrical Check of Diode Trio                     224. SCREW 
+
+   Use ohmmeter or diode check function on multimeter to 
+                                                                                       1 
+   check  diode  trio  (7).  (See  Fig.  14)  Place  negative 
+   ohmmeter lead on the regulator strap and the positive 
+   lead to check continuity to each of the three rectifier 
+   bridge  straps.    All  three  readings  should  indicate 
+   continuity.  Reverse the ohmmeter leads and perform 
+   checks again.  Reading should all indicate open circuits. 
+
+   – If all readings are proper, diode trio is good. 
+
+   – If any reading is wrong, replace diode trio.                                                                            33-6227 
+
+                                                                                 Figure 16.  Removing Regulator 
+
+----------------------- Page 13-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                               PAGE 11 
+
+    Check regulator on approved tester for SI type regulators.               OHMMETER              193 
+    If regulator tests “good”, return it to service.  If it tests 
+    “bad”,  replace it.  Install regulator as described later in                               199 
+    this section. 
+                                                                                              198 
+RECTIFIER BRIDGE 
+
+7.  Use  the  ohmmeter  or  (for  digital  meters)  the  diode 
+                                                                                         12 
+    check function of the multimeter to check the rectifier 
+    bridge (8).  Bridge may be checked in place in the RE                                    226 
+    housing (1). 
+                                                                                                 224                                  8 
+
+    All terminals must be disconnected from the threaded 
+    phase studs.  “R” terminal and output terminal straps 
+    (198 &186) may be raised approximately one inch (2.5 
+    cm)  above  rectifier  for  removal  of  diode  trio  (7)  or                           B.                             218 
+    rectifier bridge (8).                                                     8.   RECTIFIER BRIDGE        226.   SCREW 
+
+                                                                            12.   CAPACITOR                      (INSULATED LONG) 
+    Check 6 diodes as follows:                                            193.   RELAY STUD                218.   NUT (3) 
+                                                                          198.   RELAY STRAP               224.   SCREW 
+    Place negative ohmmeter lead on grounded heat sink.                   199.   NUT                                                  33-6228 
+    Touch positive ohmmeter lead firmly to metal diode 
+                                                                                   Figure 18.  Checking Stator Windings 
+    clips that surround each of the 3 threaded studs.  All 3 
+    readings should be the same, and indicate open circuits. 
+    Switch leads and repeat.  All 3 new readings should 
+                                                                             remove bridge, remove nut (218), nut (199) and relay 
+    indicate continuity.  (Fig. 17) 
+                                                                             strap  (198)  from  regulator  stud  (193),  two  bridge 
+                                                                             attaching screws (226), and insulated capacitor attaching 
+               POSITIVE HEAT SINK SIDE                                       screw (224).  Lift capacitor (12) and rectifier bridge (8) 
+                                                                             from SRE housing (Fig. 18). 
+
+                                                                             STATOR 
+
+                                                                         8.  Disconnect the 3 stator phase leads (B) from the diode 
+                                                                             bridge studs by removing 3 nuts (218).  Use continuity 
+                                                                             check function of ohmmeter to check stator windings. 
+                                                                             (See Fig. 18)  Place one meter lead on one of the stator 
+                                                                             phase lead connectors and check for continuity to each 
+                                               NEGATIVE HEAT                 of the other two stator leads.  There should be continuity 
+                                                   SINK SIDE                 to both.  If not, one or more of the stator coils is open; 
+                                      8                                      replace the stator as described later in this section. 
+
+            OHMMETER                  8.  RECTIFIER BRIDGE                   To check for grounds, again touch one meter lead to one 
+                                                             33-6226         of the stator phase leads, and touch the other meter lead 
+    Figure 17.  Electrical Check of Rectifier Bridge                         to clean metal ground on the alternator housing.  There 
+                                                                             should  not  be  continuity.    If  there  is  continuity,  the 
+    Repeat checks using insulated (positive) heat sink in                    stator is grounded and should be replaced as described 
+    place of grounded heat sink.  With negative ohmmeter                     later in this section. 
+    lead on insulated heat sink, all 3 readings should indicate 
+    continuity.  Switch leads and repeat.  All 3 new readings                It is not possible to detect shorted stator windings with 
+    should indicate open circuits.                                           ordinary shop equipment.  However, if all other electrical 
+                                                                             checks are normal and the alternator has exhibited low 
+–   If all readings are correct, the rectifier bridge is good.               output, shorted stator windings may be the cause.  In 
+                                                                             such cases, replace the stator as described later in this 
+–   If any reading is wrong, an open or shorted diode is                     section. 
+    indicated and rectifier bridge should be replaced.  To 
+
+----------------------- Page 14-----------------------
+
+PAGE     12                                                                                                33/34 SI ALTERNATOR 
+
+    FINAL DISASSEMBLY 
+
+      NOTICE:    Do  not  damage  exposed  stator  or  field 
+   windings.  Bumping or scraping these windings may                                             1 
+   break the insulation and leave a place for a short circuit 
+   or ground to develop later, causing the alternator to fail. 
+   Protect the windings from damage by careful handling. 
+
+9.  To replace the field coil (9), stator assembly (11), rotor 
+     assembly (10), or drive end (5) or rectifier end bearings 
+                                                                                                  11 
+     (2), the drive end frame assembly must be separated 
+     from the rectifier end housing.  (Fig. 19)  Use 5/16" hex                                                              4 
+     wrench or 5/16" hex drive, in the end of the shaft, to              1. RE HOUSING 
+     hold while removing shaft nut (211).  Remove washer                    ASSEMBLY 
+     (212), pulley (14), and fan (13).                                  4.  DRIVE END FRAME 
+                                                                            ASSEMBLY 
+                                                                       11.  STATOR 
+                                                                                                   213 
+                                     G                                213.  THRU-BOLTS (4) 
+
+                                                                                                                             33-6230 
+
+                         13 
+                                                                                 Figure 20.  Separating Housings 
+
+              14 
+  WRENCH 
+
+                                                                                             1 
+
+                                         G. ALTERNATOR 
+                                               ASSEMBLY 
+                          212 
+                                       13.  FAN 
+                       211 
+                                       14.  PULLEY 
+              TORQUE                  211.  NUT 
+              WRENCH                  212.  WASHER                                                         B 
+
+                                                         33-6229 
+                                                                                                           C 
+           Figure 19. Alternator Disassembly 
+
+10.  Remove the 4 thru bolts (213).  Carefully separate the 
+     drive end housing (4) from the stator (11) and rectifier          B. STATOR LEADS 
+     end  housing  (1),  taking  care  not  to  damage  stator        C.  GROMMET 
+                                                                       1. RE HOUSING 
+     windings.  (See Fig. 20) 
+                                                                          ASSEMBLY 
+                                                                      11. STATOR 
+NOTICE:  Rectifier  bridge  must  be  removed  before                                                                         33-6231 
+removing stator.  (See Paragraph 7 and Fig. 18) To remove 
+                                                                                   Figure 21.  Removing Stator 
+stator (11) from rectifier end housing (1), be sure all 3 
+stator leads are disconnected from diode bridge studs in 
+electronics  compartment.    Pry  stator  and  housing  apart       11. To remove field coil and support (9) from rectifier end 
+carefully.  Guide stator leads and grommet (C) through                   housing, (See Fig. 22)  remove 4 field coil and support 
+well as stator is pulled from housing.  It may be necessary              attaching screws (221).  Lift coil and support from 
+to push on grommet with a blunt instrument to unseat it                  housing, while guiding field leads through hole. 
+from the housing.  (See Fig. 21) 
+                                                                    12. To remove rectifier end bearing (2) from RE housing 
+                                                                         (1), (See Fig. 23) use small screwdriver at slot to pry 
+                                                                         plug (222) from housing. 
+
+----------------------- Page 15-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                           PAGE 13 
+
+                                                                      13. If bearing inner race (3) appears to be worn or rough, 
+                                        221                                remove from rotor shaft with a suitable puller. 
+
+                                                                      14. To replace rotor (10) or drive end bearing (5), (See Fig. 
+                               1                                           24) remove 4 bearing retainer attachment screws (214) 
+                                                                           from outside of housing (4).  Lift rotor with bearing 
+                                                                           from housing, then pull bearing off of rotor shaft.  If 
+                                                                           inside  collar  (215)  appears  rough  or  damaged,  pull 
+                                                                           collar from shaft. 
+
+                                 9                                         NOTICE:  Do not drive mounting hinge bushing from 
+                                                                           lug on rectifier end housing with a hammer or other 
+      1.  R.E. HOUSING ASSEMBLY                                            tool.  Use arbor press or vise to remove and replace 
+      9.  FIELD COIL ASSEMBLY                                              bushing. 
+   221.   SCREW (4) 
+                                                                      15. To remove mounting hinge bushing (17) from lug on 
+                                                          33-6232 
+                                                                           rectifier end housing (1),  Press bushing from housing 
+             Figure 22.  Removing Field Coil                               using arbor press with suitable tool. 
+
+          3                          222 
+
+         10                                               1                                     10 
+
+                                                                                               16 
+
+                                                                                               215 
+
+                                                                                               5 
+
+                                                                                               4 
+                                                       2 
+
+                                                                            4.  DRIVE END 
+                                                                                FRAME 
+                                                                            5.  DRIVE END 
+                                                                                BEARING 
+     3       2                                                             10.  ROTOR ASSEMBLY                              214 
+                                                                            16.  RETAINER 
+      1. R.E. HOUSING ASSEMBLY 
+                                                                          214.  SCREWS (4) 
+      2. BEARING                                                          215.  COLLAR 
+      3. INNER RACE BEARING 
+                                                                                                                                 33-6234 
+    10.  ROTOR ASSEMBLY 
+   222.  CAP                                                             Figure 24. Disassembly of Drive End Components 
+
+                                                          33-6233 
+
+     Figure 23.  Removing Rectifier End Bearing 
+
+   NOTICE:  Do not drive bearing out with hammer or 
+    other  tool.    Use  arbor  press  to  push  bearing  from 
+   housing. 
+
+   Wipe  excess  grease  from  bearing  well,  then  press 
+   bearing through to inside of housing. 
+
+----------------------- Page 16-----------------------
+
+PAGE      14                                                                                                33/34 SI ALTERNATOR 
+
+                 ALTERNATOR ASSEMBLY 
+
+ASSEMBLY OF DE FRAME AND ROTOR                                                                10 
+
+       INSTALL OR CONNECT 
+
+1.  Press inner race for rectifier end bearing (3) onto short 
+    end of rotor shaft.  Stop when race is 3.7 mm (.15 in.) 
+                                                                                              16 
+    above end of shaft.  (See Fig. 25) 
+
+                                                                                              215 
+2.  Press inside collar (215) onto rotor shaft until collar is 
+    against shoulder on rotor (10).   Place retainer plate (16)                               5 
+    onto collar (flanged side of  retainer will face away from 
+   rotor, toward bearing).  Using open tube that bears only                                  4 
+    on inner race of bearing, press new DE bearing (5) onto 
+   rotor shaft until bearing is against collar. 
+                                                                          4. DRIVE END 
+                                                                                 FRAME 
+                                                                          5. BEARING 
+                                                5 
+                                       16                               10.  ROTOR 
+                                                                                               214 
+                              215                                       16.  RETAINER 
+                         10                                            214.  SCREWS (4) 
+                                                                       215.  COLLAR 
+                                                                                                                               33-6234 
+
+                    3                                                   Figure 26.  Installing Rotor in Drive End Frame 
+
+                                                3 
+    3. INNER RACE                                                             TIGHTEN 
+       BEARING 
+                            3.7MM 
+    5. BEARING 
+   10. ROTOR                (0.15 in.)                                   Bearing retainer attaching screws (214) to 5 N.m (45 lb. 
+       ASSEMBLY                                                          in.). 
+
+   16. RETAINER                          10 
+ 215.  COLLAR                                                                   IMPORTANT 
+                                                          33-6236 
+
+                Figure 25.  Rotor Assembly                               To allow access for later installation of thru bolts (213), 
+                                                                         do not assemble fan and pulley to drive end assembly at 
+3.  Insert bearing (5) (on rotor shaft) into bearing well in             this time. 
+    drive end frame (4). (See Fig. 26)  Bearing will be a 
+    snug fit, but should slip in easily when properly aligned.       ASSEMBLY  OF  RECTIFIER  END  HOUSING  AND 
+    Lubricate outside of bearing very lightly with ball and          COMPONENTS 
+   roller  bearing  lubricant  (1948791)  if  necessary  to 
+    facilitate assembly.                                                      INSTALL OR CONNECT 
+
+4.  Hold drive end assembly with long end of rotor shaft             5.   Lightly  lubricate  outside  surface  of  hinge  bushing 
+    down so that bearing retainer plate (16) falls against                (17).  Press hinge bushing into hole in lug on rectifier 
+   housing, then align retainer with screw holes.  (See Fig.              end housing (1).  Install bushing flush with inside of 
+    26)  Start each of the four retainer attaching screws                 lug to allow maximum distance between two hinge 
+    (214), then tighten screws gradually in sequence to pull              lugs for mounting.  Final position of hinge bushing will 
+   retainer squarely against bearing.                                     be adjusted during mounting.  (See Fig. 27) 
+
+----------------------- Page 17-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                           PAGE 15 
+
+                                                                      7. Add ball and roller bearing lubricant (1948791) until 
+                                                      17                  cavity between plug (222) and bearing outer race (2) is 
+                     1                                                    about half full, placing grease so that it touches the 
+                                                                          edge of the bearing outer race in several places around 
+                                                                          the outside of the bearing. Cover opening with tape to 
+                                                                          prevent contamination. 
+
+                                                                       8.  Turn leads so that they will be properly positioned after 
+                                                                          installation.  (See Fig. 29)   Place field coil and support 
+                                                                          (9) into rectifier end housing (1), guiding leads through 
+                                                                          hole  into  electronics  compartment  and  aligning 
+                                                                          mounting holes in support with screw holes in rectifier 
+                                                                          housing.  Ensure leads do not touch housing. Install 4 
+                                            17                            field  coil  and  support  attachment  screws  (221).    (3 
+    1.  RE HOUSING                          INSTALL FLUSH                 screws used in early production) 
+                                            WITH INSIDE 
+        ASSEMBLY 
+                                            OF LUG 
+   17.  BUSHING 
+                                                          33-6235                                      221 
+
+    Figure 27. Installing Mounting Hinge Bushing 
+
+6.  Position new bearing (2) into rectifier end housing (1)                                         1 
+   with  seal  toward  rotor  assembly  (10)  as  assembled. 
+   Press bearing outer race into housing center hole until 
+   flush with machined face inside housing.  (See Fig. 28) 
+   Push plug (222) into end of housing until outside edges 
+   are flush with edge of RE housing. 
+                                                                                                      9 
+
+                                                     222 
+
+                                                                            1. RE HOUSING ASSEMBLY 
+                                                                           9.  FIELD COIL ASSEMBLY 
+             REF                                                         221.  SCREW (4) 
+              10 
+                                                                                                                                33-6232 
+
+                                                                                   Figure 29.  Installing Field Coil 
+
+                                                      1 
+                                                          1 
+                                      2      3 
+
+                                     10     2 
+                                                             222 
+
+    1. RE  HOUSING              222.   PLUG 
+    2. BEARING 
+    3. INNER BEARING 
+       RACE 
+  10.  ROTOR ASSEMBLY 
+
+                                                          33-6237 
+
+      Figure 28.  Installing Rectifier End Bearing 
+
+----------------------- Page 18-----------------------
+
+PAGE      16                                                                                                   33/34 SI ALTERNATOR 
+
+                                                                            well  as  stator  is  installed  (if  not,  carefully  push  on 
+         TIGHTEN 
+                                                                            grommet with a blunt instrument to seat it in the well). 
+                                                                            The stator must be fully seated in housing at this time. 
+   Field coil and support attachment screws (217) to 6.2                    Note:  If  necessary,  place  wood  blocks  on  opposite 
+   N.m (55 lb. in.).                                                        corners of the stator frame and use arbor press (or tap 
+
+                                                                            blocks  with  hammer)  to  seat  stator  frame  against 
+          INSTALL OR CONNECT 
+                                                                            rectifier end housing.   Do not push against windings! 
+
+   NOTICE:  Handle stator with care to avoid bending                    10. Rectifier bridge (8) to RE housing (1).  Install one 
+   windings or breaking varnish insulation on windings.  If                 rectifier bridge attaching screw (224) through grounded 
+   windings  are  damaged  before  or  during  installation,                heat sink into RE housing. (Fig. 31) Finger tighten. 
+   they may become shorted and cause reduced alternator 
+    output.  Stator must be installed before rectifier. 
+
+                                                                                                          224 
+9.   Straighten stator leads (B) to ease installation.  Lubricate 
+     grommet  (C)  on  stator  leads  lightly  with  petroleum 
+    jelly.  Welded junction connector on some stators must 
+     be  positioned  straight  up  from  windings  to  prevent                                        8 
+                                                                                                                                    REF 
+     grounding  to  housing  or  rotor  when  alternator  is 
+                                                                                                                                     B 
+     assembled.  Straighten stator lead wires all the way to 
+     the windings and insert through well in housing into 
+     electronics compartment.  (See Fig. 30) 
+
+                                                                                                       1 
+     Align thru-bolt holes in stator (11) with those in RE 
+     housing (1).  Push stator into housing far enough to 
+     hold it in place, being sure grommet (C) on  wires is                     1.  RE HOUSING 
+     inserted into well in housing at the same time.  Stator                   8.  RECTIFIER 
+     lead wires should be stiff enough to push grommet into                        BRIDGE 
+                                                                             224.  SCREW 
+
+                                                                                                                                   33-6238 
+
+                            1 
+                                                                                 Figure 31.  Installing Rectifier Bridge 
+
+                                                                        11. Capacitor (12) to holes in end of rectifier bridge (8) 
+                                                                            (Fig. 32) Install ground screw (224) through capacitor 
+                                                                            (12), grounded heat sink, and into RE housing. Finger 
+                                                                            tighten. 
+
+                                  B 
+                                                                        12. Output strap (186) over insulated rectifier and capacitor 
+    WOOD BLOCKS                    C                                        holes.  (If new output terminal assembly, install per 
+    FOR SEATING             11                                              instructions in package.) 
+
+    STATOR 
+                                                                        13. Insulated  capacitor  attaching  screw  (226),  through 
+                                                                            output strap (186), capacitor connector (12), and into 
+  B.  STATOR LEADS (3)                                                      RE housing. Finger tighten. 
+  C.  GROMMET 
+   1. RECTIFIER 
+      END HOUSING 
+ 11.  STATOR 
+
+                                                            33-6231 
+
+                Figure 30.  Installing Stator 
+
+----------------------- Page 19-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                         PAGE 17 
+
+                                                                                                           217 
+                        186                     226                     A.  FIELD COIL LEAD           A        224          218 
+
+                                                                        1.  RE HOUSING 
+                                                  224                   6.  REGULATOR                                       219 
+                                                   8     REF           12.  CAPACITOR                                         220 
+                                12                        B           217.  SCREW 
+                                                                            (INSULATED, SHORT) 
+                                                                                                                                6 
+                                                                      218.  NUT 
+                                                                      219.  CONNECTOR 
+                             1 
+       1. RECTIFIER                                                   224.  SCREW                1 
+          END HOUSING                                                 220.  TERMINAL COVER 
+       8. RECTIFIER                                                                                                         REF 
+          BRIDGE                                                                                                             B 
+      12. CAPACITOR 
+    186.  OUTPUT STRAP 
+    224.  SCREW 
+    226.  SCREW (INSULATED, LONG) 
+                                                         33-6239 
+
+Figure 32. Installing Output Terminal and Capacitor 
+                                                                                                                             33-6240 
+
+           INSPECT                                                                Figure 33. Installing Regulator 
+
+     Regulator mounting area for presence of grease or dirt         17. Bridge to regulator stud connector (219) over threaded 
+     (Fig. 33).  Good electrical contact is necessary in this            stud of regulator (6) with nut (218).  Finger tighten. 
+     area. 
+                                                                    18. Diode  trio  (7)  on  to    3    threaded  studs  on  rectifier 
+     NOTICE:  Do  not  immerse  or  wet  regulator  with                 bridge (8). 
+     solvent.  Internal damage to regulator could result. 
+                                                                    19. Insulated screw (217) through indicator strap (208) 
+           CLEAN                                                         hole, long leg of diode trio (7) and other field coil lead 
+                                                                         terminal (A) into regulator (6) unused hole and into 
+     Regulator mounting bosses in RE housing, metal base                 R.E. housing.  (See Fig. 34) Finger tighten. 
+    plate and contact rings on regulator by wiping with dry 
+     cloth. 
+
+       INSTALL OR CONNECT                                                                              208            217 
+
+14. Regulator (6) with terminal cover (220) assembled to                                                                   226 
+     RE housing (1) with regulator attaching screw (224)                                                           7 
+                                                                                                 A 
+     (grounding).  (See Fig. 33) Finger tighten. 
+                                                                                                                              REF 
+                                                                                               1                               B 
+15. One  field  coil  lead  terminal  (A)  over  regulator  (6) 
+    mounting hole closest to terminal.  (Ensure leads do 
+    not touch edge of frame hole.) 
+
+                                                                        A.  FIELD COIL 
+                                                                            LEAD TERMINAL 
+16. Insulated screw (217) through lead terminal (A) and                  1. R.E. HOUSING 
+    regulator  (6)  into  rectifier  end  housing  (1).    Finger        7. DIODE TRIO 
+     tighten.                                                         208.  INDICATOR 
+                                                                            STRAP 
+                                                                      217.  SCREW 
+                                                                            (INSULATED, SHORT) 
+                                                                      226.  SCREW (INSULATED, LONG)                          33-6241 
+
+                                                                              Figure 34. Installing Diode Trio and 
+                                                                                          Sense Connector 
+
+----------------------- Page 20-----------------------
+
+PAGE     18                                                                                                 33/34 SI ALTERNATOR 
+
+20. Screw (226) through other hole in bridge to regulator                                                                217 
+     stud connector (219) into rectifier bridge (8) and into 
+     RE housing.  Finger tighten. 
+                                                                                                                             224 
+
+        TIGHTEN 
+                                                                                                                                6 
+21. Two rectifier ground screws (224)  to 4 N.m (35 lb. in.) 
+     (See Fig. 35) 
+
+                                                                        226                                                    218 
+       INSTALL OR CONNECT 
+
+                                                                                                                             226 
+22. "R" terminal connector strap (198) over rectifier stud 
+     closest to capacitor (12).  (If installing new "R" terminal           218 
+     follow instruction in package.) (See Fig. 35) 
+
+                                                                                     8                                     218 
+
+                                             19 
+             198 
+                                                                          6.  REGULATOR                218.  NUT 
+                                                                          8.  RECTIFIER BRIDGE         224.  SCREW 
+                                                                       217.  SCREW                     226.  SCREW 
+                                                                              (INSULATED, SHORT)             (INSULATED, LONG) 
+
+                                                                                                                              33-6243 
+
+  218 
+                                                                                   Figure 36.  Fastener Torques 
+
+                                                                                TIGHTEN 
+    REF 
+     12                                                                    1.  One regulator ground (mounting) screw (224) to 
+  224                                               8                         2.5 N.m (23 lb. in.) 
+
+                                                                           2. Two insulated regulator screws (217) to 2.0 N.m 
+            B                                     224                         (20 lb. in.) 
+
+                                                                           3. Two  rectifier bridge insulated screws (226) to 2.0 
+  B.  STATOR LEADS               198.  "R" TERMINAL                           N.m (20 lb. in) 
+   8. RECTIFIER BRIDGE 
+                                       CONNECTOR STRAP 
+ 12.  CAPACITOR 
+                                 218.  NUTS (3)                            4. Three rectifier bridge nuts (218) to 2.5 N.m (23 lb. 
+ 19.  RELAY TERMINAL 
+                                 224.  RECTIFIER GROUND                       in.) 
+                                       SCREW (2) 
+                                                         33-6242 
+                                                                           5. Regulator stud nut (218) to 2.0 N.m (20 lb. in.) 
+          Figure 35.  Installing "R" Terminal 
+                      and Stator Leads                               FINAL ALTERNATOR ASSEMBLY 
+
+23. Three stator leads (B) over matching rectifier bridge                  CLEAN 
+     (8) studs. 
+
+                                                                    26. Inner race of rectifier end bearing (3) on rotor shaft to 
+24.  Three  nuts  (218)  on  rectifier  bridge  studs.  Finger           prevent contamination of grease.  (See Fig. 37) Remove 
+     tighten.                                                            tape to expose rectifier end bearing. 
+
+25. Secure fasteners shown in the following order (See              27. Align  mounting  lugs  and  assemble  two  halves  of 
+     Fig. 36)                                                            alternator (See Fig. 37), inserting rectifier end bearing 
+
+                                                                         inner race (on rotor shaft) into bearing in rectifier end 
+                                                                         housing (1).  Seat drive end housing (4) at this time. 
+                                                                         Using arbor press and appropriate block to apply even 
+                                                                         pressure on end frames. 
+
+----------------------- Page 21-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                       PAGE 19 
+
+                                                                           INSTALL 
+
+                                                                   NOTICE: Make sure varnish is dry before proceeding. 
+                            1 
+                                                                   30. After varish is dry, install rectifier end cover plate (15) 
+                                                                       with four attachment screws (216).  If removed, replace 
+                                                                       capacitor (DRA 198544) with one screw (216). 
+                                                                       (See Fig. 39) 
+
+                                                     3 
+     1.  RE HOUSING          11                                            TIGHTEN 
+         ASSEMBLY                                       4 
+     3.  R.E. BEARING        10                                        Attachment screws (216) to 3 N.m (26 lb. in.). 
+         INNER RACE 
+     4.  DRIVE END FRAME                                                   INSTALL 
+         ASSEMBLY 
+    10.  ROTOR ASSEMBLY 
+                                                                   31. Fan (13) onto rotor shaft with vanes toward body of 
+   213.  THRU-BOLTS (4) 
+                                                                       alternator.  (See Fig. 40) 
+
+                            213 
+
+                                                        33-6230 
+                                                                            216 
+      Figure 37.  Assembly of Alternator Halves                                                                         15 
+
+28. Insert 4 thru-bolts (213) through drive end housing (4) 
+    and  stator  (11)  into  threaded  holes  in  rectifier  end 
+    housing (1).  Align housings and stator as needed to 
+    allow thru-bolts to stand straight in holes and engage                CAPACITOR 
+    threads.  When all four thru-bolts are inserted, tighten 
+    them in round-robin fashion. 
+
+            TIGHTEN 
+                                                                                216 
+    Thru bolts (213) to 12.4 N.m (110 lb. in.)                                                                           216 
+                                                                        G.  ALTERNATOR 
+                                                                             ASSEMBLY 
+29. After assembly, dip rectifier end frame of alternator             15.  COVER PLATE                                     G 
+    about one and one quarter inch (1¼") deep into clear             216. SCREW (4) 
+    electric  grade  varnish  or  otherwise  coat  area  of                                                               33-6245 
+
+    electronics to protect from corrosion.  (See Fig. 38)                     Figure 39.  Installing Cover Plate 
+
+                                                                                                       G 
+
+                                                                                          13 
+
+                                                                                14 
+                                                                    WRENCH 
+
+                                                                                                         G.  ALTERNATOR 
+                                                                                                             ASSEMBLY 
+                                                                                            212 
+                                                                                                         13. FAN 
+                                      VARNISH DIP                                        211 
+                                                                                                         14. PULLEY 
+                                                                                TORQUE                 211.  NUT 
+                                       1¼"                                      WRENCH                 212.  WASHER 
+
+                                                        33-6244                                                           33-6229 
+
+           Figure 38.  Protective Varnish Dip                                Figure 40. Installing Fan and Pulley 
+
+----------------------- Page 22-----------------------
+
+PAGE       20                                                                                                   33/34 SI ALTERNATOR 
+
+     NOTICE:  Several  pulley  styles  are  available  from            The bench test procedure will verify alternator performance 
+     ACDelco for 7/8" shaft alternators, including a blank             prior to installation on the vehicle.  This test checks the 
+     that can be custom machined for unique applications.              alternator output in the same manner as the Rated Output 
+                                                                       Check  covered  earlier.    If  bench  test  equipment  is  not 
+32. Pulley (14) suitable for engine application.                       available, install the alternator on the engine according to 
+                                                                       manufacturer’s instructions and repeat the Rated Output 
+33. Flat washer (212) and lock nut (211) onto shaft with               Check  to  verify  alternator  operation.    If  bench  test 
+     locknut flat side next to washer.                                 equipment is available, proceed as follows: 
+
+                                                                        1.  Mount alternator in test stand according to test stand 
+34. Insert 5/16" hex wrench or driver into end of shaft.                   manufacturer’s instructions. 
+     Holding the shaft with a hex driver installed on a torque 
+     wrench  makes  an  ideal  way  to  check  torque  while           2.         IMPORTANT:  Battery or battery set must be 
+     tightening the nut.  Tighten pulley nut to 102 N.m (75                fully charged for test results to be valid. 
+     lb. ft.). 
+                                                                           NOTICE:  When a 12-volt carbon pile load test is used 
+                                                                           to diagnose a 24-volt system, attach load test only to 
+                ALTERNATOR BENCH TEST                                      12-volt potential in battery set.  Attaching a 12-volt 
+                                                                           load test to a 24-volt potential will damage the carbon 
+       TEST EQUIPMENT NEEDED:                                              pile. 
+
+    •  Alternator Test Stand (5000 rpm capability at least 5               With carbon pile load turned off and with battery or 
+       HP)                                                                 battery set fully charged, make electrical connections 
+    •  Battery or Battery Set (fully charged)                              as  shown  in  Fig.  41.    Battery  voltage  and  ground 
+    •  Variable Carbon Pile Load Test                                      polarity must be same as system in which alternator is 
+    •  Ammeter (current capability at least 15 amps higher                 used.  Check and record battery or battery set voltage 
+       than alternator rating)                                             before proceeding with test. 
+    •  Voltmeter 
+    •  Ohmmeter 
+
+                                            CLAMP-ON 
+                                            AMMETER                            CARBON PILE 
+
+                                                                 STEP 4 
+
+                                      I 
+                                 R 
+                           POS 
+
+                                                                     STEP 3 
+                                                                                                            BATTERY 
+
+                            ALTERNATOR 
+
+                                                                                       VOLTMETER 
+
+                                                                                                                            33-6254 
+
+                                                Figure 41.  Alternator Bench Test 
+
+----------------------- Page 23-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                             PAGE 21 
+
+3.  With carbon pile load “off,” start test stand and slowly                EQUIPMENT NEEDED: 
+    increase alternator speed to highest rpm shown under 
+    Cold  Output  specifications  in  33/34  SI  Alternator                 •  Jumper Lead (18 ga. min; no fuse) 
+    Specifications  at  the  end  of  this  manual.    Observe 
+    voltmeter.                                                             To restore residual magnetism in alternators  with an 
+                                                                            “R” or “I” terminal, alternator ground terminal must be 
+-   If voltage does not increase but remains at or below                    connected  to  battery  ground  terminal.    This  may  be 
+    previous reading (Step 2), there is no alternator output.               done directly or through the test stand wiring.  (See Fig. 
+    Turn carbon pile load off and stop test stand.  Residual               42) 
+    magnetism in rotor may have been lost.  Skip to Step 5. 
+                                                                           Disconnect carbon pile load test from battery if still 
+-   If voltage increases above 15.5 volts on 12-volt system                 connected.  Disconnect any leads connected to alternator 
+    (or  above  31  volts  on  24-volt  system),  voltage  is               “R” or “I” terminal.  Connect jumper lead to battery 
+    uncontrolled.  Turn carbon pile load off and stop test                 positive.  Without touching other grounded areas (See 
+    stand.    Recheck  alternator  for  proper  assembly.    If             CAUTION Above), momentarily touch (“flash”) free 
+    alternator has been assembled properly, replace regulator               end of jumper lead to alternator “R” or “I” terminal. 
+    as described under Unit Repair.  Also  check field coil                The  momentary  current  flow  into  the  terminal  will 
+    for shorts and replace if defective.                                   restore the proper magnetism in the rotor.  Disconnect 
+                                                                           the jumper lead from the battery, then return to Step 1 
+-   If voltage is proper, proceed to next step.                             and repeat Alternator Bench Test. 
+
+4.  With alternator running at highest rpm shown under                                ALTERNATOR INSTALLATION 
+    Cold Output in Specifications, turn on carbon pile load 
+    and  adjust  to  obtain  maximum  alternator  output  on                CAUTION:  Failure to disconnect grounded battery 
+    ammeter.                                                                cable  at  battery  before  removing  or  attaching 
+                                                                            alternator “BAT” terminal lead may result in an 
+-   If ammeter reading is within 15 amps of Cold Output in                 injury.    If  a  tool  is  shorted  to  the  battery  cable 
+    Specifications, alternator is good.  Turn off carbon pile               connector at the output terminal, the tool can quickly 
+    load and stop test stand.                                               heat enough to cause a skin burn or to damage the 
+                                                                           tool or cable. 
+-   If  ammeter  reading  is  more  than  15  amps  below 
+    specification, alternator is not operating properly.  Turn 
+    off carbon pile load and stop test stand.  Return to Unit 
+    Repair  section  in  this  manual  and  re-diagnose  the               OUTPUT         GROUND TERMINAL 
+    alternator.                                                            TERMINAL 
+                                                                                                  "R" TERMINAL 
+
+5.  CAUTION:    Do  not  allow  jumper  lead  to  be                                               "I" TERMINAL 
+    accidentally grounded while connected to battery 
+    insulated terminal.  If the free end of this lead is                                    I 
+                                                                                         R 
+    accidentally  touched  to  the  alternator  housing  or                        POS 
+    other grounded areas, the jumper lead may quickly 
+    get hot enough to cause a skin burn or to damage the 
+   jumper lead.  Keep jumper lead carefully insulated                                                                BATTERY 
+    from grounding during this procedure.                                                                           +           - 
+                                                                                    ALTERNATOR 
+
+                                                                                                                                   33-6247 
+
+                                                                               Figure 42.  Restoring Residual Magnetism 
+
+----------------------- Page 24-----------------------
+
+PAGE    22                                                                                                 33/34 SI ALTERNATOR 
+
+                                            1/8 IN. THICK                  FLANGE            FLAT WASHER (105) 
+               1/2-13 FLANGED            HARDENED STEEL                    ADJUSTMENT                          ADJUSTMENT 
+          ADJUSTMENT BOLT (106)         FLAT WASHER (105)                  BOLT (106)                          BRACKET (104) 
+          SAE GRADE 5 OR BETTER          0.55" I.D., 1.2" O.D. 
+                                                                        HINGE 
+                                                                        BUSHING (17)                               ALTERNATOR 
+                                                                                                                   ADJUSTMENT 
+                                                                                                                          LUG (J) 
+
+           SAE                 1.5 IN.            (PART NO. 
+          GRADE 5                                  1967343)                                                          PULLEY (14) 
+                      1/2-13 FLANGED 
+                      MOUNTING BOLT (102) 
+                      SAE GRADE 5 OR BETTER 
+
+                    6.25 IN. 
+                                 1/2-13 FLANGED MOUNTING 
+                                      LOCKING NUT (103) 
+                                                                       FLANGED 
+                                  SAE GRADE 5 OR BETTER 
+                                                                       MOUNTING 
+ALL PARTS ZINC OR PHOSPHATE COATED HARDENED STEEL                      NUT (103)                                   ALTERNATOR 
+   OPTION: WASHERS MAY BE SUBSTITUTED FOR FLANGES                                                                  BELT(S) (107) 
+
+                                                         33-6246 
+
+         Figure 43.  Alternator Mounting Bolts                                                                FLANGED 
+                                                                       ALTERNATOR 
+                                                                                                              MOUNTING 
+                                                                       MOUNTING LUGS (H) 
+                                                                                                              BOLT (102) 
+       REMOVE OR DISCONNECT 
+                                                                                          ALTERNATOR 
+                                                                                          MOUNTING 
+1.  Negative cable at battery.                                                            BRACKET (101) 
+
+                                                                                                                             33-6248 
+
+   NOTICE:    Always  reinstall  fasteners  at  original                   Figure 44.  Installing Alternator on Engine 
+   location.    If  necessary  to  replace  fasteners,  use  only 
+   correct part number or equivalent.  (See Fig. 43) 
+                                                                        TEST EQUIPMENT NEEDED: 
+    •  If correct part number is not available, use only equal 
+       size and strength.                                               •  Belt Tension Gage 
+    •  Fasteners that are NOT to be reused will be noted in 
+       procedure.                                                       NOTICE:  Before installing alternator to engine, check 
+    •  Fasteners requiring thread locking compound will                 mounting bracket (101) and adjustment bracket (104), 
+       be noted in procedure.                                           also stabilizer bracket (111 Fig. 46); if used, to ensure 
+    •  Use specified torque values when shown.                          they  are  not  worn  or  cracked.    Make  sure  they  will 
+                                                                        securely  mount  alternator  to  engine  with  proper 
+   Using or replacing fasteners in any other manner could               hardware. 
+   result in part or system damage. 
+                                                                           TIGHTEN 
+INSTALLATION PROCEDURE (See Figure 44) 
+                                                                    All fasteners holding alternator mounting bracket (101) to 
+Always  follow  engine  manufacturer’s  instructions  for           engine manufacturers torque specifications. 
+installing alternator on engine.  The following procedure 
+is  typical  and  may  not  match  all  steps  necessary  for  a 
+specific application. 
+
+----------------------- Page 25-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                           PAGE 23 
+
+       ADJUST                                                                                                     TORQUE 
+                                                                                                                  WRENCH 
+                                                                       PRY BAR (108) 
+Rectifier end bushing (17) position in RE housing mounting 
+lug to allow maximum distance between mounting lugs                               ADJUSTMENT 
+(H).                                                                               BRACKET (104) 
+
+   NOTICE:  Belt tensioning and tightening of adjusting 
+   bracket and mounting bolts must be completed before 
+    stabilizing bracket is installed. 
+
+       INSTALL OR CONNECT 
+
+1.  33 SI or 34 SI mounting lugs (H) to alternator mounting 
+   bracket (101). 
+
+2.  One  flanged  mounting  bolt  (102)  through  the  D.E. 
+    frame mounting lug (H), the alternator mounting bracket 
+    (101), and the R.E. frame mounting lug bushing (17). 
+
+3.  Flanged mounting nut (103) to flanged mounting bolt 
+                                                                         ALTERNATOR 
+    (102) finger tight. 
+                                                                         BELT(S) (107) 
+
+   NOTICE:  If either bolt or nut are not flanged a 1/8"                                  BLOCK 
+                                                                                                     ALTERNATOR 
+   thick, hardened steel flat washer (105) (See Figure 43)                                                                      33-6249 
+   must be substituted for flanged applications.                                 Figure 45.  Adjusting Belt Tension 
+
+4.  Flanged  adjustment  bolt  (106)  through  flat  washer 
+    (105), slot in adjustment bracket (104) and thread into           7.  Pry bar (108) between engine and drive end frame (4) 
+   hole in DE frame adjustment lug (J) finger tight.                     of alternator.  Using pry bar (108) as a lever apply force 
+                                                                         to pry alternator and increase belt tension. 
+5. Alternator belt(s) (107) onto pulley (14). 
+                                                                             ADJUST 
+
+   NOTICE:  If engine uses automatic belt tensioning 
+    (idler) see engine manufactures installation instruction.         Belt (107) tension using belt tension gage to specification 
+                                                                      and hold.  (See Fig. 45) 
+6.  Idler if used. 
+                                                                             TIGHTEN 
+
+   NOTICE:     Do  not  pry  on  alternator,  rectifier  end 
+   housing (1) to  adjust belt tension.  This may damage              Adjustment  bracket  (104)  to  engine    or  vehicle 
+    alternator.  Pry against the drive end frame (4) with             manufacturers specifications.  Flange adjustment bolt (106) 
+    suitable pry bar (108).                                           and flanged mounting bolt (102) and nut (103) to 88 N.m 
+                                                                      (65 lb.  ft.). 
+   NOTICE:         When  alternator  is  used  to  attain  belt 
+   tension see engine manufacturers tension specifications.                  MEASURE 
+
+                                                                      Belt (107) tension with belt tension gage to ensure the 
+                                                                      specification is maintained.  If not repeat steps 7. 
+
+----------------------- Page 26-----------------------
+
+PAGE    24                                                                                              33/34 SI ALTERNATOR 
+
+                    MOUNTING        FLAT                                                  223 
+
+                    BOLT (109)     WASHER                                 115                    191 
+                                    (105)                                                        192 
+                                                                                                            201 
+                                                                       113 
+    STABILIZER                                                                                            202 
+                                                                    181 
+    BRACKET                                                                                                114 
+    (111)                                                          182 
+                                               NUT                  116                                         203 
+                                               (110)               112                                                15 
+
+    1                                                               187 
+                                                                                                 I                     223A 
+                                                                    181 
+                                                                                          R 
+                                                                                                193 
+                                                                    182 
+                                                                                      POS 
+
+                                   34 SI ONLY 
+
+      1.   RECTIFIER END HOUSING                                                                                        115 
+                                                        33-6250 
+                                                                    112.   BATTERY LEAD            192.   LOCK WASHER 
+       Figure 46.  Connecting Stabilizing Bracket                   113.   RELAY LEAD              193.   RELAY STUD 
+                                                                    114.   INDICATOR LIGHT         201.   NUT 
+                                                                              LEAD                 202.   LOCK WASHER 
+       INSTALL OR CONNECT                                           115.   GROUND LEAD             203.   INDICATOR LIGHT 
+                                                                    116.   CAPACITOR (A/R)                   STUD 
+   NOTICE:  Belt tensioning and tightening of adjusting             181.   NUT                     223.    SCREW 
+   bracket and mounting bolts must be completed before              182.   LOCK WASHER             223A. SCREW ASSEMBLY 
+                                                                    187.   OUTPUT STUD                        34 SI ONLY 
+   stabilizing bracket is installed. 
+                                                                    191.   NUT 
+
+8.  Stabilizer  mounting  bolt  (109)  through  flat  washer                                                             33-6251 
+   (105), stabilizer bracket (111), RE housing stabilizer                        Figure 47.  Installing Wiring 
+   lug  (1),  flat  washer  (105)  and  thread  into  nut  (110) 
+   finger tight.  (See Fig. 46) 
+
+                                                                        TERMINAL NUT 
+       TIGHTEN 
+                                                                                        WASHER 
+Stabilizer bolt (109) and nut (110) to 88 N.m (65 lb. ft.).         TO 
+
+                                                                    BATTERY 
+
+VEHICLE WIRING INSTALLATION 
+(See Figure 47 & 48) 
+
+NOTICE:  On certain engine configurations a 1.5µf 
+capacitor (DRA 198544) was retrofited to some alternators.          OUTPUT 
+                                                                    TERMINAL 
+
+       INSTALL OR CONNECT 
+
+1.  Battery  lead  (112),  lead  capacitor  (116)  if  required, 
+   lockwasher (182) and nut (181) onto output stud (187), 
+   labeled "POS" on cover plate (15) finger tight.  (See Fig.       ALTERNATOR 
+   48)                                                                                                                   33-6253 
+
+                                                                        Figure 48.  Connecting to Output Terminal 
+2. Relay lead (113), lockwasher (192) and nut (191) onto 
+   relay stud (193) labeled "R" on cover plate finger tight, 
+   if used. 
+
+----------------------- Page 27-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                             PAGE 25 
+
+                                                                       2. Hex head nut (181) on "POS" terminal to 7 N.m (65 lb. 
+    TERMINAL CAP                                                           in.). 
+    (PIN "R" TERMINAL ONLY) 
+
+                                                                        3. Hex nuts (191) and (201) or ""R" and "I" terminals to 2 
+                                                                           N.m (20 lb. in.), if used. 
+    HEX HEAD NUT (191 or 201) 
+
+                                                                               INSTALL OR CONNECT 
+    LOCK WASHER (192 or 202) 
+
+                                                                       4. PIN terminal cap on any terminals not used or any PIN 
+    TERMINAL LEAD                                                          connections. 
+
+      STUD (193 or 203)                                                 5. Vehicle battery cable to battery(s). 
+
+     OPEN END WRENCH 
+
+                                                            33-6255          33/34 SI ALTERNATOR SPECIFICATION 
+
+ Figure 49.  Tighten Threaded "I" or "R" Terminals                      The typical 33/34 SI field coil specs for 12V is 5.5 - 9.0 
+
+                                                                                                                    o 
+                                                                        amps  at  12V  or  1.4-2.1  ohms  at  80 F.    The  field  coil 
+3.  Indicator  light  lead  (114),  lockwasher  (202)  and  nut         specification for 24V models is 2.9-3.6 amps at 24V or 6.9- 
+    (201) on to indicator light stud (203), labeled "I" on              8.1 ohms at 80oF.  The 32V model field coil specifications 
+    cover plate finger tight, if used.                                  are 1.4-1.9 amps at 32V or 17.0-21.4 ohms at 80oF. 
+
+4. Ground screw and lockwasher assembly (223) through                   Cold  Current  output  at  80oF  is  shown  in  the  following 
+                                                                       table. 
+    ground wire lead (115) into threaded hole in rectifier 
+    end housing (1) located on top of 33 SI or on side of 34                Alternator                    Amperes @ 80o F 
+
+    SI finger tight.                                                           Model                    1800 rpm              5000 rpm 
+
+       TIGHTEN                                                                12V/110A                      60                   110 
+                                                                              12V/135A                      52                   135 
+
+1.  Ground screw and lockwasher assembly (223) to 6 N.m                       24V/100A                      0                    100 
+    (55 lb. in.) 
+                                                                              32V/60A                       8                     60 
+    NOTICE:  Use suitable open end wrench to hold nut 
+    (181) hex heads on "R" and "I" terminal studs (193 and             For further information on rotations and exact specification 
+                                                                       number on these or other Delco Remy America products: 
+    203).  (See Fig. 49.) 
+                                                                        Call 1-800-DRA-0222 
+
+----------------------- Page 28-----------------------
+
+PAGE     26                                                                                              33/34 SI ALTERNATOR 
+
+Illus.                                                             Illus. 
+No.     Name                                            Qty.       No.   Name                                              Qty. 
+
+1.      Housing, Rectifier End                             1       18.     Output Terminal Package                            1 
+2.      Bearing, Outer Race                                1        181.   • Nut, Hex Head                                    2 
+3.      Bearing, Inner Race                                1        182.   • Washer, Flat                                     2 
+4.      Frame, Drive End                                   1        183.   • Insulator                                        1 
+5.      Bearing, Ball                                      1        184.   • Insulator, Housing                               1 
+6.      Regulator                                          1        185.   • Insulator, Connector                             1 
+7.      Diode Trio                                         1        186.   • Strap, Output                                    1 
+8.      Bridge, Rectifier                                  1        187.   • Stud, Output                                     1 
+9.      Field Coil & Support                               1 
+10.     Rotor Assembly                                     1       19.     Relay Terminal Package                             1 
+11.     Stator Assembly                                    1        191.   • Nut, Hex Head                                    1 
+12.     Capacitor                                          1        192.   • Washer, Lock                                     1 
+13.     Fan                                                1        193.   • Stud, Relay                                      1 
+14.     Pulley (Not Shown)                              N/A         194.   • Insulator, Terminal                              1 
+15.     Plate, Cover                                       1        195.   • Washer (Square)                                  1 
+16.     Retainer, Bearing                                  1        196.   • Insulator, Housing                               1 
+17.     Bushing, Rectifier End                             1        197.   • Washer, Flat                                     1 
+18.     Package, Output Terminal                           1        198.   • Strap, Relay                                     1 
+19.     Package, Relay Terminal                            1        199.   • Nut, Hex Flanged                                 1 
+20.     Package, Indicator Light Terminal                  1 
+21.     Package, Hardware                                  1       20.     Indicator Light Terminal Package                   1 
+ A.     Field Coil Leads                                   2        201.   • Nut, Hex Head                                    1 
+ B.     Stator Leads                                       3        202.   • Washer, Lock                                     1 
+ C.     Insulator, Grommet                                 1        203.   • Stud, Indicator Light                            1 
+                                                                    204.   • Insulator, Terminal                              1 
+                                                                    205.   • Washer (Square)                                  1 
+                                                                    206.   • Insulator, Housing                               1 
+                                                                    207.   • Washer, Flat                                     1 
+                                                                    208.   • Strap, Indicator                                 1 
+                                                                    209.   • Nut, Hex Flanged                                 1 
+
+                                                                   21.     Hardware Package                                   1 
+                                                                    211.   • Nut, Lock                                        1 
+                                                                    212.   • Washer, Flat                                     1 
+                                                                    213.   • Bolt, Thru                                       4 
+                                                                    214.   • Screw, Retainer                                  4 
+                                                                    215.   • Collar, Shaft                                    1 
+                                                                    216.   • Screw, Cover Plate                               4 
+                                                                    217.   • Screw, Insulated Hex Head 
+                                                                             (Regulator, Short)                               2 
+                                                                    218.   • Nut, Hex Head                                    4 
+                                                                    219.   • Connector, Bridge to Regulator Stud              1 
+                                                                    220.   • Cover, Terminal                                  1 
+                                                                    221.   • Screw, Hex Head, Field Coil Attch.               4 
+                                                                    222.   • Plug, Rectifier Housing                          1 
+                                                                    223.   • Screw and Lockwasher Assembly                    1 
+                                                                    224.   • Screw, Ground                                    3 
+                                                                   225     • Cap, Pin Terminal                                1 
+                                                                    226.   • Screw, Insulated Hex head 
+                                                                            (Rectifier, Long)                                 2 
+
+----------------------- Page 29-----------------------
+
+33/34 SI ALTERNATOR                                                                                                                   PAGE 27 
+
+                                                                                                     216 
+
+                                                                   20                                 15 
+
+                                                        201 
+                                                            202 
+                                                               203 
+                                                                   204 
+                                                                      205                      217 
+                 A                                                       206 
+                                               191                          207  209 
+                                                  192                         208 
+                                                      193 
+                                                          194                                   218 
+                                                              195 
+                                                    19          196 
+                                                           181      197 
+        9 
+                                                                      198 
+                                                                                                     226 
+                                                                        199 
+                                                      182 
+                                                        183                                          226 
+                                                           184 
+                                                      18     185                                      219 
+                                                                186 
+                                                                   187 
+        10 
+                                                                                                     224 
+
+                                                                      12                              218 
+
+                                                                       7 
+
+                                                                    6                                 220 
+
+        16 
+
+                                                                                                       8 
+
+        215 
+
+                                                                    222 
+
+        5                                                                                            221 
+
+                                                                                                         223A 
+                                                              223 
+        4 
+
+                                                                                                          1 
+
+                                        214 
+        213                                                                                              17 
+
+                                                                                                       2 
+                                                                              3 
+        13 
+
+        212                                                                                           B 
+
+        211 
+                                                                                                      C 
+
+                                                                                                       11 
+
+                                                                                                                     33-6256 
+
+----------------------- Page 30-----------------------
+
+PAGE                                                                                                                      33/34 SI ALTERNATOR 
+
+                                                            Delco Remy International, Inc. 
+                                                                  2902 Enterprise Drive 
+                                                                    Anderson, IN 46013 
+
+                                          For further information and specifications on these and other 
+                                                      Delco Remy Products call: 1-800-DRA-0222 
+
+        © Copyright DRI, 1G-500 10/97 
+        Delco Remy is a registered trademark licensed by General Motors Corporation. 

@@ -1,0 +1,476 @@
+﻿----------------------- Page 1-----------------------
+
+                                   Assembly Instructions 
+
+                                   VR1A 
+                    1/2” bore, 5/8” stroke, single cylinder, reversing  
+                                  steam engine kit 
+
+   Graham Industries 
+      PO Box 15230 
+Rio Rancho, NM 87174-0230 
+   www.grahamind.com 
+
+----------------------- Page 2-----------------------
+
+
+----------------------- Page 3-----------------------
+
+                       53033                       53005                                                                                                                            SCREW HEAD 
+                                                                                                                                                                                        TYPES 
+                                                                                        5 
+                                                                                        0 
+                                                                                        0 
+                  6                                                         9           2              6    7 
+                  1                                                         6           A              0    5 
+   53027          0                                                         0                          0    0 
+                  3                                                         3                          2    3 
+                  5                                                         5                          A    5 
+                                                                                                                                    54003       54008              54020 
+                                                1    6             4                                                                                                                  FILLISTER 
+                                                0    2             0 
+                                                0    0             0       8                                                                                                             HEAD 
+     A2002                                      2    3             2       6 
+                                                A    5             A       0 
+                                                                           3 
+                                                                           5                                            0                    54101                  54103 
+                                                                                                                        0 
+                                                                                                                        1 
+               A1001                                                                                                    4 
+                                                                                                                        5 
+                                                                                                                                                                                          PAN 
+                                                                                                                                    BUSHINGS SHOWN 4 TIMES SCALE                         HEAD 
+      53019 
+
+               A1002 
+
+      53021 
+
+                                                                     51006 
+
+51004                                                                                            53004 
+                                                  51007                                                                                                                                     53008 
+                           51005 
+
+                                                                                                                                                    53007 
+
+                                                  51008 
+
+                                                                                                                                                                                      53095 
+
+                                                                                                        53048 
+                                                                          53046 
+
+                                                                                                                                         53051 
+ 53009 
+
+                                      53040        53041 
+                                                                                                          53049 
+
+                                                                                                          53050 
+                                                                         53047                                                     53064 
+
+                                                                                                                                                                                        A2026 
+
+     53053 
+                                53055 
+
+                                                                 53061 
+
+                                                                                                 53062 
+
+----------------------- Page 4-----------------------
+
+                                               PARTS LIST 
+
+Qty Part #    Description                                       Qty Part #    Description 
+
+1	 A1001	  Steam	pipe	and	flange	(1/8”	OD)                      1    53004    Cylinder, machined 
+1	 A1002	  Exhaust	pipe	and	flange	(3/32”	OD)                   1    53007    Steam chest 
+1   A2001     Piston and rod assembly                           1    53008    Valve, slide 
+1   A2004     Valve spindle assembly                            1    53009    Cylinder mount 
+1   A2005     Valve drive block assembly                        1    53023    Nut, 5-40 
+2   A2006     Eccentric strap assembly                          1    53040    Eccentric, with hub 
+1   A2010     Crankshaft assembly                               1    53041    Eccentric, without hub 
+                                                                2    53046    Link, 2 hole short 
+2    10000    Nut, 0-80                                         1    53047    Lever, reversing 
+7    10208    Screw, 0-80 x 1/8” pan head slot                  1    53048    Handle 
+6    10212    Screw, 0-80 x 3/16” pan head slot                 1    53049    Link, 2 hole long 
+1    10216    Screw, 0-80 x 1/4” pan head slot                  1    53050    Link, 3 hole 
+1    10224    Screw, 0-80 x 3/8” pan head slot                  1    53051    Link, curved 
+12	10408	  Screw,	0-80	x	1/8”	fillister	head	slot               1    53053    Standard, Left 
+7    12216    Screw, 2-56 x 1/4” pan head slot                  1    53055    Standard, Right 
+9    12220    Screw, 2-56 x 5/16” pan head slot                 1    53061    Crosshead guide 
+5    12228    Screw, 2-56 x 7/16” pan head slot                 1    53062    Crosshead 
+7	 12412	  Screw,	2-56	x	3/16”	fillister	head	slot              1    53064    Pin, crosshead/con rod 
+1    12608    Setscrew, 2-56 x 3/32”                            1    53095    Connecting rod 
+
+2    40003    O-ring, 1/16” ID x 3/16” OD                       4    54003    Bushing 
+1    40006    O-ring, 1/8” ID x 1/4” OD                         1    54008    Bushing 
+1    40012    O-ring, 3/8” ID x 1/2” OD                         2    54020    Bushing 
+1    40030    Wrench, male hex, .035” AF                        1    54101    Bushing 
+                                                                1    54103    Bushing 
+1    51004    Cylinder cover 
+1    51005    Steam chest cover                                 1   BFLY1     Flywheel 
+1    51006    Washer, Brass, 3/16” ID 
+2    51007    Seal retainer, 1/16” ID 
+1    51008    Seal retainer, 1/8” ID 
+
+----------------------- Page 5-----------------------
+
+                                            BEFORE STARTING 
+
+        Thank you for purchasing the Graham Industries VR1A vertical reversing steam engine assembly kit. 
+
+        The VR1A kit contains approximately 100 parts.  As many of these parts are very small, care must be  
+used in opening the parts packages to prevent loss of any of these parts.  A compartmented tray is useful for  
+holding parts while assembling your engine.  A well lighted clean area is essential.  A large sheet of paper or  
+light colored cardboard to work on also helps. 
+
+	       The	only	tools	required	are	a	small	slot	screwdriver	set	and	a	small	file.		Light	machine	or	instrument	 
+oil will also be necessary to lubricate the parts as the engine is assembled.  While not required, a small pair  
+of tweezers and a small pair of needle nose pliers are useful for holding small parts. 
+
+                                            GETTING STARTED 
+
+Become	familiar	with	the	parts	contained	in	the	kit	by	comparing	the	parts	with	the	identification	drawing	and	 
+parts list.  In most cases, it will not be necessary to remove the parts from the packages.  Look over the as- 
+sembly drawings to get an overview of where the parts go. 
+
+For notation purposes, when referring to left and right sides of the engine, the engine is considered to be  
+vertical	with	the	flywheel	end	being	the	front	of	the	engine.		Left	and	right	are	then	defined	as	if	looking	from	 
+the	rear	of	the	engine	towards	the	front	(flywheel)	end.		The	reversing	lever	is	then	mounted	on	the	left	side	 
+of the engine. 
+
+As you assemble the kits, some of the parts may have burrs from machining on them.  These can be removed  
+with	the	aid	of	a	small	file	or	the	abrasive	paper	supplied	with	the	kit.		Some	parts	may	have	machining	marks	 
+on them from the cutters.  Except as noted, these will not affect operation, however, you may want to remove  
+them	by	filing	and	sanding	for	appearance.		If	you	desire	to	paint	your	engine,	it	is	suggested	that	you	as- 
+semble	it	first,	then	decide	what	to	paint.		The	engine	can	then	be	disassembled	as	necessary	to	paint	these	 
+parts.		If	painting	the	flywheel	and	base,	a	good	grade	of	primer	is	necessary	to	give	good	adhesion	to	the	 
+paint.  Also, all oil must be removed for the paint to stick.  This can be done in hot water using a dishwashing  
+detergent.  Rinse with hot water and dry completely. 
+
+The sealing and sliding surfaces of several parts need to be smoothed.  As the operation is the same for all  
+the parts, it is best to do all of them at the same time.  The operation can only loosely be called lapping, but  
+it	will	give	a	more	than	satisfactory	finish.		The	following	parts	will	be	lapped. 
+
+1.   Both	ends	and	the	port	face	of	the	cylinder	(53004).		Do	not	round	the	edges	of	the	valve	ports	in	the	flat	 
+    face of the cylinder block.  They must be left sharp to preserve the valve timing. 
+2.  The	face	of	the	valve	(53008)	with	the	rectangular	cavity. 
+3.   Both	faces	of	the	steam	chest	(53007)	that	have	holes	in	each	corner. 
+4.  One	side	of	the	steam	chest	cover	(51005).		When	the	cover	is	examined,	notice	that	one	side	has	the	 
+    edges slightly rolled from the stamping operation while the other side has sharp edges.  Lap the side with  
+    the sharp edges. 
+5.  One	side	of	the	cylinder	cover	(51004).		Either	side	is	fine. 
+6.  One	side	of	the	table	(53009).		Lap	the	side	that	has	only	the	center	hole,	and	not	the	side	that	has	the	 
+    center hole counterbored. 
+7.  The	sealing	face	of	the	steam	and	exhaust	flanges	(A1001	and	A1002). 
+
+Remove	any	large	burrs	with	a	file	before	the	lapping	operation.		Keep	the	file	clean	at	all	times	using	a	file	 
+card or brush if you have one.  This is very important in the case of aluminum, as the small particles will  
+scratch the surface of the aluminum.  The same applies to other metals also, but to a lesser extent. 
+
+A	sheet	of	400	grit	abrasive	paper	is	supplied	with	the	kit.		Find	a	flat	hard	surface	to	use	as	a	surface	plate.		 
+It	does	not	have	to	be	super	accurate.		A	table	or	counter	top	that	has	been	finished	with	a	pressure	plastic	 
+laminate is satisfactory.  If you are into woodworking, the table on a table saw will work well.  Place the abra- 
+sive	paper	on	the	flat	surface	and	wet	the	abrasive	surface	with	either	water	or	light	oil.		Place	the	part	to	 
+be	lapped	on	the	abrasive	paper	and	rub	the	part	in	a	figure	eight	pattern.	Rub	only	a	few	strokes,	and	then	 
+rotate the part and change your grip on the part.  The entire sealing surface should show signs of the lapping  
+operation.  If not, continue lapping until it does. 
+
+----------------------- Page 6-----------------------
+
+                                                         OPTIONS 
+
+Only a few assembly options are available.  The only simple one is the position of the steam and exhaust  
+pipes.  The drawings show the steam inlet on the left side and the exhaust on the right side.  As the cylinder  
+and steam chest are completely symmetrical, these can be reversed during assembly if desired.  Both steam  
+and exhaust pipes can actually be on the same side, but except in special applications, it would look odd. 
+
+If someone needs to, the reversing lever can be placed on the right side, but it will require some work and a  
+few precautions.  First,  the reversing lever will have to have a hole drilled and tapped on the opposite side  
+for	the	handle.		The	left	and	right	standards	must	be	switched	which	is	OK	as	they	will	fit	in	either	place.		The	 
+parallel motion linkage for the valve can be assembled either as shown or mirrored left to right as desired.   
+Do NOT rotate the eccentric 180 degrees.  It must stay in the same relationship with the crankshaft as shown  
+on the drawings. 
+
+                                                        ASSEMBLY 
+
+Inspect	the	PISTON	-	PISTION	ROD	assembly	(A2001)	for	burrs	or	sharp	edges	on	the	piston	and	remove	if	 
+necessary. 
+
+                                                    
+
+                                                   Lightly	oil	the	piston	groove.		Slide	the	3/8”	ID	O-RING	(40012)	 
+                                                  over the piston and into the piston groove.  Put a drop of oil on the  
+                                                  o-ring. 
+
+                                                   Hold	the	cylinder	(53004)	with	the	valve	port	face	towards	you	and	 
+                                                  the exhaust opening to the left.  Slide the piston into the cylinder  
+                                                  with the piston rod down.  If you want the exhaust on the other  
+                                                  side, now is the time to change it.  See OPTIONS. 
+
+                                                  Turn the cylinder over so the piston rod is pointing up.  Place the  
+                                                   round gasket with the hole in the middle on the cylinder, aligning  
+                                                  the screw holes.  Place a drop of oil on the gasket to keep it from  
+                                                   moving.		Slide	the	cylinder	mount	(53009)	over	the	piston	rod	so	 
+                                                  the lapped side is next to the cylinder and the long dimension of  
+                                                  the mount is perpendicular to the cylinder valve port face. 
+
+                                                  Secure	the	mount	to	the	cylinder	with	(2)	2-56	x	1/4”	(12216)	pan	 
+                                                   head	screws.		These	screws	go	into	the	holes	towards	the	flat	ends	 
+                                                  of the cylinder mount. 
+
+----------------------- Page 7-----------------------
+
+                                                   Slide	the	1/8”	ID	O-RING	(40006)	over	the	piston	rod.		Be	care- 
+                                                   ful going over the threads on the piston rod so the threads do not  
+                                                   damage the o-ring.  Press the o-ring into the counterbore on the  
+                                                   cylinder mount. 
+
+                                                   Slide	the	1/8”	SEAL	RETAINER	(51008)	over	the	piston	rod.		Se- 
+                                                   cure	it	to	the	cylinder	mount	with	(2)	0-80	x	1/8”	fillister	head	 
+                                                   screws	(10408). 
+
+                                                   Check	the	CROSSHEAD	(53062)	and	CROSSHEAD	GUIDE	(53061)	 
+                                                   for	burrs	and	remove	if	necessary.		Check	the	fit	of	the	crosshead	 
+                                                   in the guide  Remove the crosshead from the crosshead guide. 
+
+                                                   Install	the	5-40	special	nut	(53023)	on	the	end	of	the	piston	rod.		 
+                                                   Thread it almost all the way up. 
+
+                                                   Install the crosshead on the piston rod.  Thread it about 3 turns  
+                                                   on	the	piston	rod.		Turn	the	crosshead	so	the		flat	side	with	the	 
+                                                   threaded hole faces the valve port face on the cylinder. 
+
+                                                   Slide	the	crosshead	guide	(53061)	over	the	crosshead	and	secure	 
+                                                   with	(4)	2-56	x	5/16”	(12220)	pan	head	screws. 
+
+                                                   Slide	the	threaded	end	of	the	valve	spindle	assembly	(A2004)	 
+                                                   through	one	of	the	end	holes	in	the	steam	chest	(53007)	from	the	 
+                                                   inside of the steam chest until the unthreaded end of the spindle  
+                                                   fits	inside	the	steam	chest.		Then	slide	the	unthreaded	end	through	 
+                                                   the other end of the steam chest. 
+                                                     
+                                                   Install	a	1/16”	ID	O-ring	(40003)	on	each	end	of	the	valve	spindle	 
+                                                   rod using care not to damage the o-ring when sliding over the  
+                                                   spindle	threads.		Use	a	little	oil	on	each	o-ring. 
+
+Secure	each	o-ring	in	place	with	a	1/16”	hole	seal	retainer	(51007)	using	0-80	x	1/8”	fillister	head	(10408)	 
+screws.		Thread	a	0-80	nut	(10000)	on	the	end	of	the	spindle. 
+
+Check	the	fit	of	the	valve	on	the	valve	spindle.		It	must	be	a	free	easy	fit	with	the	drive	sleeve	on	the	valve	 
+spindle	fitting	in	the	slot	of	the	valve.		If	not,	open	up	the	slot	in	the	valve	with	a	small	file. 
+
+Set the valve on the steam chest so it covers all the ports. 
+
+Place the rectangular gasket with the cutout in the middle on the cylinder face.  Align the screw holes and  
+place a drop of oil to hold the gasket in place. 
+
+Install the steam chest on the cylinder with the intake hole facing away from the exhaust hole on the cylin- 
+der and the valve rod facing the same direction as the piston rod.  The drive sleeve of the valve spindle must  
+engage	the	valve	slot.		Temporarily	secure	the	chest	to	the	cylinder	with	(2)	2-56	x	7/16”	pan	head	screws	 
+(12228).		Only	SNUG	these	screws	so	as	to	not	damage	the	lapped	surface	on	the	steam	chest.		These	screws	 
+will be removed to install the steam chest cover later after the valve has been adjusted. 
+
+This ends the cylinder sub-assembly. 
+
+----------------------- Page 8-----------------------
+
+                                       ECCENTRIC SUB-ASSEMBLY 
+
+                                               Set	the	curved	link	(53051)	on	a	flat	surface	with	the	3	tapped	 
+                                               holes	nearest	you.		Insert	a	0-80	x	1/8”	pan	head	screw	(10208)	 
+                                               into a 54020 bushing from the large end of the bushing.  Insert the  
+                                               bushing	into	the	small	hole	in	an	eccentric	strap	assembly	(A2006)	 
+                                               and screw it to the right end of the curved link.  You will notice that  
+                                               the eccentric strap has a brass insert.  Install the eccentric strap  
+                                               so that the side where the brass insert sticks out farther is facing  
+                                               down.  The strap should extend towards you.  Turn the curved link  
+                                               over and repeat with the other eccentric strap.  The two straps will  
+                                               be attached at opposite ends of the curved link and on opposite  
+                                               sides of the link. 
+
+Start	a	2-56	x	3/32”	set	screw	(12606)	in	the	hub	of	the	eccentic	with	hub	(53040).		Set	the	eccentric	on	a	 
+flat	surface	with	the	hub	down.		Place	the	bottom	eccentric	strap	over	the	eccentric. 
+
+Insert	the	eccentric	without	hub	(53041)	into	the	other	eccentric	strap	from	the	top.		Turn	the	assembly	over.		 
+Connect	the	two	eccentrics	with	a	0-80	x	1/4”	pan	head	screw	(10216)	but	do	NOT	tighten. 
+
+Line	up	the	3/16”	holes	in	the	two	eccentrics	and	slide	the	crankshaft	(A2010)	through	the	holes	to	maintain	 
+alignment.  Tighten the screw holding the two eccentrics together.  Remove the crankshaft. 
+
+Remove	any	burrs	on	links	53046,	53049	and	53051	by	rubbing	them	onto	the	flat	face	of	a	file. 
+
+Set	the	assembly	on	a	flat	surface	with	the	hub	facing	up.		Insert	a	0-80	x	1/8”	pan	head	screw	(10208)	 
+through a 54003 bushing from the large end of the bushing.  Insert the bushing and screw in one end of a  
+53046 link and attach to the curved link in the center hole. 
+
+Turn	the	assembly	over.		Insert	bushing	54008)	in	one	end	of	the	other	53046	link.		Insert	a	0-80	x	3/16”	pan	 
+head	screw	(10212)	in	the	bushing	from	the	link	side	and	secure	to	the	center	hole	of	the	curved	link. 
+
+                                               Set	the	assembly	on	a	flat	surface	with	the	hub	facing	down	and	 
+                                               the eccentric strap big ends towards you.  Adjust the two 53046  
+                                               links	to	the	right	side.		Screw	handle	(53048)	into	the	side	of	the	 
+                                               reversing	lever	(53047). 
+
+                                               Insert	the	double	ended	bushing	(54101)	between	the	53046	links	 
+                                               engaging the two holes in the ends of the links.  Insert a 0-80 x  
+                                               3/8”	pan	head	screw	(10224)	through	the	bushing.		Place	the	re- 
+                                               versing	lever	under	the	bottom	link	with	the	flat	side	up	and	secure	 
+                                               the linkage to the reversing lever with the 0-80 screw. 
+
+This	finishes	the	eccentric	sub-assembly. 
+
+----------------------- Page 9-----------------------
+
+                                       PARALLEL MOTION LINKAGE 
+
+                                               Insert	a	54003	BUSHING	in	the	center	hole	of	LINK	53050.		Insert	 
+                                               a	0-80	x	3/16”	pan	head	screw	(10212)	in	the	bushing	from	the	 
+                                               opposite side of the link that the bushing was inserted from.  Insert  
+                                               the	screw	into	the	small	hole	in	LINK	(53049)	and	secure	with	a	 
+                                               0-80	NUT	(10000). 
+
+                                               Attach	the	linkage	just	assembled	to	the	VALVE	DRIVE	BLOCK	 
+                                               (A2005)	by	sliding	the	remaining	ROUND	hole	in	link	53050	over	 
+the short end of the pin extending from the valve drive block.  The long link must be away from the valve drive  
+block.  Secure with a 0-80 x 1/8” pan head screw. 
+
+                                                           Screw the valve drive block to the valve spindle on the  
+                                                           cylinder sub-assembly about 3 turns.  Make sure you  
+                                                           installed a 0-80 nut on the valve spindle before the pre- 
+                                                           vious step.  Position the cylinder assembly so the steam  
+                                                           chest is nearest you and the crosshead guide is down.   
+                                                           Rotate the valve drive block so the links are nearest the  
+                                                           crosshead  guide.    Position  the  links  so  the  elongated  
+                                                           hole in link 53050 is to your right and the long link is to  
+                                                           your left. 
+
+----------------------- Page 10-----------------------
+
+FINAL ASSEMBLY 
+
+Remove	any	burrs	from	the	standards	(53053	and	53055).		Attach	 
+the	standards	to	the	base	(A2026)	using	(4)	2-56	x	5/16”	pan	 
+head	screws	(12220).		The	bearing	blocks	on	the	base	are	at	the	 
+front of the engine.  With the bearing blocks away from you, stan- 
+dard	53053	(the	standard	with	two	0-80	holes	in	it)	will	be	on	your	 
+left and the 0-80 tapped holes will be towards the bearing block  
+end. 
+
+Insert a 54003 bushing into the elongated hole in link 53050 from  
+the side of the link nearest the 53053 standard.  Secure the link  
+and bushing to the standard with a 0-80 x 1/8” pan head screw.   
+Insert a 54003 bushing into the 53049 link from the side of the link  
+away from the standard and secure to the upper hole in the 53055  
+standard	using	a	0-80	x	1/8”	pan	head	screw	(10208). 
+
+Position the eccentric assembly so the hub faces the steam chest  
+and the curved link is up.  Slide the eccentrics between the bearing  
+blocks and engage the pin on the valve drive block into the curved  
+slot. 
+
+----------------------- Page 11-----------------------
+
+                                              Slide the 51006 washer on the crankshaft.  Slide the crankshaft  
+                                              through	the	inside	bearing	(between	the	standards),	the	eccentrics	 
+                                              and the outer bearing. 
+
+                                              Insert bushing 51003 in the reversing lever and secure to the stan- 
+                                              dard	with	a	0-80	x	3/16”	pan	head	screw	(10212).		Make	sure	the	 
+                                              lugs	on	the	reversing	lever	fit	on	either	side	of	the	standard. 
+
+                                              Rotate the crankshaft so the crankpin is nearest the base.  Rotate  
+                                              the eccentric so the hub setscrew is to the side of the engine op- 
+                                              posite	of	the	reversing	lever.		Insert	the	.035”	hex	wrench	(40030)	 
+                                              in the eccentric setscrew.  While keeping the crankpin nearest the  
+                                              base, rotate the eccentric so the hex wrench is 3/4” above the  
+                                              base where it crosses the standard.  Slide the crankshaft against  
+                                              the inside bearing and slide the eccentric towards the opposite side  
+                                              of the inside bearing.  Tighten the eccentric setscrew.  The crank- 
+                                              shaft should be able to slide in the bearings a little bit. 
+
+                                              Place	the	small	end	of	the	connecting	rod	(53095)	in	the	crosshead	 
+                                              guide and slide the large end on the crankpin of the crankshaft as- 
+                                              sembly.  Slide the piston and rotate the crankshaft until the con- 
+                                              necting rod can be engaged in the slot in the crosshead.  Align the  
+                                              holes  in  the  connecting  rod  and  the  crosshead  and  insert  pin  
+                                              (53064)	from	the	rear	of	the	engine.		Screw	in	the	pin	firmly. 
+
+Slide	the	flywheel	on	the	crankshaft	and	secure	with	the	4-40	x	3/32”	setscrew	and	the	.050”	hex	wrench.		 
+There	should	be	some	fore-aft	play	in	the	crankshaft	with	the	flywheel	attached. 
+
+----------------------- Page 12-----------------------
+
+Rotate the crankshaft until the piston is nearest the top of the cylinder.  Adjust the piston position by rotating  
+the piston with a small screwdriver in the slot in the piston rod.  The piston is adjusted so the top of the piston  
+is half way between the top of the cylinder and the point where the steam passage meets the cylinder bore.   
+This is about 0.015” below the top of the cylinder. 
+
+Rotate the crankshaft to bring the piston down and tighten the 5-40 lock nut on the piston rod against the  
+crosshead. 
+
+Move the reversing lever to one extreme.  Rotate the crankshaft until the valve is in the uppermost position of  
+travel.  Adjust the valve spindle until about 3/4 of the lower steam port is uncovered by the valve. 
+
+Rotate the crankshaft until the valve is at the bottom of travel.  The upper steam port should be uncovered the  
+same amount as the lower one was in the previous step.  If not, adjust the valve spindle until the openings  
+are equal at the two valve extremes. 
+
+Tighten the lock nut on the valve spindle against the valve drive block. 
+
+                                              Place the remaining round gasket with no center cutout on the top  
+                                              of	the	cylinder	and	align	the	screw	holes.		Use	a	drop	of	oil	to	hold	 
+                                              it	in	place.		Place	the	cylinder	cover	(51004)	with	the	lapped	side	 
+                                              against	the	cylinder	and	gasket.		Secure	with	(6)	2-56	x	3/16”	fil- 
+                                              lister	head	screws	(12412). 
+
+Remove the two screws holding the steam chest to the cylinder.  
+
+Install the remaining rectangular gasket with no center cutout on the face of the steam chest.  Install the  
+steam	chest	cover	(51005)	with	the	lapped	side	against	the	gasket.		Secure	with	(4)	2-56	x	7/16”	pan	head	 
+screws	(10228). 
+
+Attach	the	exhaust	pipe	assembly	(A1002)	to	the	cylinder	using	(2)	0-80	x	1/8”	fillister	head	screws	(10808).		 
+This is the larger diameter pipe. 
+
+Attach	the	steam	inlet	pipe	assembly	(A1001)	to	the	steam	chest	using	(2)	0-80	x	1/8”	fillister	head	screws	 
+(10808). 
+
+----------------------- Page 13-----------------------
+
+                                                   RUNNING 
+
+The VR1A is designed to run on a maximum of 30 PSI steam or air.  At 30 PSI, the no load speed will be about  
+4,000 RPM.  Pressures higher than 30 PSI may cause mechanical failure in the engine.  If the engine is run   
+on	steam,	the	steam	supply	boiler	MUST	have	a	safety	pressure	release	valve	set	to	no	higher	than	30	PSI. 
+
+After the engine has a few hours of running on it, it will run on less than 5 PSI with no load.  For testing and  
+running it in, air operation is recommended.  When running on steam, a lubricator to supply oil to the engine  
+is necessary.  When running on air, a few drops of oil in the steam pipe every few hours of running is all that  
+is necessary. 
+
+Oil all the bushings, eccentrics, crankshaft bearings, crosshead and any other rotating or sliding points before  
+starting	the	engine	for	the	first	time. 
+
+To test and adjust the engine, connect an air source of about 10 PSI to the steam pipe.  The reversing lever  
+can	be	set	for	either	direction	of	operation.		The	flywheel	will	rotate	in	the	same	direction	as	the	reversing	 
+lever	is	rotated.		After	connecting	the	air,	rotate	the	engine	flywheel	in	the	same	direction	as	the	reversing	 
+lever has been roated and the engine will start. 
+
+Do not apply more than 15 PSI to the engine until it has run for at least one hour. 
+
+The settings used to adjust the engine while assembling are close enough for casual running, however, you  
+may	want	to	refine	the	adjustments	by	adjusting	the	eccentric	position	until	the	engine	runs	equally	well	in	 
+both directions. 
+
+                                           LIMITED WARRANTY 
+
+Graham Industries warranties that the materials supplied in this kit are free from defects for a period of 60  
+days from the date of purchase.  If any defects in material are discovered during this period, the defective  
+material	will	be	replaced	upon	written	notification	to	Graham	Industries.		Graham	Industries	reserves	the	right	 
+to require the defective material be returned to us for inspection.  This warranty does not apply to materials  
+that have been damaged by improper assembly or by operation outside the limitations described in the run- 
+ning portion of the assembly manual. 

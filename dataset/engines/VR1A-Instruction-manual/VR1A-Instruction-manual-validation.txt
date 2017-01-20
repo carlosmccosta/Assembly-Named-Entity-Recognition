@@ -1,0 +1,57 @@
+PARTS LIST
+
+Qty	Part #	Description
+1	A1001	Steam pipe and flange (1/8” OD)
+1	A1002	Exhaust pipe and flange (3/32” OD)
+1	A2001	Piston and rod assembly
+1	A2004	Valve spindle assembly
+1	A2005	Valve drive block assembly
+2	A2006	Eccentric strap assembly
+1	A2010	Crankshaft assembly
+2	10000	Nut, 0-80
+7	10208	Screw, 0-80 x 1/8” pan head slot
+6	10212	Screw, 0-80 x 3/16” pan head slot
+1	10216	Screw, 0-80 x 1/4” pan head slot
+1	10224	Screw, 0-80 x 3/8” pan head slot
+12	10408	Screw, 0-80 x 1/8” fillister head slot
+7	12216	Screw, 2-56 x 1/4” pan head slot
+9	12220	Screw, 2-56 x 5/16” pan head slot
+5	12228	Screw, 2-56 x 7/16” pan head slot
+7	12412	Screw, 2-56 x 3/16” fillister head slot
+1	12608	Setscrew, 2-56 x 3/32”
+2	40003	O-ring, 1/16” ID x 3/16” OD
+1	40006	O-ring, 1/8” ID x 1/4” OD
+1	40012	O-ring, 3/8” ID x 1/2” OD
+1	40030	Wrench, male hex, .035” AF
+1	51004	Cylinder cover
+1	51005	Steam chest cover
+1	51006	Washer, Brass, 3/16” ID
+2	51007	Seal retainer, 1/16” ID
+1	51008	Seal retainer, 1/8” ID
+
+Qty	Part #	Description
+1	53004	Cylinder, machined
+1	53007	Steam chest
+1	53008	Valve, slide
+1	53009	Cylinder mount
+1	53023	Nut, 5-40
+1	53040	Eccentric, with hub
+1	53041	Eccentric, without hub
+2	53046	Link, 2 hole short
+1	53047	Lever, reversing
+1	53048	Handle
+1	53049	Link, 2 hole long
+1	53050	Link, 3 hole
+1	53051	Link, curved
+1	53053	Standard, Left
+1	53055	Standard, Right
+1	53061	Crosshead guide
+1	53062	Crosshead
+1	53064	Pin, crosshead/con rod
+1	53095	Connecting rod
+4	54003	Bushing
+1	54008	Bushing
+2	54020	Bushing
+1	54101	Bushing
+1	54103	Bushing
+1	BFLY1	Flywheel

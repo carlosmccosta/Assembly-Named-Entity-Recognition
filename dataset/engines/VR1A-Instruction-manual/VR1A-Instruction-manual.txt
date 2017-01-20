@@ -1,0 +1,57 @@
+ASSEMBLY
+Inspect the PISTON - PISTION ROD assembly (A2001) for burrs or sharp edges on the piston and remove if necessary.
+Lightly oil the piston groove. Slide the 3/8” ID O-RING (40012) over the piston and into the piston groove. Put a drop of oil on the o-ring.
+Hold the cylinder (53004) with the valve port face towards you and the exhaust opening to the left. Slide the piston into the cylinder with the piston rod down. If you want the exhaust on the other side, now is the time to change it. See OPTIONS.
+Turn the cylinder over so the piston rod is pointing up. Place the round gasket with the hole in the middle on the cylinder, aligning the screw holes. Place a drop of oil on the gasket to keep it from moving. Slide the cylinder mount (53009) over the piston rod so the lapped side is next to the cylinder and the long dimension of the mount is perpendicular to the cylinder valve port face.
+Secure the mount to the cylinder with (2) 2-56 x 1/4” (12216) pan head screws. These screws go into the holes towards the flat ends of the cylinder mount.
+Slide the 1/8” ID O-RING (40006) over the piston rod. Be careful going over the threads on the piston rod so the threads do not damage the o-ring. Press the o-ring into the counterbore on the cylinder mount.
+Slide the 1/8” SEAL RETAINER (51008) over the piston rod. Secure it to the cylinder mount with (2) 0-80 x 1/8” fillister head screws (10408).
+Check the CROSSHEAD (53062) and CROSSHEAD GUIDE (53061) for burrs and remove if necessary. Check the fit of the crosshead in the guide Remove the crosshead from the crosshead guide.
+Install the 5-40 special nut (53023) on the end of the piston rod. Thread it almost all the way up.
+Install the crosshead on the piston rod. Thread it about 3 turns on the piston rod. Turn the crosshead so the flat side with the threaded hole faces the valve port face on the cylinder.
+Slide the crosshead guide (53061) over the crosshead and secure with (4) 2-56 x 5/16” (12220) pan head screws.
+Slide the threaded end of the valve spindle assembly (A2004) through one of the end holes in the steam chest (53007) from the inside of the steam chest until the unthreaded end of the spindle fits inside the steam chest. Then slide the unthreaded end through the other end of the steam chest.
+Install a 1/16” ID O-ring (40003) on each end of the valve spindle rod using care not to damage the o-ring when sliding over the spindle threads. Use a little oil on each o-ring.
+Secure each o-ring in place with a 1/16” hole seal retainer (51007) using 0-80 x 1/8” fillister head (10408) screws. Thread a 0-80 nut (10000) on the end of the spindle.
+Check the fit of the valve on the valve spindle. It must be a free easy fit with the drive sleeve on the valve spindle fitting in the slot of the valve. If not, open up the slot in the valve with a small file.
+Set the valve on the steam chest so it covers all the ports.
+Place the rectangular gasket with the cutout in the middle on the cylinder face. Align the screw holes and place a drop of oil to hold the gasket in place.
+Install the steam chest on the cylinder with the intake hole facing away from the exhaust hole on the cylinder and the valve rod facing the same direction as the piston rod. The drive sleeve of the valve spindle must engage the valve slot. Temporarily secure the chest to the cylinder with (2) 2-56 x 7/16” pan head screws (12228). Only SNUG these screws so as to not damage the lapped surface on the steam chest. These screws will be removed to install the steam chest cover later after the valve has been adjusted.
+This ends the cylinder sub-assembly.
+
+ECCENTRIC SUB-ASSEMBLY
+Set the curved link (53051) on a flat surface with the 3 tapped holes nearest you. Insert a 0-80 x 1/8” pan head screw (10208) into a 54020 bushing from the large end of the bushing. Insert the bushing into the small hole in an eccentric strap assembly (A2006) and screw it to the right end of the curved link. You will notice that the eccentric strap has a brass insert. Install the eccentric strap so that the side where the brass insert sticks out farther is facing down. The strap should extend towards you. Turn the curved link over and repeat with the other eccentric strap. The two straps will be attached at opposite ends of the curved link and on opposite sides of the link.
+Start a 2-56 x 3/32” set screw (12606) in the hub of the eccentic with hub (53040). Set the eccentric on a flat surface with the hub down. Place the bottom eccentric strap over the eccentric.
+Insert the eccentric without hub (53041) into the other eccentric strap from the top. Turn the assembly over. Connect the two eccentrics with a 0-80 x 1/4” pan head screw (10216) but do NOT tighten.
+Line up the 3/16” holes in the two eccentrics and slide the crankshaft (A2010) through the holes to maintain alignment. Tighten the screw holding the two eccentrics together. Remove the crankshaft.
+Remove any burrs on links 53046, 53049 and 53051 by rubbing them onto the flat face of a file.
+Set the assembly on a flat surface with the hub facing up. Insert a 0-80 x 1/8” pan head screw (10208) through a 54003 bushing from the large end of the bushing. Insert the bushing and screw in one end of a 53046 link and attach to the curved link in the center hole.
+Turn the assembly over. Insert bushing 54008) in one end of the other 53046 link. Insert a 0-80 x 3/16” pan head screw (10212) in the bushing from the link side and secure to the center hole of the curved link.
+Set the assembly on a flat surface with the hub facing down and the eccentric strap big ends towards you. Adjust the two 53046 links to the right side. Screw handle (53048) into the side of the reversing lever (53047).
+Insert the double ended bushing (54101) between the 53046 links engaging the two holes in the ends of the links. Insert a 0-80 x 3/8” pan head screw (10224) through the bushing. Place the reversing lever under the bottom link with the flat side up and secure the linkage to the reversing lever with the 0-80 screw.
+This finishes the eccentric sub-assembly.
+
+PARALLEL MOTION LINKAGE
+Insert a 54003 BUSHING in the center hole of LINK 53050. Insert a 0-80 x 3/16” pan head screw (10212) in the bushing from the opposite side of the link that the bushing was inserted from. Insert the screw into the small hole in LINK (53049) and secure with a 0-80 NUT (10000).
+Attach the linkage just assembled to the VALVE DRIVE BLOCK (A2005) by sliding the remaining ROUND hole in link 53050 over the short end of the pin extending from the valve drive block. The long link must be away from the valve drive block. Secure with a 0-80 x 1/8” pan head screw.
+Screw the valve drive block to the valve spindle on the cylinder sub-assembly about 3 turns. Make sure you installed a 0-80 nut on the valve spindle before the previous step. Position the cylinder assembly so the steam chest is nearest you and the crosshead guide is down. Rotate the valve drive block so the links are nearest the crosshead guide. Position the links so the elongated hole in link 53050 is to your right and the long link is to your left.
+
+FINAL ASSEMBLY
+Remove any burrs from the standards (53053 and 53055). Attach the standards to the base (A2026) using (4) 2-56 x 5/16” pan head screws (12220). The bearing blocks on the base are at the front of the engine. With the bearing blocks away from you, standard 53053 (the standard with two 0-80 holes in it) will be on your left and the 0-80 tapped holes will be towards the bearing block end.
+Insert a 54003 bushing into the elongated hole in link 53050 from the side of the link nearest the 53053 standard. Secure the link and bushing to the standard with a 0-80 x 1/8” pan head screw. Insert a 54003 bushing into the 53049 link from the side of the link away from the standard and secure to the upper hole in the 53055 standard using a 0-80 x 1/8” pan head screw (10208).
+Position the eccentric assembly so the hub faces the steam chest and the curved link is up. Slide the eccentrics between the bearing blocks and engage the pin on the valve drive block into the curved slot.
+Slide the 51006 washer on the crankshaft. Slide the crankshaft through the inside bearing (between the standards), the eccentrics and the outer bearing.
+Insert bushing 51003 in the reversing lever and secure to the standard with a 0-80 x 3/16” pan head screw (10212). Make sure the lugs on the reversing lever fit on either side of the standard.
+Rotate the crankshaft so the crankpin is nearest the base. Rotate the eccentric so the hub setscrew is to the side of the engine opposite of the reversing lever. Insert the .035” hex wrench (40030) in the eccentric setscrew. While keeping the crankpin nearest the base, rotate the eccentric so the hex wrench is 3/4” above the base where it crosses the standard. Slide the crankshaft against the inside bearing and slide the eccentric towards the opposite side of the inside bearing. Tighten the eccentric setscrew. The crankshaft should be able to slide in the bearings a little bit.
+Place the small end of the connecting rod (53095) in the crosshead guide and slide the large end on the crankpin of the crankshaft assembly. Slide the piston and rotate the crankshaft until the connecting rod can be engaged in the slot in the crosshead. Align the holes in the connecting rod and the crosshead and insert pin (53064) from the rear of the engine. Screw in the pin firmly.
+Slide the flywheel on the crankshaft and secure with the 4-40 x 3/32” setscrew and the .050” hex wrench. There should be some fore-aft play in the crankshaft with the flywheel attached.
+Rotate the crankshaft until the piston is nearest the top of the cylinder. Adjust the piston position by rotating the piston with a small screwdriver in the slot in the piston rod. The piston is adjusted so the top of the piston is half way between the top of the cylinder and the point where the steam passage meets the cylinder bore. This is about 0.015” below the top of the cylinder.
+Rotate the crankshaft to bring the piston down and tighten the 5-40 lock nut on the piston rod against the crosshead.
+Move the reversing lever to one extreme. Rotate the crankshaft until the valve is in the uppermost position of travel. Adjust the valve spindle until about 3/4 of the lower steam port is uncovered by the valve.
+Rotate the crankshaft until the valve is at the bottom of travel. The upper steam port should be uncovered the same amount as the lower one was in the previous step. If not, adjust the valve spindle until the openings are equal at the two valve extremes.
+Tighten the lock nut on the valve spindle against the valve drive block.
+Place the remaining round gasket with no center cutout on the top of the cylinder and align the screw holes. Use a drop of oil to hold it in place. Place the cylinder cover (51004) with the lapped side against the cylinder and gasket. Secure with (6) 2-56 x 3/16” fillister head screws (12412).
+Remove the two screws holding the steam chest to the cylinder.
+Install the remaining rectangular gasket with no center cutout on the face of the steam chest. Install the steam chest cover (51005) with the lapped side against the gasket. Secure with (4) 2-56 x 7/16” pan head screws (10228).
+Attach the exhaust pipe assembly (A1002) to the cylinder using (2) 0-80 x 1/8” fillister head screws (10808). This is the larger diameter pipe.
+Attach the steam inlet pipe assembly (A1001) to the steam chest using (2) 0-80 x 1/8” fillister head screws (10808).

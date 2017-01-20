@@ -1,0 +1,514 @@
+CRANKSHAFT ASSEMBLY
+
+Tools Required:
+Oven Heated to 400 degrees F.
+Heat-proof Gloves
+White Lithium Grease
+1/2” Impact Wrench with  30MM Socket
+Locktite #242
+Block of Wood
+Hammer or Mallet
+Torque wrench (80 ft. lbs. capacity)
+
+Parts Required:
+Prop Hub, ACV-H01-16
+Prop Hub Bushing and Washer, ACV-H01-17
+Crankshaft, ACV-P01-98
+Oil Slinger, ACV-P01-101
+#1 and #2 Bearings from Main Bearing Set, ACV-P01-57
+Retaining Ring, ACV-P01-64
+Forward Woodruff Key, ACV-P01-99
+Aft Woodruff Key, ACV-P01-104
+Crank Timing Gear, ACV-P01-62
+Bolt, ACV-Z01-74
+
+
+
+
+CAM ASSEMBLY
+
+Tools Required:
+Socket Wrench
+13mm Socket
+Torque Wrench (20 ft.-lbs. capacity)
+"Red" Locktite (High Strength Threadlocker)
+
+Parts Required:
+Cam Gear, ACV-P01-49
+Cam Shaft (w/ hardware), ACV-P01-72
+
+
+
+
+CONNECTING ROD ASSEMBLY
+
+Tools Required:
+White Lithium Grease
+Socket Wrench and Socket Set
+Moly Lube
+"Red" Locktite (High Strength Threadlocker)
+Torque Wrench (40 ft-lbs. capacity)
+Feeler Gauge
+
+Parts Required:
+Connecting Rods, ACV-P06-33 or ACV-P01-33
+Rod Bearing Set, ACV-P01-59
+Crankshaft Assembly
+
+
+
+
+CRANK CASE PREPARATION
+
+Tools Required:
+Flat Blade Screwdriver
+Rubber Mallet
+Fine File
+White Lithium Grease
+
+Parts Required:
+Engine Case
+8mm Head Stud Kit, ACV-P01-86
+Case kit, ACV-P02-12
+Main Bearing Dowel Pins (Set of 5), ACV-P01-46
+Valve Lifters, ACV-P01-48
+Main Bearing Set (split bearings only), ACV-P01-57
+Cam Bearings, ACV-P01-58
+Gasket Set, ACV-P02-15
+
+
+
+
+CRANK CASE ASSEMBLY
+
+Tools Required:
+White Lithium Grease
+"Red" Locktite (High Strength Threadlocker)
+Torque Wrench (25 ft-lbs. capacity)
+Torque Wrench (227 ft-lbs. capacity)
+Rubber Mallet
+Feeler Gauge Set
+13, 19 and 36mm Sockets
+Permatex Aviation Form-A-Gasket #3 or Flange Sealant
+Cam Assembly Lubricant
+
+Parts Required:
+Previously Completed Sub-Assemblies
+Main Bearing Set, Bearing #4 (Flanged), ACV-P01-57
+Flywheel Assembly, ACV-F01-02
+Cam Plug, ACV-P01-35
+Gland Nut, ACV-P01-42
+End Shim Kit, ACV-P02-19
+Gland Nut Washer, ACV-P01-44
+ACV-Z01-75, Elastic Stop Nut, 12mm, Qty. 6
+ACV-Z01-16 Bolts, Qty. 3
+ACV-Z01-23 Elastic Stop Nuts, Qty. 15
+ACV-Z01-26 Washers, Qty. 17
+ACV-Z01-28 Washers, Qty. 6
+Cam Screw Gaskets from Gasket Kit), Qty. 2, ACV-P02-15
+
+
+
+
+PISTON & CYLINDER ASSEMBLY
+
+Tools Required:
+Needle-Nose Pliers
+SAE 30 Motor Oil
+1” Utility Brush
+Permatex Aviation Form-A-Gasket No. 3 Sealant
+Rubber Mallet
+Ring Compressor
+Vise-Grips
+Micrometer Caliper
+
+Parts Required:
+Crank Case Sub-Assembly
+Big Bore Piston and Cylinder Kit, ACV-P02-14
+Barrel Shims, .090, ACV-P01-39
+Barrel Shims, .040, ACV-P01-40
+Barrel Shims, .060 (2 sets), ACV-P01-41
+Super Tin, ACV-P06-71
+
+
+
+
+CYLINDER HEAD INSTALLATION
+
+Parts Required:
+Cylinder Head Nuts and Washers, from ACV-P01-86
+Copper Cylinder Head Gaskets, 0.060 Thick, ACV-P01-92
+Cylinder Head Assemblies, (See packing list for part number)
+Push Rod Tubes, ACV-P06-50
+Rocker Arm Nuts, (from Valve Cover package)
+Gasket Set (partial), ACV-P02-15
+
+
+
+
+ROCKER SHAFT INSTALLATION
+
+Parts Required:
+Push Rods, ACV-P06-51
+Pushrod Measuring Tool
+Cylinder Head Nuts and Washers, from ACV-P01-86
+Rocker Arm Nuts, from Valve Cover package
+Rocker Shaft Assembly, ACV-P02-10
+
+
+
+
+OIL SCREEN INSTALLATION
+
+Tools Required:
+Socket Wrench
+10 mm Socket
+
+Parts Required:
+Oil Change Kit, ACV-P01-53
+ACV-Z01-22, 6mm Elastic Stop Nut (Qty 6)
+Oil Temp Sender (Optional), ACV-P01-77
+Machined Oil Sump Plate (Optional), ACV-P02-20
+
+
+
+
+OIL PUMP INSTALLATION
+
+Tools Required:
+Socket Wrench
+13 mm Socket
+Plastic Mallet
+White Lithium Grease
+Aviation Form-A-Gasket #3 or Flange Sealant
+
+Parts Required:
+Maxi Oil Pump (with Oil Cooler Ports), ACV-P01-55
+Straight Pump (without Oil Cooler Ports), ACV-P01-56
+
+
+
+
+OIL SEAL INSTALLATION
+
+Tools Required:
+High Temperature RTV Silicone Gasket Maker
+VW Oil Seal Installation Tool (optional, recommended)
+Rubber Mallet
+
+Parts Required:
+End Shims, ACV-P02-19
+Oil Seal, ACV-P01-68
+
+
+
+
+PROP DRIVE LUG INSTALLATION
+
+Tools Required:
+5/16-18" x 2” Hex Head Cap Screw (not supplied in kit)
+5/16-18 Nut (not supplied in kit)
+5/16 Washer (not supplied in kit)
+5/8" Socket
+
+Parts Required:
+Prop Drive Bushings, ACV-H01-11
+
+
+
+
+VALVE ADJUSTMENT
+
+Tools Required:
+0.006" Feeler Gauge
+Flat blade screw driver
+Socket Wrench
+13 mm Socket
+
+Parts Required:
+Valve Covers, ACV-P01-15
+
+
+
+
+BLOCK-OFF PLATES and PLUGS
+
+Parts Required
+Gasket Set (partial), ACV-P02-15
+ACV-Z01-18 Bolts, Qty 6
+Machined Breather Plate, ACV-P01-85
+Oil Temperature Plate, ACV-P01-12
+Fuel Pump Block-Off Plate, ACV-P01-14
+Oil Fill Plug, ACV-P01-17
+Dip Stick, ACV-P01-24
+Oil Pressure Sender (Optional), ACV-P01-76
+
+
+
+
+FLYWHEEL INSTALLATION
+
+Tools Required:
+Socket Wrench
+36mm Socket
+Torque Wrench
+Permatex High Temp Red RTV Silicone Gasket
+
+Parts Required:
+Flywheel Assembly, ACV-F01-02
+
+Hardware Required
+ACV-Z01-13 Cap Screws
+ACV-Z01-20 Bolts
+ACV-Z01-21 Bolt
+ACV-Z01-24 Nut
+ACV-Z01-27 Washers
+
+
+
+
+ACCESSORY PLATE INSTALLATION
+
+Tools Required:
+Socket Wrench
+13mm Socket
+13mm Ignition Wrench
+9/64" Allen Wrench
+7/32" Ignition Wrench
+
+Parts Required:
+Accessory Plate, ACV-A01-10
+Ignition Modules (Magnatron), ACV-A01-19
+ACV-Z01-13 Cap Screws
+ACV-Z01-20 Bolts
+ACV-Z01-21 Bolt
+ACV-Z01-24 Nut
+ACV-Z01-27 Washers
+MS21042-08 Hex Nuts
+Shim Stock .010", ACV-P01-75
+
+
+
+TRIGGER SHAFT INSTALLATION
+
+Tools Required
+9/64" Hex Drive
+Locktite 242
+
+Parts Required
+Trigger Shaft Assembly, ACV-F01-24
+ACV-Z01-81 Flat Head Socket Cap Screw, Special, Qty. 4
+
+
+
+
+SPARK PLUG INSTALLATION
+
+Tools Required:
+11/16” Spark Plug Socket Wrench
+0.018" & 0.032 Feeler Gauges
+Anti-Seize Compound
+
+Parts Required:
+Autolite 4163 Spark Plugs (Qty 8), ACV-P01-21
+
+
+
+
+INTAKE MANIFOLD INSTALLATION
+
+Supplies Required:
+Permatex Aviation Form-A-Gasket #3 or Flange Sealant
+
+Parts Required:
+AeroInjector, ACV-C07S
+Intake Manifold, as supplied
+Intake Elbow Spacers (Qty 2) ACV-M01-17
+Intake Elbow-Right Hand, ACV-M01-11
+Intake Elbow-Left Hand, ACV-M01-12
+Intake Hose (Qty 3), ACV-M01-20 (was ACV-M01-13) Hose Clamp (Qty. 6), ACV-Z01-10
+ACV-Z01-49, Socket Head Cap Screw (Qty. 4) ACV-Z01-26, Washer (Qty. 4)
+
+
+
+
+ALTERNATOR INSTALLATION
+
+Tools Required
+9/64" Hex Drive
+Locktite 242
+Locktite 7088 Primer
+
+Parts Required
+Alternator Mount Plate w/ Ignition Modules, ACV-A01-03
+Alternator Stator, 20 Amp, ACV-A01-15
+ACV-Z01-12 Cap Screw, Qty. 6
+ACV-Z01-76  Cap Screw, Patched, Qty. 4
+
+
+
+
+FIREWALL PREPARATION
+
+Parts Required
+Voltage Regulator, ACV-A01-20
+Ignition Coils (Red), Qty. 2, ACV-A01-25
+AN-grade hardware as required (not supplied)
+
+
+
+
+MOUNTING the ENGINE
+
+Parts Required
+Motor Mount Shock Bushings (Qty. 8), ACV-P01-19
+3/8" ID x 1.25" OD Fender Washer (Qty. 16), ACV-Z01-40
+AN4-36A Bolt (Qty. 4, not supplied)
+AN363-428 Nut (Qty. 4, not supplied)
+AN960-416 Washer (as needed, not supplied)
+
+
+
+
+MAGNATRON IGNITION WIRING
+
+Parts Required
+Spark Plug Boots, Qty. 4, ACV-P01-23
+Dual Pole, Single Throw Switch (not supplied)
+
+
+
+
+ELECTRONIC IGNITION WIRING
+
+Parts Required
+Electrical Terminals (not supplied)
+Electrical Wire (not supplied)
+
+
+
+
+SPARK PLUG WIRES
+
+Parts Required:
+Spark Plug Wires, ACV-A01-24
+
+
+
+
+ELECTRONIC IGNITION TIMING
+
+Tools Required
+5/32" hex wrench
+
+
+
+
+ALTERNATOR / REGULATOR WIRING
+
+Parts Required
+Electrical Terminals (not supplied)
+Electrical Wire (not supplied)
+
+
+
+
+STARTER INSTALLATION / WIRING
+
+Tools Required:
+3/8" Hex Wrench
+Locktite 262
+
+Parts Required
+Starter, ACV-A01-16
+ACV-Z01-14 Cap Screws
+Electrical Terminals (not supplied) Electrical Wire (not supplied)
+
+
+
+
+
+OIL BREATHER TUBE
+
+Materials Required
+5/8" O.D. x .035" Aluminum Tube (6061-T6 or 5052-0)
+Permatex High Temp Red RTV Silicone Gasket
+
+
+
+
+OIL COOLER, BOTTOM MOUNT
+
+Parts Required
+Optional Sonex/AeroVee Baffle Kit (p/n SNX-P30-10)
+
+The following parts are not supplied by Sonex Aircraft.
+Oil Cooler (Jeg's P/N 130-70265)
+AN912-4D Reducer Bushing, Qty. 2
+AN816-6-6D Straight Flare Fitting, Qty. 2
+AN816-6D Straight Flare Fitting, Qty. 2
+-06 Straight Hose Fitting, Qty. 4  (Jeg's P/N 799-610020)
+-06 Pro Flex Hose, 2 ft. (Jeg's P/N 799-632060)
+AN3-3 bolts, Qty. 4
+AN960-1032 Washers, Qty. 4
+MS20365-1032 Lock Nuts, Qty. 4
+
+
+
+
+OIL COOLER BYPASS PLATE
+
+Parts Required (Supplied by Sonex Aircraft)
+Oil Cooler Bypass Plate, ACV-P01-11
+Viton O-Ring, ACV-Z01-73
+ACV-Z01-17 Bolts Qty 2
+ACV-Z01-19 Bolts Qty 1
+ACV-Z01-22 Nut-Elastic Stop Qty 2
+ACV-Z01-25 Washer, 6mm- Qty 2
+Oil Pressure Sender (optional), ACV-P01-76
+1/8 NPT Pipe Plug (optional, not supplied)
+
+
+
+
+OIL COOLER, TOP MOUNT
+
+Parts Required 	
+Oil Cooler Mount Plate, ACV-P01-106
+Rubber gaskets from ACV-P02-15 Gasket Kit
+AN4-14A bolt, Qty. 2
+MS20365-428 Stop Nut, Qty. 3
+ACV-Z01-80, M8-1.25 x 20mm Button Head Screw, Qty. 1
+AN4-24A bolt, Qty. 1
+AN4-27A bolt, Qty. 2
+AN960-416 Washers, Qty. 6
+
+Not supplied by Sonex Aircraft:
+Oil Cooler for 1971 or later T1 or T2 VW engine (such as CB Performance part number 1727)
+
+
+
+
+BYPASSING / REMOVING A BOTTOM-MOUNTED OIL COOLER
+
+Parts Required
+6061-T6 Sheet (approx 12"' x 12")
+Oil Pump, AeroConversions p/n ACV-P01-56
+
+
+
+
+BYPASSING / REMOVING A TOP-MOUNTED OIL COOLER
+
+Parts Required
+Oil Cooler Bypass Plate, AeroConversions p/n ACV-P01-56
+Viton O-Ring, ACV-Z01-73
+
+
+
+
+INSTALLING the EXHAUST
+
+Parts Required
+Optional Sonex Aircraft Exhaust Kit
+Exhaust Gaskets (included in ACV-P02-15 Gasket Kit). Available separately as p/n ACV-P01-73.
