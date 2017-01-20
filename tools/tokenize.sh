@@ -20,5 +20,5 @@ echo "\n >>> Tokenizing ${input_file} using edu.stanford.nlp.process.PTBTokenize
 java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.process.PTBTokenizer "${input_file}" > "${output_file}.tok"
 
 if [ "${create_default_entity}" = true ]; then
-	perl -ne 'chomp; print "$_\tO\n"' "${output_file}.tok" > "${output_file}.tsv"
+	perl -ne 'chomp; print "$_\tO\n"' "${output_file}.tok" > "${output_file}-annotated.tsv"
 fi
