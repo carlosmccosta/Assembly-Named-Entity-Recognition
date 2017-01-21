@@ -1,0 +1,52 @@
+INSTALL OR CONNECT
+33 SI or 34 SI mounting lugs (H) to alternator mounting bracket (101).
+One flanged mounting bolt (102) through the D.E. frame mounting lug (H), the alternator mounting bracket (101), and the R.E. frame mounting lug bushing (17).
+Flanged mounting nut (103) to flanged mounting bolt (102) finger tight.
+
+NOTICE: If either bolt or nut are not flanged a 1/8" thick, hardened steel flat washer (105) (See Figure 43) must be substituted for flanged applications.
+
+Flanged adjustment bolt (106) through flat washer (105), slot in adjustment bracket (104) and thread into hole in DE frame adjustment lug (J) finger tight.
+Alternator belt(s) (107) onto pulley (14). 
+
+NOTICE: If engine uses automatic belt tensioning (idler) see engine manufactures installation instruction.
+Idler if used.
+
+NOTICE: Do not pry on alternator, rectifier end housing (1) to adjust belt tension. This may damage alternator. Pry against the drive end frame (4) with suitable pry bar (108).
+NOTICE: When alternator is used to attain belt tension see engine manufacturers tension specifications.
+
+Pry bar (108) between engine and drive end frame (4) of alternator. Using pry bar (108) as a lever apply force to pry alternator and increase belt tension.
+
+ADJUST
+Belt (107) tension using belt tension gage to specification and hold. (See Fig. 45)
+
+TIGHTEN
+Adjustment bracket (104) to engine or vehicle manufacturers specifications. Flange adjustment bolt (106) and flanged mounting bolt (102) and nut (103) to 88 N.m (65 lb. ft.).
+
+MEASURE
+Belt (107) tension with belt tension gage to ensure the specification is maintained. If not repeat steps 7.
+
+INSTALL OR CONNECT
+NOTICE: Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed.
+Stabilizer mounting bolt (109) through flat washer (105), stabilizer bracket (111), RE housing stabilizer lug (1), flat washer (105) and thread into nut (110) finger tight. (See Fig. 46)
+
+TIGHTEN
+Stabilizer bolt (109) and nut (110) to 88 N.m (65 lb. ft.).
+
+VEHICLE WIRING INSTALLATION (See Figure 47 & 48)
+NOTICE: On certain engine configurations a 1.5 µf capacitor (DRA 198544) was retrofited to some alternators.
+
+INSTALL OR CONNECT
+Battery lead (112), lead capacitor (116) if required, lockwasher (182) and nut (181) onto output stud (187), labeled "POS" on cover plate (15) finger tight. (See Fig. 48)
+Relay lead (113), lockwasher (192) and nut (191) onto relay stud (193) labeled "R" on cover plate finger tight, if used.
+Indicator light lead (114), lockwasher (202) and nut (201) on to indicator light stud (203), labeled "I" on cover plate finger tight, if used.
+Ground screw and lockwasher assembly (223) through ground wire lead (115) into threaded hole in rectifier end housing (1) located on top of 33 SI or on side of 34 SI finger tight.
+
+TIGHTEN
+Ground screw and lockwasher assembly (223) to 6 N.m (55 lb. in.)
+NOTICE: Use suitable open end wrench to hold nut (181) hex heads on "R" and "I" terminal studs (193 and 203). (See Fig. 49.)
+Hex head nut (181) on "POS" terminal to 7 N.m (65 lb. in.).
+Hex nuts (191) and (201) or ""R" and "I" terminals to 2 N.m (20 lb. in.), if used.
+
+INSTALL OR CONNECT
+PIN terminal cap on any terminals not used or any PIN connections.
+Vehicle battery cable to battery(s).
