@@ -3,7 +3,6 @@
 scriptpath=$(readlink -e "$0") || scriptpath=$0
 scriptdir=$(dirname "$scriptpath")
 corelibdir="${scriptdir}/../lib/corenlp"
-nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath=$(echo ${corelibdir}/* | tr " " ":")
 
 properties_file=${1:-"${scriptdir}/../configs/server.prop"}

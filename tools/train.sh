@@ -5,16 +5,16 @@ scriptdir=$(dirname "$scriptpath")
 nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 
-input_file=${1:?'Must specify text file'}
+input_file=${1:?'Must specify annotated tsv train file'}
 properties_file=${2:-"${scriptdir}/../configs/crf.prop"}
+
+java_max_memory=${3:-2g}
 
 output_directory="${scriptdir}/../ner"
 input_file_basename=$(basename "${input_file}" | cut -d. -f1)
-output_file=${3:-"${output_directory}/${input_file_basename}"}
-
-java_max_memory=${4:-2g}
+output_file_basename=${4:-"${output_directory}/${input_file_basename}"}
 
 
 echo "\n >>> Training ${input_file} using edu.stanford.nlp.ie.crf.CRFClassifier\n"
 
-java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.ie.crf.CRFClassifier -prop "${properties_file}" -trainFile "${input_file}" -serializeTo "${output_file}-ner-model.ser.gz" > "${output_file}-training-output.txt" 2>&1
+java -mx${java_max_memory} -cp ${javaclasspath} edu.stanford.nlp.ie.crf.CRFClassifier -prop "${properties_file}" -trainFile "${input_file}" -serializeTo "${output_file_basename}-ner-model.ser.gz" > "${output_file_basename}-training-output.txt" 2>&1

@@ -3,7 +3,7 @@
 #serializeTo = ner-model.ser.gz
 map = word=0,answer=1
 
-#wordFunction = edu.stanford.nlp.process.LowercaseAndAmericanizeFunction
+wordFunction = edu.stanford.nlp.process.LowercaseAndAmericanizeFunction
 #useKnownLCWords = false
 
 #useDistSim = true

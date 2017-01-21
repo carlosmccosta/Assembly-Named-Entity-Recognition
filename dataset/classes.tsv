@@ -1,9 +1,12 @@
+Main classes:	
 PART	Part name
+RPOS	Relative position between parts
+TOOL	Tools for performing a given operation
+OPER	Operation
+	
+Occasional classes:	
 ID	Part ID
 QTY	Part quantity
 DIM	Part dimensions
 WGT	Part weight
 PROP	Part property
-OPER	Operation
-RPOS	Relative position between parts
-TOOL	Tools for performing a given operation
