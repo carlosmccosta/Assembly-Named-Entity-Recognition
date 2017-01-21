@@ -62,6 +62,10 @@ hammer	TOOL
 
 For multi-token entities simply label each token with the appropriate class and Stanford NER will recognize that it is a multi-token entity and not several entities with the same class.
 
+Currently it is provided the following annotated files:
+
+- 10 out of 52 instruction pages from [Mechanical-gearbox-repair-manual.pdf](dataset/gearboxes/Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual.pdf) in [Mechanical-gearbox-repair-manual-train-annotated.tsv](dataset/gearboxes/Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual-train-annotated.tsv) and [Mechanical-gearbox-repair-manual-test-annotated.tsv](dataset/gearboxes/Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual-test-annotated.tsv)
+
 
 ### Create a fine tuned model for the annotated dataset
 
