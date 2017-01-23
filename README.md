@@ -62,9 +62,20 @@ hammer	TOOL
 
 For multi-token entities simply label each token with the appropriate class and Stanford NER will recognize that it is a multi-token entity and not several entities with the same class.
 
-Currently it is provided the following annotated files:
 
-- 10 out of 52 instruction pages from [Mechanical-gearbox-repair-manual.pdf](dataset/gearboxes/Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual.pdf) in [Mechanical-gearbox-repair-manual-train-annotated.tsv](dataset/gearboxes/Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual-train-annotated.tsv) and [Mechanical-gearbox-repair-manual-test-annotated.tsv](dataset/gearboxes/Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual-test-annotated.tsv)
+### Or use the provided annotated dataset
+
+Currently annotated files:
+
+- 5231 annotated tokens with assembly instructions from [Heavy-duty-brushless-alternator-service-manual.pdf](dataset/alternators/A1-Heavy-duty-brushless-alternator-service-manual/Heavy-duty-brushless-alternator-service-manual.pdf) in [Heavy-duty-brushless-alternator-service-manual-train-annotated.tsv](dataset/alternators/A1-Heavy-duty-brushless-alternator-service-manual/Heavy-duty-brushless-alternator-service-manual-train-annotated.tsv) and [Heavy-duty-brushless-alternator-service-manual-test-annotated.tsv](dataset/alternators/A1-Heavy-duty-brushless-alternator-service-manual/Heavy-duty-brushless-alternator-service-manual-test-annotated.tsv)
+
+- 10953 annotated tokens with assembly instructions from [AeroVee-Manual.pdf](dataset/engines/E1-AeroVee-Manual/AeroVee-Manual.pdf) in [AeroVee-Manual-train-annotated.tsv](dataset/engines/E1-AeroVee-Manual/AeroVee-Manual-train-annotated.tsv) and [AeroVee-Manual-test-annotated.tsv](dataset/engines/E1-AeroVee-Manual/AeroVee-Manual-test-annotated.tsv)
+
+- 8163 annotated tokens with 10 out of 52 instruction pages from [Mechanical-gearbox-repair-manual.pdf](dataset/gearboxes/G2-Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual.pdf) in [Mechanical-gearbox-repair-manual-train-annotated.tsv](dataset/gearboxes/G2-Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual-train-annotated.tsv) and [Mechanical-gearbox-repair-manual-test-annotated.tsv](dataset/gearboxes/G2-Mechanical-gearbox-repair-manual/Mechanical-gearbox-repair-manual-test-annotated.tsv)
+
+It is also provided the merge of the above train and test files in [dataset-A1-E1-G2-train-annotated.tsv](dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-train-annotated.tsv) and [dataset-A1-E1-G2-test-annotated.tsv](dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test-annotated.tsv) which results in a dataset with 24347 tokens (20370 train tokens and 3977 test tokens).
+
+The description of the annotated classes is in [dataset/classes.tsv](dataset/classes.tsv)
 
 
 ### Create a fine tuned model for the annotated dataset
