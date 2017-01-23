@@ -1,0 +1,866 @@
+DISASSEMBLY AND BENCH CHECKS
+TEST EQUIPMENT NEEDED:
+Multimeter
+Regulator Tester
+
+ALTERNATOR
+NOTICE: On some alternators on certain engine configurations, a 1.5 µf capacitor has been installed to the output terminal and attached with a cover screw. Remove the capacitor (DRA 1985444) before performing "Regulatror Quick Check.".
+Remove screws (216) and rectifier end plate (15) to expose electronics compartment. (See Fig. 12).
+Inspect electronics compartment for contamination, for shorted or grounded wires, and for loose connections. If contamination is present, clean and dry compartment before proceeding. The protective coating on all electronic components is a good insulator and must be scraped off to get a good contact for test equipment probes.
+
+FIELD COIL
+Disconnect 2 field leads (A) from regulator (6) (See Fig. 13), by removing 2 insulated regulator attachment screws (217). Use ohmmeter (or voltmeter, ammeter and battery) to check resistance of field coil.
+Compare to Field Check ohms (or volts and amps) in Specifications at the end of this manual or from Service Specification Bulletin. If outside specifications, replace field coil as described later in this manual.
+
+DIODE TRIO
+To check the diode trio (7), remove it from the electronics compartment by detaching the 3 nuts (218), stator leads (B) and attaching screw (217). Note that the insulating washer on the screw is assembled over the top of the diode trio connector. Discard screw if insulation is fractured during removal.
+
+CAPACITOR
+Remove capacitor (12) by removing the remaining two attachment screws (224) and screw (226) sliding out capacitor. (A sharp tool may be used to break varnish seal.)
+Using continuity check mode (diode check mode on digital meter), check for a shorted capacitor by touching ohmmeter leads to capacitor lead (F) and grounding tab (T). (See Fig. 15) This check should show an open circuit.
+
+REGULATOR
+To remove regulator (6) for testing, remove sense lead nut (218), bridge to regulator stud connector (219) and 2 screws (217) if not removed previously and screw (224). Disconnect “I” terminal sense lead strap to allow regulator removal. (See Fig. 16) Note: Discard insulated screw if insulation is fractured during removal.
+Check regulator on approved tester for SI type regulators. If regulator tests good, return it to service. If it tests bad, replace it. Install regulator as described later in this section.
+
+RECTIFIER BRIDGE
+Use the ohmmeter or (for digital meters) the diode check function of the multimeter to check the rectifier bridge (8). Bridge may be checked in place in the RE housing (1).
+All terminals must be disconnected from the threaded phase studs. “R” terminal and output terminal straps (198 &186) may be raised approximately one inch (2.5 cm) above rectifier for removal of diode trio (7) or rectifier bridge (8).
+Check 6 diodes as follows:
+Place negative ohmmeter lead on grounded heat sink. Touch positive ohmmeter lead firmly to metal diode clips that surround each of the 3 threaded studs. All 3 readings should be the same, and indicate open circuits. Switch leads and repeat. All 3 new readings should indicate continuity (Fig. 17)
+Repeat checks using insulated (positive) heat sink in place of grounded heat sink. With negative ohmmeter lead on insulated heat sink, all 3 readings should indicate continuity. Switch leads and repeat. All 3 new readings should indicate open circuits.
+If all readings are correct, the rectifier bridge is good.
+If any reading is wrong, an open or shorted diode is indicated and rectifier bridge should be replaced. To remove bridge, remove nut (218), nut (199) and relay strap (198) from regulator stud (193), two bridge attaching screws (226), and insulated capacitor attaching screw (224). Lift capacitor (12) and rectifier bridge (8) from SRE housing (Fig. 18).
+
+STATOR
+Disconnect the 3 stator phase leads (B) from the diode bridge studs by removing 3 nuts (218). Use continuity check function of ohmmeter to check stator windings. (See Fig. 18) Place one meter lead on one of the stator phase lead connectors and check for continuity to each of the other two stator leads.There should be continuity to both. If not, one or more of the stator coils is open; replace the stator as described later in this section.
+To check for grounds, again touch one meter lead to one of the stator phase leads, and touch the other meter lead to clean metal ground on the alternator housing. There should not be continuity. If there is continuity, the stator is grounded and should be replaced as described later in this section.
+It is not possible to detect shorted stator windings with ordinary shop equipment. However, if all other electrical checks are normal and the alternator has exhibited low output, shorted stator windings may be the cause. In such cases, replace the stator as described later in this section.
+
+FINAL DISASSEMBLY
+NOTICE: Do not damage exposed stator or field windings. Bumping or scraping these windings may break the insulation and leave a place for a short circuit or ground to develop later, causing the alternator to fail. Protect the windings from damage by careful handling.
+To replace the field coil (9), stator assembly (11), rotor assembly (10), or drive end (5) or rectifier end bearings (2), the drive end frame assembly must be separated from the rectifier end housing. (Fig. 19) Use 5/16" hex wrench or 5/16" hex drive, in the end of the shaft, to hold while removing shaft nut (211). Remove washer (212), pulley (14), and fan (13).
+Remove the 4 thru bolts (213). Carefully separate the drive end housing (4) from the stator (11) and rectifier end housing (1), taking care not to damage stator windings (See Fig. 20).
+NOTICE: Rectifier bridge must be removed before removing stator. (See Paragraph 7 and Fig. 18) To remove stator (11) from rectifier end housing (1), be sure all 3 stator leads are disconnected from diode bridge studs in electronics compartment. Pry stator and housing apart carefully. Guide stator leads and grommet (C) through well as stator is pulled from housing. It may be necessary to push on grommet with a blunt instrument to unseat it from the housing (See Fig. 21).
+To remove field coil and support (9) from rectifier end housing, (See Fig. 22) remove 4 field coil and support attaching screws (221). Lift coil and support from housing, while guiding field leads through hole.
+To remove rectifier end bearing (2) from RE housing (1), (See Fig. 23) use small screwdriver at slot to pry plug (222) from housing.
+
+NOTICE: Do not drive bearing out with hammer or other tool. Use arbor press to push bearing from housing.
+Wipe excess grease from bearing well, then press bearing through to inside of housing.
+
+If bearing inner race (3) appears to be worn or rough, remove from rotor shaft with a suitable puller.
+To replace rotor (10) or drive end bearing (5), (See Fig. 24) remove 4 bearing retainer attachment screws (214) from outside of housing (4). Lift rotor with bearing from housing, then pull bearing off of rotor shaft. If inside collar (215) appears rough or damaged, pull collar from shaft.
+NOTICE: Do not drive mounting hinge bushing from lug on rectifier end housing with a hammer or other tool. Use arbor press or vise to remove and replace bushing.
+To remove mounting hinge bushing (17) from lug on rectifier end housing (1), Press bushing from housing using arbor press with suitable tool.
+
+ALTERNATOR ASSEMBLY
+ASSEMBLY OF DE FRAME AND ROTOR
+
+INSTALL OR CONNECT
+Press inner race for rectifier end bearing (3) onto short end of rotor shaft. Stop when race is 3.7 mm (.15 in.) above end of shaft (See Fig. 25).
+Press inside collar (215) onto rotor shaft until collar is against shoulder on rotor (10). Place retainer plate (16) onto collar (flanged side of retainer will face away from rotor, toward bearing). Using open tube that bears only on inner race of bearing, press new DE bearing (5) onto rotor shaft until bearing is against collar.
+Insert bearing (5) (on rotor shaft) into bearing well in drive end frame (4). (See Fig. 26) Bearing will be a snug fit, but should slip in easily when properly aligned. Lubricate outside of bearing very lightly with ball and roller bearing lubricant (1948791) if necessary to facilitate assembly.
+Hold drive end assembly with long end of rotor shaft down so that bearing retainer plate (16) falls against housing, then align retainer with screw holes. (See Fig. 26) Start each of the four retainer attaching screws (214), then tighten screws gradually in sequence to pull retainer squarely against bearing.
+
+TIGHTEN
+Bearing retainer attaching screws (214) to 5 N.m (45 lb. in.).
+
+IMPORTANT
+To allow access for later installation of thru bolts (213), do not assemble fan and pulley to drive end assembly at this time.
+
+
+ASSEMBLY OF RECTIFIER END HOUSING AND COMPONENTS
+
+INSTALL OR CONNECT
+Lightly lubricate outside surface of hinge bushing (17). Press hinge bushing into hole in lug on rectifier end housing (1). Install bushing flush with inside of lug to allow maximum distance between two hinge lugs for mounting. Final position of hinge bushing will be adjusted during mounting (See Fig. 27).
+Position new bearing (2) into rectifier end housing (1) with seal toward rotor assembly (10) as assembled. Press bearing outer race into housing center hole until flush with machined face inside housing. (See Fig. 28) Push plug (222) into end of housing until outside edges are flush with edge of RE housing.
+Add ball and roller bearing lubricant (1948791) until cavity between plug (222) and bearing outer race (2) is about half full, placing grease so that it touches the edge of the bearing outer race in several places around the outside of the bearing. Cover opening with tape to prevent contamination.
+Turn leads so that they will be properly positioned after installation. (See Fig. 29) Place field coil and support (9) into rectifier end housing (1), guiding leads through hole into electronics compartment and aligning mounting holes in support with screw holes in rectifier housing. Ensure leads do not touch housing. Install 4 field coil and support attachment screws (221) (3 screws used in early production).
+
+TIGHTEN
+Field coil and support attachment screws (217) to 6.2 N.m (55 lb. in.).
+
+INSTALL OR CONNECT
+NOTICE: Handle stator with care to avoid bending windings or breaking varnish insulation on windings. If windings are damaged before or during installation, they may become shorted and cause reduced alternator output. Stator must be installed before rectifier.
+Straighten stator leads (B) to ease installation. Lubricate grommet (C) on stator leads lightly with petroleum jelly. Welded junction connector on some stators must be positioned straight up from windings to prevent grounding to housing or rotor when alternator is assembled. Straighten stator lead wires all the way to the windings and insert through well in housing into electronics compartment (See Fig. 30).
+Align thru-bolt holes in stator (11) with those in RE housing (1). Push stator into housing far enough to hold it in place, being sure grommet (C) on wires is inserted into well in housing at the same time. Stator lead wires should be stiff enough to push grommet into well as stator is installed (if not, carefully push on grommet with a blunt instrument to seat it in the well). The stator must be fully seated in housing at this time. Note: If necessary, place wood blocks on opposite corners of the stator frame and use arbor press (or tap blocks with hammer) to seat stator frame against rectifier end housing. Do not push against windings!
+Rectifier bridge (8) to RE housing (1).
+Install one rectifier bridge attaching screw (224) through grounded heat sink into RE housing. (Fig. 31) Finger tighten.
+Capacitor (12) to holes in end of rectifier bridge (8) (Fig. 32) Install ground screw (224) through capacitor (12), grounded heat sink, and into RE housing. Finger tighten.
+Output strap (186) over insulated rectifier and capacitor holes. (If new output terminal assembly, install per instructions in package.)
+Insulated capacitor attaching screw (226), through output strap (186), capacitor connector (12), and into RE housing. Finger tighten.
+
+NOTICE: Several pulley styles are available from ACDelco for 7/8" shaft alternators, including a blank that can be custom machined for unique applications.
+Pulley (14) suitable for engine application.
+Flat washer (212) and lock nut (211) onto shaft with locknut flat side next to washer.
+Insert 5/16" hex wrench or driver into end of shaft. Holding the shaft with a hex driver installed on a torque wrench makes an ideal way to check torque while tightening the nut. Tighten pulley nut to 102 N.m (75 lb. ft.).
+
+
+ALTERNATOR BENCH TEST
+
+TEST EQUIPMENT NEEDED:
+Alternator Test Stand (5000 rpm capability at least 5 HP)
+Battery or Battery Set (fully charged)
+Variable Carbon Pile Load Test
+Ammeter (current capability at least 15 amps higher than alternator rating)
+Voltmeter
+Ohmmeter
+
+The bench test procedure will verify alternator performance prior to installation on the vehicle. This test checks the alternator output in the same manner as the Rated Output Check covered earlier. If bench test equipment is not available, install the alternator on the engine according to manufacturer’s instructions and repeat the Rated Output Check to verify alternator operation. If bench test equipment is available, proceed as follows:
+Mount alternator in test stand according to test stand manufacturer’s instructions.
+
+IMPORTANT: Battery or battery set must be fully charged for test results to be valid.
+NOTICE: When a 12-volt carbon pile load test is used to diagnose a 24-volt system, attach load test only to 12-volt potential in battery set. Attaching a 12-volt load test to a 24-volt potential will damage the carbon pile.
+With carbon pile load turned off and with battery or battery set fully charged, make electrical connections as shown in Fig. 41. Battery voltage and ground polarity must be same as system in which alternator is used. Check and record battery or battery set voltage before proceeding with test.
+With carbon pile load off, start test stand and slowly increase alternator speed to highest rpm shown under Cold Output specifications in 33/34 SI Alternator Specifications at the end of this manual. Observe voltmeter.
+-If voltage does not increase but remains at or below previous reading (Step 2), there is no alternator output. Turn carbon pile load off and stop test stand. Residual magnetism in rotor may have been lost. Skip to Step 5.
+-If voltage increases above 15.5 volts on 12-volt system (or above 31 volts on 24-volt system), voltage is uncontrolled. Turn carbon pile load off and stop test stand. Recheck alternator for proper assembly. If alternator has been assembled properly, replace regulator as described under Unit Repair. Also check field coil for shorts and replace if defective.
+-If voltage is proper, proceed to next step. With alternator running at highest rpm shown under Cold Output in Specifications, turn on carbon pile load and adjust to obtain maximum alternator output on ammeter.
+-If ammeter reading is within 15 amps of Cold Output in Specifications, alternator is good. Turn off carbon pile load and stop test stand.
+-If ammeter reading is more than 15 amps below specification, alternator is not operating properly. Turn off carbon pile load and stop test stand. Return to Unit Repair section in this manual and re-diagnose the alternator.
+CAUTION: Do not allow jumper lead to be accidentally grounded while connected to battery insulated terminal. If the free end of this lead is accidentally touched to the alternator housing or other grounded areas, the jumper lead may quickly get hot enough to cause a skin burn or to damage the jumper lead. Keep jumper lead carefully insulated from grounding during this procedure.
+
+EQUIPMENT NEEDED:
+Jumper Lead (18 ga. min; no fuse)
+To restore residual magnetism in alternators with an “R” or “I” terminal, alternator ground terminal must be connected to battery ground terminal. This may be done directly or through the test stand wiring. (See Fig. 42)
+Disconnect carbon pile load test from battery if still connected. Disconnect any leads connected to alternator “R” or “I” terminal. Connect jumper lead to battery positive. Without touching other grounded areas (See CAUTION Above), momentarily touch (“flash”) free end of jumper lead to alternator “R” or “I” terminal. The momentary current flow into the terminal will restore the proper magnetism in the rotor. Disconnect the jumper lead from the battery, then return to Step 1 and repeat Alternator Bench Test.
+
+ALTERNATOR INSTALLATION
+CAUTION: Failure to disconnect grounded battery cable at battery before removing or attaching alternator “BAT” terminal lead may result in an injury. If a tool is shorted to the battery cable connector at the output terminal, the tool can quickly heat enough to cause a skin burn or to damage the tool or cable.
+
+REMOVE OR DISCONNECT
+Negative cable at battery.
+
+NOTICE: Always reinstall fasteners at original location. If necessary to replace fasteners, use only correct part number or equivalent. (See Fig. 43)
+If correct part number is not available, use only equal size and strength.
+Fasteners that are NOT to be reused will be noted in procedure.
+Fasteners requiring thread locking compound will be noted in procedure.
+Use specified torque values when shown.
+Using or replacing fasteners in any other manner could result in part or system damage.
+
+INSTALLATION PROCEDURE (See Figure 44)
+Always follow engine manufacturer’s instructions for installing alternator on engine. The following procedure is typical and may not match all steps necessary for a specific application.
+
+TEST EQUIPMENT NEEDED:
+Belt Tension Gage
+
+NOTICE: Before installing alternator to engine, check mounting bracket (101) and adjustment bracket (104), also stabilizer bracket (111 Fig. 46); if used, to ensure they are not worn or cracked. Make sure they will securely mount alternator to engine with proper hardware.
+
+TIGHTEN
+All fasteners holding alternator mounting bracket (101) to engine manufacturers torque specifications.
+
+ADJUST
+Rectifier end bushing (17) position in RE housing mounting lug to allow maximum distance between mounting lugs (H).
+NOTICE: Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed.
+
+INSTALL OR CONNECT
+33 SI or 34 SI mounting lugs (H) to alternator mounting bracket (101).
+One flanged mounting bolt (102) through the D.E. frame mounting lug (H), the alternator mounting bracket (101), and the R.E. frame mounting lug bushing (17).
+Flanged mounting nut (103) to flanged mounting bolt (102) finger tight.
+
+NOTICE: If either bolt or nut are not flanged a 1/8" thick, hardened steel flat washer (105) (See Figure 43) must be substituted for flanged applications.
+
+Flanged adjustment bolt (106) through flat washer (105), slot in adjustment bracket (104) and thread into hole in DE frame adjustment lug (J) finger tight.
+Alternator belt(s) (107) onto pulley (14). 
+
+NOTICE: If engine uses automatic belt tensioning (idler) see engine manufactures installation instruction.
+Idler if used.
+
+NOTICE: Do not pry on alternator, rectifier end housing (1) to adjust belt tension. This may damage alternator. Pry against the drive end frame (4) with suitable pry bar (108).
+NOTICE: When alternator is used to attain belt tension see engine manufacturers tension specifications.
+
+Pry bar (108) between engine and drive end frame (4) of alternator. Using pry bar (108) as a lever apply force to pry alternator and increase belt tension.
+
+ADJUST
+Belt (107) tension using belt tension gage to specification and hold. (See Fig. 45)
+
+TIGHTEN
+Adjustment bracket (104) to engine or vehicle manufacturers specifications. Flange adjustment bolt (106) and flanged mounting bolt (102) and nut (103) to 88 N.m (65 lb. ft.).
+
+MEASURE
+Belt (107) tension with belt tension gage to ensure the specification is maintained. If not repeat steps 7.
+
+INSTALL OR CONNECT
+NOTICE: Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed.
+Stabilizer mounting bolt (109) through flat washer (105), stabilizer bracket (111), RE housing stabilizer lug (1), flat washer (105) and thread into nut (110) finger tight. (See Fig. 46)
+
+TIGHTEN
+Stabilizer bolt (109) and nut (110) to 88 N.m (65 lb. ft.).
+
+VEHICLE WIRING INSTALLATION (See Figure 47 & 48)
+NOTICE: On certain engine configurations a 1.5 µf capacitor (DRA 198544) was retrofited to some alternators.
+
+INSTALL OR CONNECT
+Battery lead (112), lead capacitor (116) if required, lockwasher (182) and nut (181) onto output stud (187), labeled "POS" on cover plate (15) finger tight. (See Fig. 48)
+Relay lead (113), lockwasher (192) and nut (191) onto relay stud (193) labeled "R" on cover plate finger tight, if used.
+Indicator light lead (114), lockwasher (202) and nut (201) on to indicator light stud (203), labeled "I" on cover plate finger tight, if used.
+Ground screw and lockwasher assembly (223) through ground wire lead (115) into threaded hole in rectifier end housing (1) located on top of 33 SI or on side of 34 SI finger tight.
+
+TIGHTEN
+Ground screw and lockwasher assembly (223) to 6 N.m (55 lb. in.)
+NOTICE: Use suitable open end wrench to hold nut (181) hex heads on "R" and "I" terminal studs (193 and 203). (See Fig. 49.)
+Hex head nut (181) on "POS" terminal to 7 N.m (65 lb. in.).
+Hex nuts (191) and (201) or ""R" and "I" terminals to 2 N.m (20 lb. in.), if used.
+
+INSTALL OR CONNECT
+PIN terminal cap on any terminals not used or any PIN connections.
+Vehicle battery cable to battery(s).
+
+
+
+CRANKSHAFT ASSEMBLY
+
+Preparation:
+1. Inspect the bore of the Crank Timing Gear for burrs. If necessary, lightly polish it with fine emery cloth.
+2. Thoroughly clean all parts with Mineral Spirits.
+3. Remove the four (4) hex plugs from the crankshaft and thoroughly clean the crankshaft with Mineral Spirits. Re-install the hex plugs with Locktite #242.
+4. Test fit the prop hub. The prop hub should noT slide onto the crankshaft.
+5. Place the cleaned crankshaft in a freezer at least 12 hours prior to assembly.
+6. Heat an oven to 450o F. Place the crank timing gear and prop hub in the oven and heat for 60 minutes.
+7. 	Apply an even coat of white lithium grease to the inside surface of bearing #1 and bearing #2 from the Main Bearing Set.
+
+Assembly Instructions:
+1. Install the Aft Woodruff Key into the crankshaft. Make sure it is fully seated.
+2. Slide bearing #2 (with an even coat of white lithium grease applied to the inside surface) onto the crankshaft with the machined dot (arrow in photo) toward the crankshaft's counter-weight.
+3. Install the Timing Gear with the two machined dots (arrow in photo) facing away from bearing #2.
+4. Install the Retaining Ring in the groove in the crank.
+5. Enlarge the oil supply hole in bearing #1 by updrilling it with a #30 drill bit. Remove any burrs which may occur while drilling.
+6. Slide bearing #1 (with an even coat of white lithium grease applied to the inside surface) onto the crankshaft with the machined dot (arrow in photo) toward the retaining ring.
+7. Slide the Oil Slinger onto the crankshaft with the curved (concave) side of the slinger facing the end of the crankshaft.
+8. Install the Forward Woodruff Key into the crankshaft.
+9. Align the keyway of the Prop Hub with the forward woodruff key installed in the crankshaft and tap the prop hub into place using a mallet and block of wood.
+The prop hub must be tight against the oil slinger. Immediately install prop hub Bushing and Washer and Bolt (ACV-Z01-74). Use an impact wrench to tighten the bolt and push the prop hub against the oil slinger.
+
+
+
+
+CAM ASSEMBLY
+
+Assembly Instructions:
+Note: The Assembly Lube provided with the cam gear will be used to lubricate the valve lifters in a later operation. Do not lubricate the cam shaft bolts as instructed on the assembly lube package included with the cam shaft.
+Note: Cam shafts are supplied with varying hardware, all of which is acceptable. Use the hardware supplied with the cam to attach the cam gear. This may include either:
+Cam Bolts with integral lock washers.
+Cam bolts and wavy spring washers. Cam bolts and tab lock washers.
+Note: While not common, slight interference between the cam and the connecting rods does occasionally occur. One cause of this interference is a raised edge around the numbers stamped in the shaft of the cam. Lightly polishing these numbers will remove the raised edge and eliminate a possible source of interference.
+
+1. Align the machined dot on the face of the Cam Gear (arrow in photo)  with the slot in the Cam Shaft. Apply Red Locktite to the bolts and install the bolts and washers (if provided).
+2. Torque the bolts to 20 ft-lbs.
+3. If tabbed washers were provided with your cam shaft, bend the tabs against the bolt heads with a flat-blade screw- driver.
+
+
+
+
+CONNECTING ROD ASSEMBLY
+
+Assembly Instructions:
+Note: Both parts of each connecting rod are stamped with a unique number, identifying them as matched parts. The connecting rods must be reassembled as matched parts, with the numbers together as shown in this photograph.
+
+1. Remove the fastener from each Connecting Rod and carefully separate the two parts. Do not scratch or score the machined surface of the connecting rods.
+2. Wipe the mating surfaces of the connecting rods and bearing halves so they are free of oil and dust. Install the bearing halves by aligning the tab on each bearing half with the notch in each connecting rod and pressing the bearing halves into place.
+
+Note: The clearance between the rod bearings and rod journals must be between .002" and .0025". When assembling new parts, as provided in the AeroVee 2.1 kit, the proper clearance is often assumed. When rebuilding an engine using remanufactured parts, this clearance must be checked. Detailed instructions for checking this clearance are given in Tom Wilson's book "How to Rebuild Your Volkswagen Air Cooled Engine".
+
+3. Apply an even coat of white lithium grease to the exposed surfaces of each bearing half.
+4. The connecting rods are attached to the crankshaft, as shown in the photo below, with the stamped numbers facing up. Be sure to re-assemble the connecting rods as matched parts.
+5. ACV-p06-33 Rods only (with starred bolt and nut): Apply Moly Lube to each rod bolt and install. Torque each bolt as follows:
+first to 8 ft.-lbs.
+then to 15 ft.-lbs.
+then 24 ft.-lbs.
+Then the final torque of 38 ft.-lbs.
+
+ACV-p01-33 Rods only (with hex bolt): Apply "Red" Locktite (or, if supplied with your rods, ARP Ultra-Torque) to the threads of each rod bolt and install.
+Torque each bolt in four steps:
+first to 8 ft.-lbs.
+then to 15 ft.-lbs.
+then 24 ft.-lbs.
+Then the final torque of 30 ft.-lbs.
+
+6. 	Check each connecting rod for freedom of movement and .005" to .020" side clearance.
+
+
+
+
+CRANK CASE PREPARATION
+
+Preparation:
+1. Separate the case halves and thoroughly clean them with mineral spirits. Remove all traces of metal chips and dust from the case. Pay particular attention to removing metal chips which still cling to the edge of machined surfaces (see photo) and to casting slag on the inside of the case which may dislodge after the engine is in service.
+2. If you are painting the case, now is the best time to do so. Mask off all machined surfaces, mating surfaces, and holes before painting.
+
+Assembly Instructions:
+1. Install the head studs as shown in the photos below.
+2. Lay the case on it's side so the oil pressure relief ports in the bottom of the case are accessible.
+3. Find the oil pressure relief plungers (2), springs (1 long, 1 short), metal gaskets (2) and retaining plugs (2) in the Case Kit. Note: The remainder of the case kit may be discarded as it is not needed on the AeroVee.
+4. Insert the grooved plunger, lightly lubricated with motor oil, solid end first into the oil pressure relief port in the bottom of the case near the prop hub. Note: The plungers must move freely in the passages. If they do not, clean the plungers with fine emery cloth until they do.
+5. Insert the long spring behind the grooved plunger.
+6. Place a metal gasket on a retaining plug and screw the plug into the relief port.
+7. Insert the non-grooved plunger, lightly lubricated with motor oil, solid end first into the oil pressure relief port in the bottom of the case near the flywheel.
+8. Insert the short spring behind the non-grooved plunger.
+9. Place a metal gasket on a retaining plug and screw the plug into the relief port.
+10. Install the Main Bearing Stud Seals (Qty. 6) from the Gasket Set (ACV-P02-15). The seals slide over the 6 large studs in the right case half.
+11. Wipe clean the case journals and the back of each Cam Bearing and install the bearings in the left half of the case. The following photos show where each bearing is installed.
+12. The flanged cam bearing for the right case half must have its alignment tab filed off. File the tab off with a fine file.
+13. Wipe clean the case journals and the back of each Cam Bearing and install the bearings in the right half of the case. The following photos show where each bearing is installed.
+14. Test fit each Valve Lifter in a guide. The lifters must slide freely in the guides. If a lifter sticks, clean the guide with very fine emery cloth. After test-fitting, liberally lubricate each lifter with white lithium grease and install them in their guides.
+15. Test fit the Cam Shaft in each case half to make sure there is clearance between the lobes of the camshaft and each valve lifter. Interference between the cam shaft and a lifter must be investigated.
+16. Install four (4) Dowel Pins in the right case half. Make sure they are fully inserted.
+17. Install one (1) Dowel Pin in the left case half. Make sure it is fully inserted.
+18. Install one half of the Split Main Bearing (from Main Bearing Set, ACV-P01-57) into the middle journal of each case half, carefully aligning the recess in the bearing with the dowel pin in the journal. A light tap may be required to properly seat each bearing half.
+19. Apply an even coat of white lithium grease to all of the cam bearings and main bearings.
+
+
+
+
+CRANK CASE ASSEMBLY
+
+Assembly Instructions:
+1. 	Apply a coat of white lithium grease to the inside of Main Bearing #4 and slide it onto the end of the crank shaft assembly. Make sure the dowel pin hole is toward the end of the crankshaft.
+2. 	Carefully set the crank shaft assembly into right case half. Make sure dowel pin hole in each bearing is aligned with the dowel pins in the case half, and the crankshaft assembly is fully seated in the case half.
+3. 	Important! Temporarily mate the case halves and rotate the crankshaft. Listen and "feel" for a knock which may indicate the case is interfering with the connecting rods. If interference is detected:
+3a. Disassemble the case halves and identify the location of the interference.
+3b. Remove crank assembly.
+3c. Taking care not to get grinding dust on other parts, use a remove case material to provide at least .045" clearance. Dremel-style motor tools work well for this operation.
+3d. Reinstall the crankshaft assembly and repeat step 3 until all interference is eliminated.
+4. 	Apply a small amount of cam assembly lubricant to each valve lifter.
+5. 	Align the single dot on the gear of the cam shaft assembly with the two dots on the gear of the crankshaft assembly and rotate the cam down into the into the cam bearings in the right case half. After seating the camshaft in the bearing, make sure the dots still align as shown in photo 5a.
+6. 	impoRTAnT! Make sure the main bearings of the crankshaft are still fully seated on the dowel pins in the case half.
+7. 	Align the 8 holes in the center of the flywheel with the dowel pins on the end of the crankshaft. The hole pattern permits the flywheel to be installed in only one position.
+8. 	The flywheel is a tight fit onto the crankshaft. It must go on squarely. If it binds, remove it and lightly polish the dowel pins with fine emery cloth. Once the flywheel has been started by hand, complete the installation by tightening the gland with an impact wrench.
+9. 	Push the crankshaft towards the back (flywheel end) of the engine and, with a feeler gauge, measure the gap between the flywheel and the rear main bearing. Record this measurement in the "Shim Chart".
+10. Complete the shim chart by subtracting .006" from gap recorded in step 9. This is the total thickness of shims you will use to set the proper end play.
+11. Clean the end shims with a mild solvent to remove the preservative.
+12. Select any combination of three to five shims which most closely equals the "Shim Thickness" determined in step 10.
+13. Check your shim selection by sliding the shims, together with a feeler gauge, between the flywheel and the main bearing. You should have between .003" and .006" of end play. If necessary, adjust your shim selection to achieve the required end play of .003" to .006". Set the shims aside for later installation.
+14. Remove the gland nut and flywheel from the crank shaft. It may be necessary to use a flywheel puller.
+15. Carefully align the Cam Plug, with its closed (flat) end out, and install it in the cam plug bore at the flywheel end of the case. Note: Most cases have a smooth cam bore for a “ribbed” plug. Some cases have a groove in the cam bore for a cam plug with a raised bead.
+16. Apply Permatex Aviation Form-A-Gasket #3 or Flange Sealant to the mating surfaces of the case halves. Apply according to the product manufacturer's instructions. Apply sparingly.
+17. Note: While assembling the case halves, the lifters in the left half will want to slide out. This can be minimized by giving them each a heavy coat of white lithium grease. Assemble the two case halves by placing the left half over the right half. Gently tap the left half with a rubber mallet to seat it against the right half of the case.
+18. Place one ACV-Z01-28 washer and one ACV-Z01-75 12mm elastic stop nut on each of the six large studs. do not tighten the nuts at this time.
+19. In the order shown in the photo above, torque the 6 large nuts to 15 foot-pounds.
+20. Check for free movement of the crankshaft. If interference is detected, identify the source of the interference
+(most likely poorly seated main or cam bearings). Note: If the connecting rods are not held near their normal operating position while checking for interference, you may experience interference which does not exist on an assembled engine.
+21. In the order shown in the photo, re-torque the 6 large nuts to 25 foot-pounds. do not exceed 25 foot-pounds.
+22. Check for free movement of the crankshaft, as described in step 20.
+23. Apply Permatex Aviation Form-A-Gasket #3 to two (2) ACV-Z01-26 washers and place them over the cam shaft studs the lower left side of the engine.
+24. Install an ACV-Z01-23 stop nut on each cam shaft stud and lightly tighten.
+25. Install an ACV-Z01-26 washer and ACV-Z01-23 stop nut on the remaining (10) studs on the perimeter of the case. Lightly tighten each nut.
+26. Install and lightly tighten an ACV-Z01-16 hex head cap screw, two (2) ACV-Z01-26 washers, and an ACVZ01-23 stop nut in each of the three through-holes which serve to join to two case halves. Minimal thread engagement is normal. Nuts will be flush with ends of screws.
+27. Torque the two cam nuts (from step 24) to 10 ft.-lbs.
+28. Torque the remaining case-assembly nuts (from steps 25 and 26) to 13 ft-lbs. There is no defined order for torquing these nuts.
+29. Check for free movement of the crankshaft, as described in step 20.
+
+
+
+
+PISTON & CYLINDER ASSEMBLY
+
+Assembly Instructions:
+IMPORTANT: Pistons and pins have been matched to within 5 grams. Keep each piston and pin together as a set.
+1. Remove a piston ring from each piston and slide it squarely inside it's matched cylinder. Measure the gap between the ends of the ring - it should be between 0.012"-0.022". Re-install the ring on the piston.
+2. Re-install the piston into the cylinder using a ring compressor.
+3. Slide one piston and cylinder assembly into place on the crank case. Install the piston pin and make sure the cylinder is well seated.
+4. Bring the piston to Top Dead Center.
+5. Measure the deck height (distance be tween the top of the piston and the top of the cylinder). If the piston is below the top of the cylinder you have a positive (+) deck height. If the piston is higher than the top of the cylinder, you have a negative (-) deck height. Use your measured deck height to determine which cylinder shims are required from the chart on page 21.
+6. Remove the cylinder and piston assembly from the case.
+7. Apply a light coat of motor oil to the outside of each  piston and the inner wall of each cylinder.
+8. Install the cylinder shims (as required, see chart on next  page) onto each cylinder. Align the shims so they match  the reliefs in the cylinder for the case studs.
+9. Apply Permatex Aviation Form-A-Gasket No. 3 Sealant to the shims and base of cylinder.
+10. Rotate the crank to bring a connecting rod to top dead center - this eases installation of the piston and cylinder.
+11. Note: The arrow on each piston face points to the flywheel end of the engine. Partially slide the cylinder over the head studs. Push the piston out the bottom of the cylinder just far enough to attach the piston to the connecting rod with a piston pin, and secure the pin in place with a snap ring on each side of the piston pin. Note: The snap rings were included in the piston/cylinder box.
+12. Remove excessive sealant and tap the cylinder with a rubber mallet to seat it in position.
+13. Repeat steps 10 through 12 for the other cylinders.
+14. Install the super tin (below) under the cylinders and cylinder head. It "snaps" in place with the dividing rib between the cylinders and the cylinder head. See photo at right.
+
+
+
+
+CYLINDER HEAD INSTALLATION
+
+Assembly Instructions:
+Important: The cylinder heads will contain debris from machining. You must clean and inspect the cylinder heads for debris before installing them.
+Note: The process of machining the spark lug holesfor the secondary ignitionoften damages neighboring cooling fins. Missing finsis normal. You may wish to sand/file the rough edges to make them smooth.
+Note: "Grooves" in the seat of the secondary ignition sparkplug hole are normal and do not impact the seal of the spark plug washer
+1. 	Install Push Rods Seals (from Gasket Set) on each end of the Push Rod Tubes. Expand the bellows end of each push rod tube slightly. This will improve the seal between the push rod tubes, engine case, and cylinder heads.
+2. 	Insert Cylinder Head Gaskets into Head Assemblies.
+3. Align the cylinder head with the engine studs and cylinders and then install the push rod tubes. Check alignment of Push Rod Tubes and barrels as you push the cylinder head into place.
+4. 	Place washers and retaining nuts (from the head stud kit) onto the head studs. Tighten in sequence shown in drawings A and B, below. Torque sequence must be used to prevent the head from warping.
+5. 	Perform this step only if the cylinder head has an o-ring recess at the base of the stud. Install O-ring (from Gasket Set) onto the two head studs that hold the rocker assembly in place.
+
+
+
+
+ROCKER SHAFT INSTALLATION
+
+Assembly Instructions:
+Note: Pre-assembled rocker assemblies often need to be disassembled for proper installation.
+1. Assemble the rocker shafts with the gap in the rocker blocks facing the cupped end of the rocker arms and the thin shims evenly distributed.
+2. Turn each adjuster fully counter-clockwise until the pad lightly contacts the rocker arm, and then turn it back clockwise 1.5 turns.
+Note: Steps 3 through 19 apply to one side of the engine at a time and will be repeated for each side.
+3. Place a square spacer from the rocker arm package over each of the rocker shaft mounting studs on a cylinder head.
+4. Place a rocker assembly over the mounting studs and inspect for interference between the rocker arm assembly and the head studs. If the rocker arm assembly contacts the head studs, trim the ends of the head studs to remove the interference. The spacers placed under the rocker blocks influence the alignment of the rocker arm swivel pads to the valve tip. Proper alignment is achieved when the flat of the swivel pad is partially off-center from the valve stem. This is typically achieved with 1 or 2 shims under each rocker block.
+5. Observe the lateral alignment of each swivel pad to its corresponding valve stem. Arrange the spacers on the rocker shaft, between each rocker arm and mounting block, as needed to get each swivel pad properly aligned. It is acceptable to have no spacer between components if that will achieve the proper alignment between the valve stem and the swivel pad. This slight offset rotates the valve a small amount each time it opens, improving the life of the valve train.
+6. Torque the hex head cap screws on the end of the rocker shaft assembly to 25 foot-pounds.
+7. Remove the rocker assembly from the cylinder head.
+8. Slide the pushrod length tool into a pushrod tube until it engages the lifter in the case.
+9. Rotate the crank until the pushrod reaches the bottom of it's travel.
+10. Re-install the rocker shaft assembly and secure it with the retaining nuts included with the valve covers. Torque the nuts to 14 foot-pounds.
+11. Adjust the length of the pushrod tool until it is engaging the lifter, is seated in the cup of the rocker arm, and is holding the rocker arm swivel pad against the tip of valve stem.
+12. Remove the rocker arm assembly.
+13. Remove the pushrod length tool without disturbing it's setting. The pushrod length tool is set for the over-all length of the four (4) pushrods for that side of the engine.
+Note: It is not necessary to measure and trim each pushrod
+individually, however, it may be beneficial to determine the
+pushrod lengths for each side of the engine individually.
+14. Allow for the length of the pushrod tip and trim the pushrod bodies as needed.
+15. Make sure the inside of each pushrod is clean.
+16. Press a tip onto each of the trimmed pushrods. The end of the pushrod body may be heated if necessary, but do not apply excessive localized heat.
+17. Apply white lithium grease to the end of each pushrod and slide them into the pushrod tubes.
+18. Re-install the rocker assembly, carefully aligning the pushrods with the cups of the rocker arms.
+19. Install the rocker assembly retaining nuts and torque them to 14 ft-lbs.
+20. Repeat steps 3 through 19.
+
+
+
+
+OIL SCREEN INSTALLATION
+
+Assembly Instructions:
+1. Install a gasket from the oil change kit over the studs in the oil sump.
+2. Install the oil screen.
+3. Install the second gasket from the oil change kit over the oil screen.
+4. Install the steel bottom plate, or optional ACV-P02-20 Oil Sump Plate, with the 6mm copper washers from the oil change kit and the 6mm nuts from the shakeproof nut kit. Do not over-tighten these nuts.
+0r
+	Install the optional ACV-P02-20 Oil Sump Plate with the provided 6mm copper washers and acorn nuts. You may also use the elastic stop nuts from the Shakeproof nut kit instead of the acorn nuts.
+5. Install the oil drain plug and included metal/copper gaskets, or the optional oil temp sender w/gasket.
+Note: On engine cases requiring an ACV-P01-12 Oil Temperature Plate it is recommended that an oil temperature sender be installed in that plate rather than the oil screen. See "Block-Off Plates and Plugs", page 30.
+Note: It is not uncommon to have to deform the oil screen when installing the optional oil temp sender.
+
+
+
+
+OIL PUMP INSTALLATION
+
+Assembly Instructions
+1. 	Measure the clearance between the pump gears and the pump cover. Proper clearance is .000" to .004". Tighter is better. Clearances greater than .004" will result in reduced oil pressure.
+2. 	Install oil pump gasket under the oil pump housing and align pump housing with oil galley ports.
+3. 	Tap oil pump housing into place with a plastic mallet.
+4. Liberally grease the top gear and install it, making sure it engages the cam.
+5. Liberally grease and install the free running bottom gear.
+6. 	Apply a very thin coat of Aviation Form-A-Gasket or Flange Sealant to the oil pump cover. If installing the ported oil pump, make sure the oil passages are aligned properly (see photo, next column).
+Important! Failure to properly align the passages in the ported cover plate will result in low oil pressure and engine damage.
+7. 	Install the 4 mount bolts and torque them to 14 ft-lbs.
+
+
+Oil Cooler Installation
+Installation of an oil cooler is described in the Appendix of this manual. All oil cooler installations must use threaded AN fittings and high quality -06 hose.
+
+Operation Without an Oil Cooler
+To operate your AeroVee without an oil cooler you must either run a loop of -06 hose from the output side of the ported pump to the input side of the ported pump, or replace the entire pump with the ACV-P01-56 Straight (unported) Pump.
+Important: do not plug the output and input ports of a ported pump with plugs. This will prevent oil flow and cause significant engine damage.
+Important: do not replace a ported pump cover with a non-ported cover. This will prevent oil flow and cause significant engine damage.
+Additional information on installing oil coolers can be found in Appendix A of this manual.
+
+
+
+
+OIL SEAL INSTALLATION
+
+Assembly Instructions
+Note: The correct number and thickness of end shims was determined in Crank Case Assembly, page 17.
+1. 	Clean the oil seal bore of excessive sealant, particularly around near the case parting lines.
+2. 	Install the end shims over the flywheel end of the crank.
+3. 	Apply a light coat of High Temperature RTV Silicone Gasket Maker to the outside diameter of the oil seal and install the seal. A VW seal installation tool may be used for best results, however the seal can also be lightly tapped in place if care is used.
+4. 	Wipe off any excess sealant.
+
+
+
+
+FIREWALL PREPARATION
+
+Before the engine is installed on the engine mount, the firewall should be prepared. This includes mounting the AeroVee's secondary ignition coils and voltage regulator.
+Though not part of the AeroVee kit, careful consideration must be given to the placement of the gascolator, battery box, master solenoid, and other firewall-mounted components to avoid interference with the engine installation and assure ease of maintenance.
+
+Voltage Regulator Installation
+Note: The voltage regulator must be grounded. In a typical installation the regulator will be grounded through the hardware which secures it to the firewall. If your installation uses non-conductive materials for the firewall, or for the mounting of the regulator, dedicated ground wires will be necessary between the regulator and a suitable ground point.
+
+1. Mount the voltage regulator to the firewall in a location which allows easy connection of the wires from the alternator. The use of 3/8" long stand-offs (aluminum or bronze tubing) is recommended to space the regulator away from the firewall.
+Wiring the alternator to the voltage regulator is described later in this manual.
+
+Secondary Ignition Coil Installation
+Note: The ignition coils must be grounded. In a typical installation the coils will be grounded through the hardware which secures them to the firewall. If your installation uses non-conductive materials for the firewall, or for mounting the coils, dedicated ground wires will be necessary between the coils and a suitable ground point.
+1. Mount the ignition coils (ACV-A01-25) to the firewall in a location which allows easy connection of the lower spark plug wires. The use of 3/4" long stand-offs (aluminum or bronze tubing) is recommended to space the coils away from the firewall.
+
+
+
+
+MOUNTING the ENGINE
+
+Sonex Aircraft Airframes
+Bolting the engine to the engine mount is shown in detail in the "Engine Installation, AeroVee" drawing of your airframe plans and on the next page of this manual, however, these few notes may save you some time.
+
+All Airframes
+
+Mount Bushings
+The engine mount bushings will go on the engine mount much easier if they lightly lubricated with soapy water.
+
+Lifting the engine
+When lifting the engine into place care must be taken to make sure the pushrod tubes are not damaged.
+
+Installing the mount Bolts
+The head of the mounting bolts may be inserted in either direction.
+
+A typical engine mount and shock-rubber installation. A minimum of two ACV-Z01-40 washers (1/8" thick total, minimum) must be placed against the front bushing. Additional washers may be used as needed, and washers may be used behind the rear bushings as spacers to shim the thrust line as needed.
+
+
+
+MAGNATRON IGNITION WIRING
+
+Magnatron Circuit Basics
+The magnatron is a very simple ignition system, however, understanding the circuit wiring is often confusing. Unlike most other electrical devices, when the switch is "Off" the Magnatron circuit is closed and the Magnatrons are disabled. When the switch is "On" the ground path is open and the Magnatrons become operational.
+
+Magnatron Wiring
+The Magnatron ignition should be controlled by a single Dual Pole, Single Throw (DPST) toggle switch.
+To check for proper switch installation:
+A. Place the switch in the down ("Off") position.
+B. Place an ohmmeter across a pair of the switches' terminals. If there is no resistance (0 ohms) between the terminals, the switch is properly oriented in the panel. If the resistance is infinite, the switch is "On" and needs to be rotated 180-degrees in the panel for proper installation.
+
+1. Attach a 20 gauge (minimum) ground wire to the body of each magnatron. The ground wire may be attached to a magnatron mounting bolt, or to one of the "studs" (A) on the metal frame. Attach the other end of the ground wire to a suitable ground on the engine block. Do not attach the ground wire to the "p-Lead" terminal ("B", photo below). This terminal must only be used for the ignition switch wiring.
+2. Attach a 20 gauge (minimum) wire between a DPST ignition switch and the P-Lead terminal (B) of each magnatron.
+3. Attach a 20-gauge (minimum) wire between the remaining terminals of the DPST switch and an appropriate airframe ground.
+4. Slide a spark plug boot over the end of each spark plug wire.
+5. Attach the top Magnatron's spark plug wires to the upper front spark plugs.
+6. Attach the bottom Magnatron's spark plug wires to the upper rear spark plugs.
+
+
+
+
+ELECTRONIC IGNITION WIRING
+
+Top Trigger Wiring
+1. Black wire (ground). Attach to any ground point. The ground wires from both the top trigger and bottom trigger can share the same ground point.
+2. Red wire (+12V). Attach to rear terminal screw of right hand coil (terminal "B" in photo).
+3. Orange wire (Trigger). Attach to the front terminal (terminal "A" in photo) of right hand coil.
+
+Bottom Trigger Wiring
+1. Black wire (ground). Attach to any ground point. The ground wires from both the top trigger and bottom trigger can share the same ground point.
+2. Red wire (+12V). Attach to the rear terminal screw of left coil (terminal "C" in photo).
+3. Orange wire (Trigger). Attach to the front terminal (terminal "D" in photo) of left coil.
+
+Coil Wiring
+1. Connect an 18 ga. wire between terminals "B" and "C". This is a jumper for the +12V power supply wire.
+2. From the ignition switch, run an 18 ga. wire through a 10 amp fuse and connect the wire to terminal "B" of the right coil.
+3. The coils must be grounded. In a typical installation the coils will be grounded through the hardware which secures them to the firewall. If your installation uses non-conductive materials for the firewall, or for the mounting of the coils, dedicated ground wires will be necessary between the coils and a suitable ground point.
+
+
+
+
+SPARK PLUG WIRES
+
+Assembly Instructions:
+important: The factory crimped ends of each wire will be re-used. When cutting the wires to the correct length, do not cut the crimped ends off.
+Note: Extra wires have been included with your kit. It is possible to wire your secondary ignition with a single package of spark plug wires, leaving the second set for spares.
+
+1. 	Determine the length for each spark plug wire. The front, lower plug wires attach to the right coil. The rear, lower plug wires attach to the left coil. The pre-crimped ends are kept in place for the spark plugs. Cut the wires to the correct length.
+2. 	Slide a boot (included with ACV-A01-24) over the cut end of each spark plug wire.
+3. 	Remove the black outer jacket and the white insulation core to expose a 3/8" length of the inner conductor.
+4. 	Fold the conductor over the jacket and crimp a metal connector in place. The end of the cable must come to the hole in the connector.
+5. 	Slide the boot over the connector. This is the end of the cable which attaches to the coil.
+6. Attach the spark plug wires to the coils and spark plugs.
+
+
+
+
+ELECTRONIC IGNITION TIMING
+
+Timing Basics
+The electronic (secondary) ignition is timed to match the Magnatron (primary) ignition, which is fixed at 28 degrees BTDC. Accurate timing is accomplished when the two ignition systems are firing as one, which is indicated by little or no difference in engine RPM when switching between ignition systems.
+The trigger cap (A) of the secondary ignition system rotates to make timing adjustments. It is locked in position by a socket head cap screw (D). When the magnet in the trigger cap passes by the sensor in the triggers (C), it fires the spark plugs. The location of the magnet in the trigger cap is marked with a line (B).
+
+
+Timing the Secondary Ignition
+Important: The secondary ignition will spark when the ignition is on and the trigger magnet passes by the sensor. This can cause ignition. Avoid serious injury or death by turning off the fuel, ignition switch, and master switch and remaining clear of the propeller while timing the ignition.
+Initial timing is achieved by aligning the right edge of the magnet shoe on the flywheel (E, photo below) with the right edge of the top Magnatron (F) and then rotating the trigger cap
+(A) until the mark on the cap (B, previous column) is centered under the sensor (C) of the upper trigger. The following steps detail this process.
+
+The black / white line on the right shows how the top Magnatron and magnet shoe on the flywheel align prior to setting the secondary ignition timing. For clarity these parts are shown removed from the engine.
+
+1. Turn off the aircraft's Master switch, secondary ignition switch and fuel valve.
+2. Pull the cockpit mixture control to "Idle Cut-off".
+3. Rotate the crank until the right edge of the magnet shoe on the flywheel (E, above) is aligned with the right edge of the top Magnatron (F, above). Look down between the accessory plate and the rear flange of the engine case to check the alignment of the top Magnatron to magnet shoe on the flywheel.
+4. Loosen the socket head cap screw (D) and rotate the magnet cap (A) until the mark on the magnet cap (B) is centered under the sensor (C) of the upper trigger.
+5. Tighten the socket head cap screw.
+
+Timing Check
+Ground Check. Running the engine and performing a mag check will indicate the accuracy of the timing of the secondary ignition. A mag check at 1600 - 2000 RPM should reveal little or no change in RPM. If a change of 50 RPM or greater is noted, the magnet cap should be rotated slightly one way or the other.
+In Flight Check. Under normal cruise power (2900 to 3400 rpm):
+1.Turn off the secondary ignition and observe the cylinder head temperature.
+2.Turn on the secondary ignition and turn off the Primary ignition. Observe the cylinder head temperature.
+If the cylinder head temperature rises when operating with only the secondary ignition, the secondary ignition is advanced. Retard the secondary ignition by turning the magnet cap slightly clockwise, as viewed from the flywheel end of the engine.
+
+
+
+ALTERNATOR / REGULATOR WIRING
+
+Alternator - Regulator Wiring
+1. Attach the two wires from the alternator to the two outer terminals of the voltage regulator. It does not matter which wire attaches to which terminal.
+2. Attach an 8 or 10 gauge wire from the center terminal of the voltage regulator to the positive battery terminal.
+3. If you will be using a tachometer which senses pulses from the alternator, it must be spliced in to one of the wires from the alternator. Consult the instrument manufacturer's instructions for proper installation and set-up.
+Note: The 20 amp alternator delivers 6 pulses per revolution.
+4. If the voltage regulator is attached to a non-conductive surface a ground wire needs to be attached between the body of the regulator and an appropriate airframe ground.
+
+
+
+
+STARTER INSTALLATION / WIRING
+
+Starter Installation
+Note: Though the starter is grounded through the bolts which secure it to the accessory plate, anodizing in the threads of the accessory plate and the recommended use of Locktite can degrade this ground path. You may wish to install an 8 to 10 gauge supplemental ground wire under one of the starter attachment bolts and attach the other end to an appropriate ground on the airframe or battery.
+do not use an engine mount bolt for a grounding point as they are insulated from the engine by the rubber engine mounts and do not provide a good ground path.
+
+1. Attach the starter to the accessory plate using two (2) ACV-Z01-14 cap screws and Locktite 262.
+
+Starter Wiring
+The drawing below illustrates a typical starter wiring schematic. This can be modified to suit your needs. Note that a separate starter solenoid is not needed as the AeroVee starter has a built-in solenoid. The starter has two points for electrical connections:
+A large threaded lug (A) for the 6 gauge starter wire, and a small male spade terminal (B) for the 14 gauge solenoid wire.
+
+
+
+
+OIL BREATHER TUBE
+
+Breather Installation
+1. Form an engine breather tube from 5/8 diameter x .035" wall 6061-T6 or 5052-0 aluminum tube. The tube should curve up slightly after exiting the breather plate. This encourages oil to flow back into the case rather than get discharged. Additionally, a 1/16" diameter hole drilled at the top of the curve permits crankcase breathing in the event the exit tube freezes shut. Route the tube so it discharges out the bottom of the cowling, or into the top of the optional AeroConversions Oil Separator.
+2. Secure the tube in the breather plate with high temperature silicone gasket.
+3. Secure the tube as needed to prevent vibration.
+
+
+
+
+OIL COOLER, BOTTOM MOUNT
+
+Installing the Oil Cooler
+The optional Sonex / AeroVee Fence Baffle kit includes laser-cut parts for the oil cooler installation.
+1. 	Position the oil cooler near the back of the lower shroud with the inlet ports facing forward. Make sure the cooler does not interfere with the exhaust and mark the location of the mounting holes.
+2. 	Drill four 3/16" diameter mounting holes in the shroud to match those in the oil cooler and attach the cooler with four AN3-3A bolts, MS20365-1032 nuts, and AN960-10 washers.
+3. 	Cut an air passage in the bottom of the shroud and install an air deflector to force the air traveling under the oil sump to exit through the oil cooler.
+4. 	Attach the oil cooler shroud to the engine case with four M6x1 screws, or re-tap the holes and use 1/4-20 screws. See photo below.
+5. 	Apply teflon paste (do not use teflon tape) to the threads of each AN912-4D bushing and install one in each port of the oil cooler.
+6. 	Apply teflon paste (do not use teflon tape) to the threads of two AN816-6-6D nipples and install one in each of the bushings installed in step 5.
+7. 	Install a straight hose fitting (Jeg's p/n 799-610020) on each end of a 12" length of Pro-Flex hose. Do this twice to make two hose assemblies.
+8. 	Install the hose assemblies on the oil cooler. Do not use sealing compounds or teflon tape on these fittings.
+9. 	Apply teflon paste (do not use teflon tape) to the threads of each AN816-6D nipple and install one in each port of the oil pump.
+10. Install the free end of each hose assembly on the oil pump. Do not use sealing compounds or teflon tape on these fittings.
+Note: The cooling air inlets of the cowl must be cut open before you install the baffle seal. Refer to the "Cowl Openings" section of this manual.
+11. Fit one half of the cowl at a time and note any interference with the oil cooler shroud. Remove the cowl and trim the shroud as needed to achieve a gap of 1/4" to 3/8" between the cowling and the shroud.
+Note: Bend the front lips of the cooling shroud as needed so they seal above and below the cowl's oil cooler inlet.
+12. Install baffle seal to seal the gap between the metal shroud and cowling.
+13. Install the Oil Pressure Bypass Plate. See next column.
+
+
+
+
+OIL COOLER BYPASS PLATE
+
+The oil cooler bypass plate is required on all bottom-mounted oil cooler installations.
+1. Insert Viton O-ring into the oil cooler bypass plate.
+2. Install the oil cooler bypass plate using the ACV-Z01-19 bolt (Qty. 1), ACV-Z01-17 bolts (Qty. 2), ACV-Z01-22 elastic stop nut (Qty 2), and ACV-Z01-25 washer (Qty 2).
+3. Install a 1/8 NPT pipe plug or an optional oil pressure sender (B) (1/8 NPT) in the tapped hole of the oil bypass plate. The pipe plug can be installed with teflon paste. When installing the optional oil pressure sender do not use teflon paste or teflon tape on the threads as this will inhibit the grounding of the sender; good grounding is required for an accurate signal. You may even consider adding a dedicated ground wire to the body of the sender.
+
+
+
+
+OIL COOLER, TOP MOUNT
+
+Installing the Oil Cooler
+1. 	Insert the two orange-colored cylindrical seals from the gasket kit (provided with your AeroVee engine) in the oil cooler ports on the top, right-hand side of the engine.
+2. Carefully position the Oil Cooler Mount Plate over the seals and bolt the plate to the engine case using the hard-Supplied by/available from Sonex Aircraft: ware identified in the photo below.
+3. Insert the two short, orange-colored flanged seals from the gasket kit (provided with your AeroVee engine) in the oil ports of the Top Plate. See photo below.
+Important: The gasket kit contains both tall (thick) and short (thin) flanged oil seals. Be sure to use the short (thin) seals for this installation.
+4. Remove a 1-5/8" long portion of the front, lower flange of the oil cooler. This is necessary to eliminate interference between the oil cooler's flange and the adapter plate. See photo below for details.
+5. Carefully position the oil cooler over the seals in the mount plate and bolt the oil cooler to the plate using the hardware identified in the photo below.
+6. Install the optional oil pressure sender or a 1/8 NPT pipe plug in the port in the side of the case (F).
+important: do not overtighten the oil pressure sender or the pipe plug as this can result in a cracked case. When installing the optional oil pressure sender do not use teflon paste or teflon tape on the threads as this will inhibit the grounding of the sender; good grounding is required for an accurate signal. You may even consider adding a dedicated ground wire to the body of the sender.
+
+
+
+
+BYPASSING / REMOVING A BOTTOM-MOUNTED OIL COOLER
+
+The AeroVee has flown successfully in the Sonex airframes without an oil cooler. Depending on your flight conditions and climate, you may not need the oil cooler. You must, however, retain the cooling shroud to direct cooling air across the bottom of the engine case.
+To operate the AeroVee without the bottom-mounted oil cooler:
+1. 	Disconnect the oil cooler lines from the oil pump.
+2.  Remove the oil cooler and hoses from the cooling shroud.
+3. 	Seal the opening in the bottom of the cooler shroud with a piece of aluminum.
+important: do not plug the inlet and outlet ports of the oil pump after removing the hoses. This will result in oil starvation and engine damage. To properly eliminate the oil cooler from the system you must complete one of the options in step 4, below.
+4. 	Run a loop of -06 braided hose from the inlet port of the existing oil pump to the outlet port.
+or:
+Remove the oil pump and replace it with a Standard Oil Pump, AeroConversion part number ACV-P01-56.
+
+
+
+
+BYPASSING / REMOVING A TOP-MOUNTED OIL COOLER
+
+The AeroVee has flown successfully in the Sonex airframes without an oil cooler. Depending on your flight conditions and climate, you may not need the oil cooler.
+To operate the AeroVee without the top-mounted oil
+cooler:
+
+1. Remove the oil cooler from the adapter plate.
+2. Remove the adapter plate.
+3. Install the Oil Cooler Bypass Plate as shown on page 52.
+
+
+
+INSTALLING the EXHAUST
+
+1. Using the supplied Exhaust Attach Bolts (ACV-Z01-39), temporarily attach the exhaust manifolds to the cylinder heads without exhaust gaskets.
+Note: If your cylinder heads have exhaust studs installed they will need to be removed to fit the 2-into-1 exhaust.
+Note: The left side exhaust pipe (pilot's side) may contact the super tin and/or cylinder head baffle. The super tin and/or baffle can be reformed as needed to minimize the contact, though some contact is not a concern.
+Note: The space between the exhaust flanges can be increased or decreased by hand if it is too tight or too loose on the cylinder head. Tightening the exhaust attach bolts during final installation will pull the header together for a proper fit on the cylinder head.
+2. Slide an extension pipe onto each manifold. It may be necessary to shorten the length of the exhaust manifold if the extensions interfere with the firewall. Do not shorten the expanded portion of the extension pipes.
+3. After each exhaust manifold has been trimmed to the proper length, remove the manifolds from the cylinder heads and re-install them with new exhaust gaskets (included in the gasket kit).
+4. Attach a spring between each pair of spring clips. It may be necessary to shorten the springs for your particular installation.
+5. Attach a loop-type line support clamp (AN742 or equivalent) to the firewall approximately 3" above the spring clips on the exhaust extensions.
+6. Attach a spring between the support clamp and each exhaust extension. It may be necessary to shorten the springs for your particular installation.
+7. Trim the ends of the exhaust pipes to final length. The pipes must be long enough to ensure the exhaust gases exit the cowl, yet pipes which extend too far below the cowl will add drag and reduce your airspeed.
+
+Installing EGT Probes
+EGT probe(s) must be installed 4" from the exhaust flange of each cylinder that is being monitored. This distance is based on a path down the center of the exhaust pipe. It is also important to consider the orientation of each probe to avoid interference between the probe and cowling.
+important: do not trim the egT probe wires.
+There are a variety of EGT probe styles with different mounting methods. Follow the instructions provided with your probes for the proper mounting method.
+
+
+
+
+GEARBOX P/N 00775919
+Install Output Shaft (Blade Shaft), Bearings, Gear in Main Housing (#00775921).
+Install Lower Bearing Cone (#00769938 Cup & Cone) on Output Shaft (#00775922) make sure Bearing cone slides all the way down against shoulder at bottom of shaft. Slide Bearing Cup (part of #00769938) down over Bearing Cone.
+Install the 1 piece Bearing Spacer (#00775923) down over Output Shaft. Put Upper Bearing Cup (#00769938 Cup & Cone)over Shaft and slide down till it sits against Bearing Spacer. Slide upper Bearing Cone (#00769938 Cup & Cone) down over Output Shaft till it is against Bearing Cup.
+Slip Shaft with Bearings and Spacer into the Bottom Side of Main Housing, Push in shaft till upper Bearing cup is bottomed out in Main Housing.
+Slide Gear Spacer (#00759977) down over Shaft and against Upper Bearing Cone, Install Shims (#00758667 and #00758668) over Shaft, Quantity of Shims will vary, try to use same amount as was taken off. install Output Gear (#00758693 a 13 tooth gear) down over output Shaft. Install Slotted Hex Bearing Adjusting Nut (# 00770730) with Cotter Pin (#00770421), this type WILL NOT use a Hardened Flat Washer between Nut & Gear.
+Tighten Bearing Adjusting Nut above Gear till Bearings have 14" to 16" pounds of rolling Torque then Lock Nut, either with Bendup Tabs or Cotter Pin depending which type you have.
+Install Output Seal (#00758692) into Lower Output Cap (#00758663), Coat ID of Seal with light coat of grease. Using Shims (#00758676 and #00758677) quantity may vary according to how large space is between Cap and Main Housing. DO USE gasket sealer on shims at this time, Install Output Cap and tighten Bolts. Check Bearing Pre-Load, If correct amount of Shims used it should not have changed. Check Bearing Pre-Load Again. Output Shaft Should have NO end play inward or outward. and Bearing MUST be set at a rolling Torque.
+Install Input Shaft (PTO end), Bearings, Gear in Main Housing (#00775921).
+Install Gear Spacer (#00758657) and inner Bearing Cone onto Input Shaft. Install Shim (#00758667 & #00758668) on Shaft next to Gear Spacers (the quantity will vary, try to put same as taken off), Slide Input Gear (#00758694 a 19 tooth gear) on till it is against against Shims, Install Front Input Shaft Bearing Cone (#007585615 Cup & Cone) on front of Input Shaft making sure it is against Shims. Install Rear Input Shaft Bearing Cone (#00758650 Cup & Cone) on rear of input Shaft making sure it is against shoulder on Shaft.
+Install Rear Input Bearing Cup (#00755615 Cup & Cone) into Rear of Main Housing. lower Input Shaft ( with Gears, Spacers, Shims and Bearing Cones on it) down into Main housing from front side. Install Bearing Cup (#00755615 Cup & Cone) into Front Input Bearing Cap (#00758664), Install Input Seal (#00773640) into Front Bearing Cap, Coat ID of Seal with light coat of grease. Using Shims/Gaskets (#00758646 and #00758647) on front cover set it down over input shaft, Tighten Front cover Bolts. The Quantity will vary so DO NOT put Gasket Sealer on the at this time as they may have to be removed.
+Check Bearing Pre-Load (should be 14" to 16" pounds of rolling Torque) and Gear Back Lash between Blade Shaft Gear and Input Gear (should have .017" to .019" back Lash) If it is not correct, Move Shim from one side of input gear to other to Get Correct Back Lash, It may be required to add or remove shims from Blade Shaft output Gear to raise or lower it to get correct Back lash. Once all is correct add Gasket Sealet to front input cover gasket and reinstall it. Tighten front cover bolts and recheck Gear Back-Lash and Bearing Pre-Load settings.
+When this has been Done fill Gearbox with Oil, Before deciding Gearbox is full wait long enough for Oil to run down between Output Shaft Bearing, Then refill with Oil, install Oil Plugs and check for leaks, After running Mower 1/2 to 1 hour check Oil Level and recheck for leaks.
+
+
+
+
+GEARBOX P/N 02978513
+Installing Output Shaft (Blade Shaft), Bearings, Gear in Main Housing (Item 1) using same amount of Shims removed & adding or deleting to adjust.
+Install Upper Bearing Cup (item 14) into Main Housing (item 1) from the top, Install Lower Bearing Cup (Item 13) into Main housing from the bottom.
+Install the Lower Bearing Cone (item 13) down over Output Shaft (item 10). Insert Output Shaft with Bearing Cone on it up through Main Housing from the bottom. Put Upper Bearing Cone (item 14) over Out Put Shaft and slide down till it bottoms out in upper Bearing Cup.
+Install Shims (item 15) down over top of Output Shaft, The number of shims required will vary, try to use the same amount as were removed. Install Output Gear (item 9) over Output Shaft, Make sure it is seated against Shim. Screw Slotted Bearing Adjusting Nut (item 8) onto top of Out- put Shaft.
+Tighten Bearing Adjusting Nut above Gear till Bearings have 14" to 16" pounds of rolling Torque, Tap Shaft using a coated Hammer or a Brass Drift pin to insure Bearings are seated straight then recheck Bearing rolling Torque. Secure Bearing Adjusting Nut with Cotter Pin and bend it over.
+DO NOT Install Output Seal (item 12) or Seal Protector (item 11) now, wait till Input Shaft has been installed, When you do install it Coat ID of Seal with light coat of grease. Install Seal Protector (Item 11), this drives into lower Main Housing, This Seal Protector Should always be replaced with new one after being removed. Re-Check Bearing Pre-Load. Output Shaft Should have NO end play and Bearing MUST be set at a rolling Torque. (See Step 5.).
+Installing Input Shaft, Bearings and Gear into Main Housing (item 1) using same amount of Shims as were removed and adding or deleting to adjust. in Step 8 below the procedure is for a gear in the Back, when install where gear is in the back shaft is installed from the front of main housing.
+Holding Gear (item 21)in Gearbox Housing from top opening, Slide Input Shaft through front side of Main Housing (item 1) and through input Gear (item 21) till shaft sticks out the Back of Main Housing.Slide Shims (item 16) on Shaft till they seat against Shoulder on front side of Shaft. Slide Front Input Bearing Cone (item 2) with smaller end pointing out onto front of input shaft till it seats against Shims (item 16). Slide Front Bearing Cup (item 2) onto front of input shaft and into Main Housing till it is seated against Beaing Cone. Install Shims (item 6) into front of main housing till they are against Bearing Cup. Install Snap ring (item 5). DO NOT INSTALL ANY SEALS YET.
+Install Rear Input Bearing Cone (item 2) into Rear of Main Housing till it is against Shoulder on Shaft, Install Bearing Cup (item 2) into rear of main housing, Install Shims (item 6) in against Bearing Cup try to use the same amount of shims as were removed. Install Internal Clip (item 5) into Main Housing against Shims. DO NOT install any Seals at this time. Check Bearing Pre-Load now, it should be 14" to 16" lbs of rolling Torque, remove or add Shims (item 6) to adjust.
+Check Gear Back-Lash between Blade Shaft Gear and Input Gear (should have .017" to .019" back Lash) If it is not correct, moving shims (item 6) on Input Shaft Bearings from front to back or vise versa will change Bearing Back lash (Note moving Shims from front to back will not change Bearing Pre-Load BUT removing or adding them will), It may be required to add or remove shims from Blade Shaft output Gear to raise or lower it to get correct Back-lash. Once all is correct Coat all Seal ID with light coat of grease. Install Input Seal (3) and Rear Seal Cap (item 17) then recheck Gear and Bearing settings. Now is the time to install Output seal (item 12) and lower seal protector (item 11),.
+Install Top Cover (item 20) now using a good quality of Form-a-gasket material, or fill Gearbox with Oil (see step 12) then install Topcover, Install Vent Plug / Dip Stick (item 19) in to top Cover.
+When this has been Done fill Gearbox with Oil, Before deciding Gearbox is full wait long enough for Oil to run down between Output Shaft Bearing, Then refill with Oil, install Top Cover (using Sealer for Gasket), Oil Plugs and check for leaks, After running Mower 1/2 to 1 hour check Oil Level and recheck for leaks.
+
+
+
+
+GEARBOX P/N 02978514
+Install Center Input / Output Shaft (item 14), with Bearings, Gear and components as shown in Drawing into Main Housing (Item 9), install Input shaft before installing Output Shafts to Wings, Notice Item 12, these are Shim Washers (Compensating Rings) to keep end play out of Shaft. there may be one ore more used. DO NOT INSTALL ANY SEALS TILL GEARBOX IS COMPLETLY ASSEMBLED ! Before you install the seals check the openings for burrs or scratches that will damage or prevent the OD of the seal from sealing. Remove any Burrs and fill scratch with good gasket Sealer.
+Install Snap Ring (Item 10) in Back of Housing (Item 9), this will retain Rear bearing (item 16) DO NOT install Rear Seal (item 11) at this time. Install Front Shims (item 12), Qty use same as was removed as this amount can vary. Slide rear Bearing (item 16) into housing (item 9) this can be done from inside. Push Bearing in till it seats against the Shims & Snap Ring (items 10 & 12).
+Holding Input Gear (item 17) into Gearbox Housing (item 9) from the top slide the Input Shaft (item 14) into the Housing from the front. Slide Shaft through Gear and Rear Bearing.
+Install Front Bearing (item 13) on input Shaft from the front. Slide Bearing till it goes into Gearbox Housing and seats against Shoulder on Input Shaft. Install Shims (item 12) using quantity that will will allow end play to be removed, This is a trial & error method because you will need to install Snap Ring (item 10) to check then remove it to add or remove Shims. These are ball Bearings so they will not have Pre-Load. DO NOT install Front Seal (item 11) at this time.
+Install Output Shaft to Side Drives, The Left & Right Shafts will install the Same using the same Part Numbers. it is best to install Parts for both Side Drive Shafts at same time.
+Looking down into gearbox Housing (item 9) you can see the inner casting for the Inner Bearing (item 7), There will be adjusting Shims (item 8) that need to be installed here before Bearing is. The quantity of Shims will vary, Try the same amount as was removed here. Install the inner Bearing (item 7) into Housing.
+Side Output Shaft (item 1) has a Snap Ring Grove on it near outer Bearing (item 5)area. Slide Outer Bearing (item 5) onto Side Shaft (item 1) till it seats against Shoulder on Shaft. Install Snap Ring (item 22) on Shaft next to Bearing.
+Take the Gear for Side Drive (item 6) and slide it down into Gearbox from the Top, With the side Drive Gear in position against the Input Gear (item 17), take the Side drive Shaft (item 1) and Slide it through the Housing from the outside, rotating Shaft as you push it through to align Splines on shaft with spline in Gear. Push the Shaft in till the Bearing is into Housing and the shoulder on Shaft seats against inner Bearing.
+From the outside install Shims in against Outer Bearing, use quantity to remove end play, install Snap Ring (item 4) to retain Components of Side Out put Shaft. DO NOT install Seals at this time.
+it is now time to check Gear Back-Lash and Seating of gears Heal to Toe, The Back -Lash and Seating of gears can be changed by moving Shims (item 12) on center Shaft and (item 8) on Side Drive Shafts. this is a trial & error Method of adding & removing Shims. Do This till the Gear Back Lash is .016" to .019" and Gear seating is even Heal to Toe.
+Coat all Shafts & ID of seals with alight coat of Grease before installing Seals. Install Seals Now, if the openings for the seals have not been inspected as explained in Step 1, do so now before installing Seals.
+Install top cover using Gasket sealer, Fill Gearbox with oil. Gearbox can be filled with oil before top cover is installed if wanted. DO NOT Fill with Oil above Oil Level Plug. Always check for Oil Leaks before Running Mower and Always recheck Oil Level, Inspect Seals for Leaking, Excessive end play in Shaft after running Mower 1/2 to 1 hour.
+
+
+
+
+GEARBOX P/N 02978523
+Installing Output Shaft (Blade Shaft), Bearings, Gear in Main Housing (Item 1) using same amount of Shims removed & adding or deleting to adjust.
+Install Upper Bearing Cup (item 14) into Main Housing (item 1) from the top, Install Lower Bearing Cup (Item 13) into Main housing from the bottom.
+Install the Lower Bearing Cone (item 13) down over Output Shaft (item 10). Insert Output Shaft with Bearing Cone on it up through Main Housing from the bottom. Put Upper Bearing Cone (item 14) over Out Put Shaft and slide down till it bottoms out in upper Bearing Cup.
+Install Shims (item 15) down over top of Output Shaft, The number of shims required will vary, try to use the same amount as were removed. Install Output Gear (item 9) over Output Shaft, Make sure it is seated against Shim. Screw Slotted Bearing Adjusting Nut (item 8) onto top of Out- put Shaft.
+Tighten Bearing Adjusting Nut above Gear till Bearings have 14" to 16" pounds of rolling Torque, Tap Shaft using a coated Hammer or a Brass Drift pin to insure Bearings are seated straight then recheck Bearing rolling Torque. Secure Bearing Adjusting Nut with Cotter Pin and bend it over.
+DO NOT Install Output Seal (item 12) or Seal Protector (item 11) now, wait till Input Shaft has been installed, When you do install it Coat ID of Seal with light coat of grease. Install Seal Protector (Item 11), this drives into lower Main Housing, This Seal Protector Should always be replaced with new one after being removed. Re-Check Bearing Pre-Load. Output Shaft Should have NO end play and Bearing MUST be set at a rolling Torque. (See Step 5.).
+Installing Input Shaft, Bearings and Gear into Main Housing (item 1) using same amount of Shims as were removed and adding or deleting to adjust. in Step 8 below the procedure is for a gear in the front, when install where gear is in the back shaft is installed from the front of main housing.
+Holding Gear (item 21)in Gearbox Housing from top opening, Slide Input Shaft through Front side of Main Housing (item 1) and through input Gear (item 21) till shaft sticks out the Back of Main Housing. Slide rear Input Bearing Cone (item 2) with smaller end pointing out onto rear of input shaft till it seats against Gear (item 21) . Slide rear Bearing Cup (item 2) onto rear of input shaft and into Main Housing till it is seated against Beaing Cone. Install Shims (item 6) into front of main housing till they are against Bearing Cup. Install Snap ring (item 5). DO NOT INSTALL ANY SEALS YET.
+Install Shims (item 16) onto front of Input Shaft and install front Input Bearing Cone (item 2) into front of Main Housing till it is against Shoulder / Shims on Shaft, Install Bearing Cup (item 2) into front of main housing, Install Shims (item 6) in against Bearing Cup try to use the same amount of shims as were removed. Install Internal Clip (item 5) into Main Housing against Shims. DO NOT install any Seals at this time. Check Bearing Pre-Load now, it should be 14" to 16" lbs of rolling Torque, remove or add Shims (item 6) to adjust.
+Check Gear Back-Lash between Blade Shaft Gear and Input Gear (should have .017" to .019" back Lash) If it is not correct, moving shims (item 6) on Input Shaft Bearings from front to back or vise versa will change Bearing Back lash (Note moving Shims from front to back will not change Bearing Pre-Load BUT removing or adding them will), It may be required to add or remove shims from Blade Shaft output Gear to raise or lower it to get correct Back-lash. Once all is correct Coat all Seal ID with light coat of grease. Install Input Seal (3) and Rear Seal Cap (item 17) then recheck Gear and Bearing settings. Now is the time to install Output seal (item 12) and lower seal protector (item 11),.
+Install Top Cover (item 20) now using a good quality of Form-a-gasket material, or fill Gearbox with Oil (see step 12) then install Topcover, Install Vent Plug / Dip Stick (item 19) in to top Cover.
+When this has been Done fill Gearbox with Oil, Before deciding Gearbox is full wait long enough for Oil to run down between Output Shaft Bearing, Then refill with Oil, install Top Cover (using Sealer for Gasket), Oil Plugs and check for leaks, After running Mower 1/2 to 1 hour check Oil Level and recheck for leaks.
+
+
+
+
+GEARBOX P/N 02978533
+Installing Output Shaft (Blade Shaft), Bearings, Gear in Main Housing (Item 1) using same amount of Shims removed & adding or deleting to adjust.
+Install Upper Bearing Cup (item 14) into Main Housing (item 1) from the top, Install Lower Bearing Cup (Item 13) into Main housing from the bottom.
+Install the Lower Bearing Cone (item 13) down over Output Shaft (item 10). Insert Output Shaft with Bearing Cone on it up through Main Housing from the bottom. Put Upper Bearing Cone (item 14) over Out Put Shaft and slide down till it bottoms out in upper Bearing Cup.
+Install Shims (item 15) down over top of Output Shaft, The number of shims required will vary, try to use the same amount as were removed. Install Output Gear (item 9) over Output Shaft, Make sure it is seated against Shim. Screw Slotted Bearing Adjusting Nut (item 8) onto top of Out- put Shaft.
+Tighten Bearing Adjusting Nut above Gear till Bearings have 14" to 16" pounds of rolling Torque, Tap Shaft using a coated Hammer or a Brass Drift pin to insure Bearings are seated straight then recheck Bearing rolling Torque. Secure Bearing Adjusting Nut with Cotter Pin and bend it over.
+DO NOT Install Output Seal (item 12) or Seal Protector (item 11) now, wait till Input Shaft has been installed, When you do install it Coat ID of Seal with light coat of grease. Install Seal Protector (Item 11), this drives into lower Main Housing, This Seal Protector Should always be replaced with new one after being removed. Re-Check Bearing Pre-Load. Output Shaft Should have NO end play and Bearing MUST be set at a rolling Torque. (See Step 5.).
+Installing Input Shaft, Bearings and Gear into Main Housing (item 1) using same amount of Shims as were removed and adding or deleting to adjust. in Step 8 below the procedure is for a gear in the front, when install where gear is in the back shaft is installed from the front of main housing.
+Holding Gear (item 21)in Gearbox Housing from top opening, Slide Input Shaft through back side of Main Housing (item 1) and through input Gear (item 21) till shaft sticks out the front of Main Housing.Slide Shims (item 16) on Shaft till they seat against Gear. Slide Front Input Bearing Cone (item 2) with smaller end pointing out onto front of input shaft till it seats against Shims (item 16). Slide Front Bearing Cup (item 2) onto front of input shaft and into Main Housing till it is seated against Beaing Cone. Install Shims (item 6) into front of main housing till they are against Bearing Cup. Install Snap ring (item 5). DO NOT INSTALL ANY SEALS YET.
+Install Shims (item 16) onto rear of Input Shaft and install Rear Input Bearing Cone (item 2) into Rear of Main Housing till it is against Shoulder on Shaft, Install Bearing Cup (item 2) into rear of main housing, Install Shims (item 6) in against Bearing Cup try to use the same amount of shims as were removed. Install Internal Clip (item 5) into Main Housing against Shims. DO NOT install any Seals at this time. Check Bearing Pre-Load now, it should be 14" to 16" lbs of rolling Torque, remove or add Shims (item 6) to adjust.
+Check Gear Back-Lash between Blade Shaft Gear and Input Gear (should have .017" to .019" back Lash) If it is not correct, moving shims (item 6) on Input Shaft Bearings from front to back or vise versa will change Bearing Back lash (Note moving Shims from front to back will not change Bearing Pre-Load BUT removing or adding them will), It may be required to add or remove shims from Blade Shaft output Gear to raise or lower it to get correct Back-lash. Once all is correct Coat all Seal ID with light coat of grease. Install Input Seal (3) and Rear Seal Cap (item 17) then recheck Gear and Bearing settings. Now is the time to install Output seal (item 12) and lower seal protector (item 11),.
+Install Top Cover (item 20) now using a good quality of Form-a-gasket material, or fill Gearbox with Oil (see step 12) then install Topcover, Install Vent Plug / Dip Stick (item 19) in to top Cover.
+When this has been Done fill Gearbox with Oil, Before deciding Gearbox is full wait long enough for Oil to run down between Output Shaft Bearing, Then refill with Oil, install Top Cover (using Sealer for Gasket), Oil Plugs and check for leaks, After running Mower 1/2 to 1 hour check Oil Level and recheck for leaks.
+
+
+
+
+GEARBOX P/N 02978968
+Install Center Input / Output Shaft (item 14), with Bearings, Gear and components as shown in Drawing into Main Housing (Item 9), install Input shaft before installing Output Shafts to Wings, Notice Item 12, these are Shim Washers (Compensating Rings) to keep end play out of Shaft. there may be one ore more used. DO NOT INSTALL ANY SEALS TILL GEARBOX IS COMPLETLY ASSEMBLED ! Before you install the seals check the openings for burrs or scratches that will damage or prevent the OD of the seal from sealing. Remove any Burrs and fill scratch with good gasket Sealer.
+Install Snap Ring (Item 10) in Back of Housing (Item 9), this will retain Rear bearing (item 16) DO NOT install Rear Seal (item 11) at this time. Install Front Shims (item 12), Qty use same as was removed as this amount can vary. Slide rear Bearing (item 16) into housing (item 9) this can be done from inside. Push Bearing in till it seats against the Shims & Snap Ring (items 10 & 12).
+Holding Input Gear (item 17) into Gearbox Housing (item 9) from the top slide the Input Shaft (item 14) into the Housing from the front. Slide Shaft through Gear and Rear Bearing.
+Install Front Bearing (item 13) on input Shaft from the front. Slide Bearing till it goes into Gearbox Housing and seats against Shoulder on Input Shaft. Install Shims (item 12) using quantity that will will allow end play to be removed, This is a trial & error method because you will need to install Snap Ring (item 10) to check then remove it to add or remove Shims. These are ball Bearings so they will not have Pre-Load. DO NOT install Front Seal (item 11) at this time.
+Install Output Shaft to Side Drives, The Left & Right Shafts will install the Same using the same Part Numbers. it is best to install Parts for both Side Drive Shafts at same time.
+Looking down into gearbox Housing (item 9) you can see the inner casting for the Inner Bearing (item 7), There will be adjusting Shims (item 8) that need to be installed here before Bearing is. The quantity of Shims will vary, Try the same amount as was removed here. Install the inner Bearing (item 7) into Housing.
+Side Output Shaft (item 1) has a Snap Ring Grove on it near outer Bearing (item 5)area. Slide Outer Bearing (item 5) onto Side Shaft (item 1) till it seats against Shoulder on Shaft. Install Snap Ring (item 22) on Shaft next to Bearing.
+Take the Gear for Side Drive (item 6) and slide it down into Gearbox from the Top, With the side Drive Gear in position against the Input Gear (item 17), take the Side drive Shaft (item 1) and Slide it through the Housing from the outside, rotating Shaft as you push it through to align Splines on shaft with spline in Gear. Push the Shaft in till the Bearing is into Housing and the shoulder on Shaft seats against inner Bearing.
+From the outside install Shims in against Outer Bearing, use quantity to remove end play, install Snap Ring (item 4) to retain Components of Side Out put Shaft. DO NOT install Seals at this time.
+it is now time to check Gear Back-Lash and Seating of gears Heal to Toe, The Back -Lash and Seating of gears can be changed by moving Shims (item 12) on center Shaft and (item 8) on Side Drive Shafts. this is a trial & error Method of adding & removing Shims. Do This till the Gear Back Lash is .016" to .019" and Gear seating is even Heal to Toe.
+Coat all Shafts & ID of seals with alight coat of Grease before installing Seals. Install Seals Now, if the openings for the seals have not been inspected as explained in Step 1, do so now before installing Seals.
+Install top cover using Gasket sealer, Fill Gearbox with oil. Gearbox can be filled with oil before top cover is installed if wanted. DO NOT Fill with Oil above Oil Level Plug. Always check for Oil Leaks before Running Mower and Always recheck Oil Level, Inspect Seals for Leaking, Excessive end play in Shaft after running Mower 1/2 to 1 hour.
+
+
+
+
+GEARBOX P/N 02978971
+Installing Output Shaft (Blade Shaft), Bearings, Gear in Main Housing (Item 1) using same amount of Shims removed & adding or deleting to adjust.
+Install Upper Bearing Cup (item 14) into Main Housing (item 1) from the top, Install Lower Bearing Cup (Item 13) into Main housing from the bottom.
+Install the Lower Bearing Cone (item 13) down over Output Shaft (item 10). Insert Output Shaft with Bearing Cone on it up through Main Housing from the bottom. Put Upper Bearing Cone (item 14) over Out Put Shaft and slide down till it bottoms out in upper Bearing Cup.
+Install Shims (item 15) down over top of Output Shaft, The number of shims required will vary, try to use the same amount as were removed. Install Output Gear (item 9) over Output Shaft, Make sure it is seated against Shim. Screw Slotted Bearing Adjusting Nut (item 8) onto top of Out- put Shaft.
+Tighten Bearing Adjusting Nut above Gear till Bearings have 14" to 16" pounds of rolling Torque, Tap Shaft using a coated Hammer or a Brass Drift pin to insure Bearings are seated straight then recheck Bearing rolling Torque. Secure Bearing Adjusting Nut with Cotter Pin and bend it over.
+DO NOT Install Output Seal (item 12) or Seal Protector (item 11) now, wait till Input Shaft has been installed, When you do install it Coat ID of Seal with light coat of grease. Install Seal Protector (Item 11), this drives into lower Main Housing, This Seal Protector Should always be replaced with new one after being removed. Re-Check Bearing Pre-Load. Output Shaft Should have NO end play and Bearing MUST be set at a rolling Torque. (See Step 5.).
+Installing Input Shaft, Bearings and Gear into Main Housing (item 1) using same amount of Shims as were removed and adding or deleting to adjust. in Step 8 below the procedure is for a gear in the Back, when install where gear is in the back shaft is installed from the front of main housing.
+Holding Gear (item 21)in Gearbox Housing from top opening, Slide Input Shaft through front side of Main Housing (item 1) and through input Gear (item 21) till shaft sticks out the Back of Main Housing.Slide Shims (item 16) on Shaft till they seat against Shoulder on front side of Shaft. Slide Front Input Bearing Cone (item 2) with smaller end pointing out onto front of input shaft till it seats against Shims (item 16). Slide Front Bearing Cup (item 2) onto front of input shaft and into Main Housing till it is seated against Beaing Cone. Install Shims (item 6) into front of main housing till they are against Bearing Cup. Install Snap ring (item 5). DO NOT INSTALL ANY SEALS YET.
+Install Rear Input Bearing Cone (item 2) into Rear of Main Housing till it is against Shoulder on Shaft, Install Bearing Cup (item 2) into rear of main housing, Install Shims (item 6) in against Bearing Cup try to use the same amount of shims as were removed. Install Internal Clip (item 5) into Main Housing against Shims. DO NOT install any Seals at this time. Check Bearing Pre-Load now, it should be 14" to 16" lbs of rolling Torque, remove or add Shims (item 6) to adjust.
+Check Gear Back-Lash between Blade Shaft Gear and Input Gear (should have .017" to .019" back Lash) If it is not correct, moving shims (item 6) on Input Shaft Bearings from front to back or vise versa will change Bearing Back lash (Note moving Shims from front to back will not change Bearing Pre-Load BUT removing or adding them will), It may be required to add or remove shims from Blade Shaft output Gear to raise or lower it to get correct Back-lash. Once all is correct Coat all Seal ID with light coat of grease. Install Input Seal (3) and Rear Seal Cap (item 17) then recheck Gear and Bearing settings. Now is the time to install Output seal (item 12) and lower seal protector (item 11),.
+Install Top Cover (item 20) now using a good quality of Form-a-gasket material, or fill Gearbox with Oil (see step 12) then install Topcover, Install Vent Plug / Dip Stick (item 19) in to top Cover.
+When this has been Done fill Gearbox with Oil, Before deciding Gearbox is full wait long enough for Oil to run down between Output Shaft Bearing, Then refill with Oil, install Top Cover (using Sealer for Gasket), Oil Plugs and check for leaks, After running Mower 1/2 to 1 hour check Oil Level and recheck for leaks.
+
+
+
+
+GEARBOX P/N 4800
+Installing Input Shaft and Gear, Install Front Bearing (item 3) into Main Housing (item 1) Bearing will install from back side of Housing.
+Install Key (item 2) into Input Shaft, Slide input Gear (item 6) on to Shaft from front Side.
+Install Input Seal into Main Housing from the outside or Seal can be installed later if wanted, If Seal is installed coat ID of Seal with light coat of Grease and also coat area on Shaft where Seal contacts Shaft.
+Drop Input Shaft with Gear on it through Seal and Main Housing from the Back of Main Housing. Use caution not to damage Input Seal if it has been installed.
+Insert Rear Cover O-Ring (item 18) into Housing and coat it with a light coat of grease. Push Rear Cover (item 16) into Housing, Cover is held in place by Shoulder Ring (item 17) which is installed now.
+Installing Output Shaft (item 13), with Bearings and components as shown in Drawing into Main Housing (Item 1), install Input shaft before installing Output Shaft.
+Install components onto Output Shaft (item 13), First slide the Shims (item 12) at top of Output Shaft under Gear on use the same quantity as was removed, Install Top Bearing (item 3) on till it seats against Shims.
+Slide Lower Bearing Spacer (item 7) on Output Shaft, This Spacer has the OD same as the Bearings so it will be loose on Shaft. Put Lower Bearing (item 3) on Shaft til it seats against Bearing Spacer.
+Install more Shims (item 12) on output shaft, Use same Quantity as was taken off. Install the External Snap ring (item 9) onto Output Shaft.
+The Out out Shaft, Bearings, Shims, Bearing Spacer and Snap Ring should be all one assembly now. Slide this assembly up into Main Housing from the Bottom, It may be required to move Bearing spacer side to side to keep it lined up. Slide assembly in till upper Bearing bottoms out in Housing.
+Install Lower Internal Snap Ring (item 8) into lower end of Main Housing, This retains Output Shaft and components. DO NOT install lower Seal at this Time.
+Check Shaft for end Play and Gear Back-Lash, there should be no end play, If there is install more Shims (item 12) on Shaft, If Shaft is to tight use less Shims. Gear Back- Lash should be .016" to .019" if it is not then move Shims (item 12) from Top to Bottom or Bottom to Top, Where ever they are moved from they will have to go to the other end to keep End Play correct.
+Install Lower Seal ( Item 11 Dust Shield), Coat Seal ID with light coat of grease, Install Shoulder Ring (item 10).
+Fill Gearbox with oil. DO NOT Fill with Oil above Oil Level Plug. Wait a while let Gearbox sit and have time for Oil to run down into lower Bearings and recheck Oil Level. ALWAYS recheck Oil Level after running Mower 1/2 to 1 hour. Inspect Seals for leaking after filling with Oil and after running 1/2 to 1 hour.

@@ -1,3 +1,146 @@
+CRANKSHAFT ASSEMBLY
+
+Preparation:
+1. Inspect the bore of the Crank Timing Gear for burrs. If necessary, lightly polish it with fine emery cloth.
+2. Thoroughly clean all parts with Mineral Spirits.
+3. Remove the four (4) hex plugs from the crankshaft and thoroughly clean the crankshaft with Mineral Spirits. Re-install the hex plugs with Locktite #242.
+4. Test fit the prop hub. The prop hub should noT slide onto the crankshaft.
+5. Place the cleaned crankshaft in a freezer at least 12 hours prior to assembly.
+6. Heat an oven to 450o F. Place the crank timing gear and prop hub in the oven and heat for 60 minutes.
+7. 	Apply an even coat of white lithium grease to the inside surface of bearing #1 and bearing #2 from the Main Bearing Set.
+
+Assembly Instructions:
+1. Install the Aft Woodruff Key into the crankshaft. Make sure it is fully seated.
+2. Slide bearing #2 (with an even coat of white lithium grease applied to the inside surface) onto the crankshaft with the machined dot (arrow in photo) toward the crankshaft's counter-weight.
+3. Install the Timing Gear with the two machined dots (arrow in photo) facing away from bearing #2.
+4. Install the Retaining Ring in the groove in the crank.
+5. Enlarge the oil supply hole in bearing #1 by updrilling it with a #30 drill bit. Remove any burrs which may occur while drilling.
+6. Slide bearing #1 (with an even coat of white lithium grease applied to the inside surface) onto the crankshaft with the machined dot (arrow in photo) toward the retaining ring.
+7. Slide the Oil Slinger onto the crankshaft with the curved (concave) side of the slinger facing the end of the crankshaft.
+8. Install the Forward Woodruff Key into the crankshaft.
+9. Align the keyway of the Prop Hub with the forward woodruff key installed in the crankshaft and tap the prop hub into place using a mallet and block of wood.
+The prop hub must be tight against the oil slinger. Immediately install prop hub Bushing and Washer and Bolt (ACV-Z01-74). Use an impact wrench to tighten the bolt and push the prop hub against the oil slinger.
+
+
+
+
+CAM ASSEMBLY
+
+Assembly Instructions:
+Note: The Assembly Lube provided with the cam gear will be used to lubricate the valve lifters in a later operation. Do not lubricate the cam shaft bolts as instructed on the assembly lube package included with the cam shaft.
+Note: Cam shafts are supplied with varying hardware, all of which is acceptable. Use the hardware supplied with the cam to attach the cam gear. This may include either:
+Cam Bolts with integral lock washers.
+Cam bolts and wavy spring washers. Cam bolts and tab lock washers.
+Note: While not common, slight interference between the cam and the connecting rods does occasionally occur. One cause of this interference is a raised edge around the numbers stamped in the shaft of the cam. Lightly polishing these numbers will remove the raised edge and eliminate a possible source of interference.
+
+1. Align the machined dot on the face of the Cam Gear (arrow in photo)  with the slot in the Cam Shaft. Apply Red Locktite to the bolts and install the bolts and washers (if provided).
+2. Torque the bolts to 20 ft-lbs.
+3. If tabbed washers were provided with your cam shaft, bend the tabs against the bolt heads with a flat-blade screw- driver.
+
+
+
+
+CONNECTING ROD ASSEMBLY
+
+Assembly Instructions:
+Note: Both parts of each connecting rod are stamped with a unique number, identifying them as matched parts. The connecting rods must be reassembled as matched parts, with the numbers together as shown in this photograph.
+
+1. Remove the fastener from each Connecting Rod and carefully separate the two parts. Do not scratch or score the machined surface of the connecting rods.
+2. Wipe the mating surfaces of the connecting rods and bearing halves so they are free of oil and dust. Install the bearing halves by aligning the tab on each bearing half with the notch in each connecting rod and pressing the bearing halves into place.
+
+Note: The clearance between the rod bearings and rod journals must be between .002" and .0025". When assembling new parts, as provided in the AeroVee 2.1 kit, the proper clearance is often assumed. When rebuilding an engine using remanufactured parts, this clearance must be checked. Detailed instructions for checking this clearance are given in Tom Wilson's book "How to Rebuild Your Volkswagen Air Cooled Engine".
+
+3. Apply an even coat of white lithium grease to the exposed surfaces of each bearing half.
+4. The connecting rods are attached to the crankshaft, as shown in the photo below, with the stamped numbers facing up. Be sure to re-assemble the connecting rods as matched parts.
+5. ACV-p06-33 Rods only (with starred bolt and nut): Apply Moly Lube to each rod bolt and install. Torque each bolt as follows:
+first to 8 ft.-lbs.
+then to 15 ft.-lbs.
+then 24 ft.-lbs.
+Then the final torque of 38 ft.-lbs.
+
+ACV-p01-33 Rods only (with hex bolt): Apply "Red" Locktite (or, if supplied with your rods, ARP Ultra-Torque) to the threads of each rod bolt and install.
+Torque each bolt in four steps:
+first to 8 ft.-lbs.
+then to 15 ft.-lbs.
+then 24 ft.-lbs.
+Then the final torque of 30 ft.-lbs.
+
+6. 	Check each connecting rod for freedom of movement and .005" to .020" side clearance.
+
+
+
+
+CRANK CASE PREPARATION
+
+Preparation:
+1. Separate the case halves and thoroughly clean them with mineral spirits. Remove all traces of metal chips and dust from the case. Pay particular attention to removing metal chips which still cling to the edge of machined surfaces (see photo) and to casting slag on the inside of the case which may dislodge after the engine is in service.
+2. If you are painting the case, now is the best time to do so. Mask off all machined surfaces, mating surfaces, and holes before painting.
+
+Assembly Instructions:
+1. Install the head studs as shown in the photos below.
+2. Lay the case on it's side so the oil pressure relief ports in the bottom of the case are accessible.
+3. Find the oil pressure relief plungers (2), springs (1 long, 1 short), metal gaskets (2) and retaining plugs (2) in the Case Kit. Note: The remainder of the case kit may be discarded as it is not needed on the AeroVee.
+4. Insert the grooved plunger, lightly lubricated with motor oil, solid end first into the oil pressure relief port in the bottom of the case near the prop hub. Note: The plungers must move freely in the passages. If they do not, clean the plungers with fine emery cloth until they do.
+5. Insert the long spring behind the grooved plunger.
+6. Place a metal gasket on a retaining plug and screw the plug into the relief port.
+7. Insert the non-grooved plunger, lightly lubricated with motor oil, solid end first into the oil pressure relief port in the bottom of the case near the flywheel.
+8. Insert the short spring behind the non-grooved plunger.
+9. Place a metal gasket on a retaining plug and screw the plug into the relief port.
+10. Install the Main Bearing Stud Seals (Qty. 6) from the Gasket Set (ACV-P02-15). The seals slide over the 6 large studs in the right case half.
+11. Wipe clean the case journals and the back of each Cam Bearing and install the bearings in the left half of the case. The following photos show where each bearing is installed.
+12. The flanged cam bearing for the right case half must have its alignment tab filed off. File the tab off with a fine file.
+13. Wipe clean the case journals and the back of each Cam Bearing and install the bearings in the right half of the case. The following photos show where each bearing is installed.
+14. Test fit each Valve Lifter in a guide. The lifters must slide freely in the guides. If a lifter sticks, clean the guide with very fine emery cloth. After test-fitting, liberally lubricate each lifter with white lithium grease and install them in their guides.
+15. Test fit the Cam Shaft in each case half to make sure there is clearance between the lobes of the camshaft and each valve lifter. Interference between the cam shaft and a lifter must be investigated.
+16. Install four (4) Dowel Pins in the right case half. Make sure they are fully inserted.
+17. Install one (1) Dowel Pin in the left case half. Make sure it is fully inserted.
+18. Install one half of the Split Main Bearing (from Main Bearing Set, ACV-P01-57) into the middle journal of each case half, carefully aligning the recess in the bearing with the dowel pin in the journal. A light tap may be required to properly seat each bearing half.
+19. Apply an even coat of white lithium grease to all of the cam bearings and main bearings.
+
+
+
+
+CRANK CASE ASSEMBLY
+
+Assembly Instructions:
+1. 	Apply a coat of white lithium grease to the inside of Main Bearing #4 and slide it onto the end of the crank shaft assembly. Make sure the dowel pin hole is toward the end of the crankshaft.
+2. 	Carefully set the crank shaft assembly into right case half. Make sure dowel pin hole in each bearing is aligned with the dowel pins in the case half, and the crankshaft assembly is fully seated in the case half.
+3. 	Important! Temporarily mate the case halves and rotate the crankshaft. Listen and "feel" for a knock which may indicate the case is interfering with the connecting rods. If interference is detected:
+3a. Disassemble the case halves and identify the location of the interference.
+3b. Remove crank assembly.
+3c. Taking care not to get grinding dust on other parts, use a remove case material to provide at least .045" clearance. Dremel-style motor tools work well for this operation.
+3d. Reinstall the crankshaft assembly and repeat step 3 until all interference is eliminated.
+4. 	Apply a small amount of cam assembly lubricant to each valve lifter.
+5. 	Align the single dot on the gear of the cam shaft assembly with the two dots on the gear of the crankshaft assembly and rotate the cam down into the into the cam bearings in the right case half. After seating the camshaft in the bearing, make sure the dots still align as shown in photo 5a.
+6. 	impoRTAnT! Make sure the main bearings of the crankshaft are still fully seated on the dowel pins in the case half.
+7. 	Align the 8 holes in the center of the flywheel with the dowel pins on the end of the crankshaft. The hole pattern permits the flywheel to be installed in only one position.
+8. 	The flywheel is a tight fit onto the crankshaft. It must go on squarely. If it binds, remove it and lightly polish the dowel pins with fine emery cloth. Once the flywheel has been started by hand, complete the installation by tightening the gland with an impact wrench.
+9. 	Push the crankshaft towards the back (flywheel end) of the engine and, with a feeler gauge, measure the gap between the flywheel and the rear main bearing. Record this measurement in the "Shim Chart".
+10. Complete the shim chart by subtracting .006" from gap recorded in step 9. This is the total thickness of shims you will use to set the proper end play.
+11. Clean the end shims with a mild solvent to remove the preservative.
+12. Select any combination of three to five shims which most closely equals the "Shim Thickness" determined in step 10.
+13. Check your shim selection by sliding the shims, together with a feeler gauge, between the flywheel and the main bearing. You should have between .003" and .006" of end play. If necessary, adjust your shim selection to achieve the required end play of .003" to .006". Set the shims aside for later installation.
+14. Remove the gland nut and flywheel from the crank shaft. It may be necessary to use a flywheel puller.
+15. Carefully align the Cam Plug, with its closed (flat) end out, and install it in the cam plug bore at the flywheel end of the case. Note: Most cases have a smooth cam bore for a “ribbed” plug. Some cases have a groove in the cam bore for a cam plug with a raised bead.
+16. Apply Permatex Aviation Form-A-Gasket #3 or Flange Sealant to the mating surfaces of the case halves. Apply according to the product manufacturer's instructions. Apply sparingly.
+17. Note: While assembling the case halves, the lifters in the left half will want to slide out. This can be minimized by giving them each a heavy coat of white lithium grease. Assemble the two case halves by placing the left half over the right half. Gently tap the left half with a rubber mallet to seat it against the right half of the case.
+18. Place one ACV-Z01-28 washer and one ACV-Z01-75 12mm elastic stop nut on each of the six large studs. do not tighten the nuts at this time.
+19. In the order shown in the photo above, torque the 6 large nuts to 15 foot-pounds.
+20. Check for free movement of the crankshaft. If interference is detected, identify the source of the interference
+(most likely poorly seated main or cam bearings). Note: If the connecting rods are not held near their normal operating position while checking for interference, you may experience interference which does not exist on an assembled engine.
+21. In the order shown in the photo, re-torque the 6 large nuts to 25 foot-pounds. do not exceed 25 foot-pounds.
+22. Check for free movement of the crankshaft, as described in step 20.
+23. Apply Permatex Aviation Form-A-Gasket #3 to two (2) ACV-Z01-26 washers and place them over the cam shaft studs the lower left side of the engine.
+24. Install an ACV-Z01-23 stop nut on each cam shaft stud and lightly tighten.
+25. Install an ACV-Z01-26 washer and ACV-Z01-23 stop nut on the remaining (10) studs on the perimeter of the case. Lightly tighten each nut.
+26. Install and lightly tighten an ACV-Z01-16 hex head cap screw, two (2) ACV-Z01-26 washers, and an ACVZ01-23 stop nut in each of the three through-holes which serve to join to two case halves. Minimal thread engagement is normal. Nuts will be flush with ends of screws.
+27. Torque the two cam nuts (from step 24) to 10 ft.-lbs.
+28. Torque the remaining case-assembly nuts (from steps 25 and 26) to 13 ft-lbs. There is no defined order for torquing these nuts.
+29. Check for free movement of the crankshaft, as described in step 20.
+
+
+
+
 PISTON & CYLINDER ASSEMBLY
 
 Assembly Instructions:
@@ -116,145 +259,6 @@ Note: The correct number and thickness of end shims was determined in Crank Case
 2. 	Install the end shims over the flywheel end of the crank.
 3. 	Apply a light coat of High Temperature RTV Silicone Gasket Maker to the outside diameter of the oil seal and install the seal. A VW seal installation tool may be used for best results, however the seal can also be lightly tapped in place if care is used.
 4. 	Wipe off any excess sealant.
-
-
-
-
-PROP DRIVE LUG INSTALLATION
-
-Assembly Instructions
-1. 	Insert a prop drivebushing into the prophub.
-2. 	Insert the bolt througha drive bushing using asocket as a spacer.
-3. 	Use the bolt, washer, nut and socket to pullthe drive bushing intothe hub.
-4. 	Repeat for other 5 driveBushings.
-
-
-
-
-VALVE ADJUSTMENT
-
-Assembly Instructions:
-1. Rotate the prop hub until the # 1 cylinder is at top dead center and both the intake and the exhaust valves are closed (valve springs fully extended). The TDC mark on the prop hub should also be lined up with the split-lineof the engine case.
-2. Insert a .006" feeler gauge between the adjusting screw and the valve.
-3. Adjust the screw until the 0.006" feeler gauge moves smoothly between the valve and the swivel foot.
-4. Lock the adjustment screw in place by torquing the locking nut to 14 foot pounds.
-5. Recheck the valve setting with the .006 feeler gauge.
-6. Repeat steps 2 through 5 for the other valve of cylinder #1.
-7. Rotate the crankshaft 180 degrees and adjust the valves of cylinder #4, following steps 2 through 6.
-8. Rotate the crankshaft 180 degrees and adjust the valves of cylinder #3, following steps 2 through 6.
-9. Rotate the crankshaft 180 degrees and adjust the valves of cylinder #2, following steps 2 through 6.
-10. Install the valve covers using the cork gaskets, hex head cap screws, O-rings, and washers included with thevalve covers. The cap screws are tightened by feel to secure the covers and prevent leaks.
-
-
-
-
-BLOCK-OFF PLATES and PLUGS
-
-Assembly Instructions
-1. Install fuel pump block-off plate using ACV-Z01-18 Bolts (Qty 2) and the corresponding gasket (from Gasket Set).
-2. Spread a light coat of clean engine oil on the O-rings of the oil fill plug and insert it in the case.
-3. Remove the preinstalled studs from the engine case and install Oil Breather Plate using ACV-Z01-18 Bolts (Qty 4) and the corresponding paper gasket from Gasket Set. do not install the metal louvered gasket as it will restrict the breather.
-4. Some engines require the installation of an oil temperature plate below cylinder #2. It is installed with two (2) ACV-Z01-23 nuts and the corresponding gasket (from Gasket Set).
-Note: If your engine requires the use of this plate, it can be drilled and tapped for an optional M14 x 1.5 oil temperature probe.
-5. Slide the dipstick into the dipstick tube in front of cylinder #2.
-Note: The dipstick will be calibrated and marked in a later procedure.
-6. If you will not be installing an oil pressure sender in the port in the side of the case (C), install a 1/8 NPT pipe plug.
-Important: do not overtighten the oil pressure sender or the pipe plug as this can result in a cracked case.
-Note: A small tapped hole (D) near the oil fill plug does not need to be plugged.
-
-
-
-
-FLYWHEEL INSTALLATION
-
-Assembly Instructions:
-1. Using a high-temperature silicone sealant, lightly coat the dowel pin area of the flywheel and place a small bead (1/8" diameter) in the groove near the dowel pin area of the flywheel.
-Note: The engine assembly DVD may show an O-ring being used instead. The O-ring has been discontinued.
-2. Install the flywheel on the back of the engine.
-Important: The 8 dowel pins will only align one way.
-Note: The flywheel may require some effort to get it started and seated on the drive pins. This is normal.
-3. Install wavy washer and gland nut with Locktite 272. Torque to 227 ft-lbs.
-Note: A piece of wood temporarily bolted to the prop hub provides good leverage to keep the crank from turning while the gland nut is being torqued.
-
-
-
-
-ACCESSORY PLATE INSTALLATION
-
-1. Bend P-Lead tabs on ignition modules 900
-to clear the accessory
-plate.
-2. Attach ignition modules to the accessory plate using ACVZ01-13 Cap Screws and ACV-Z01-30 hex nuts. Install bolt at the bottom of the slot. The note ‘ThiS Side oUT” stamped in each magnatron must face towards the front of the engine.
-3. Match the accessory plate to the raised groove on the back of the engine case.
-4. Attach accessory plate using the ACV-Z01-20 Bolts (Qty 3), ACVZ01-21 Bolt (Qty. 1), ACV-Z01-24 Nut, ACV-Z01-27 Washers (Qty 4). Torque to 25 ft-lbs.
-5. Rotate the flywheel until the magnet shoe on the flywheel is under the Magnatron.
-6. Slide the 0.010 shim between the ignition module and magnet shoe.
-7. Push module down against the shim and tighten the module mount bolts.
-8. Remove 0.010 Shim. 9. Repeat steps 5 through 9 for the remaining ignition module.
-Note: The Ignition Timing is fixed. There is no need to time the primary ignition system.
-
-
-
-
-TRIGGER SHAFT INSTALLATION
-
-Trigger Shaft Installation
-1. 	Rotate the crank until the magnet shoe (A) on the flywheel is at the top of the engine. This will also put the witness hole in the flywheel assembly (B) near the 12 o'clock position, as shown in the photo below.
-2. Line up the witness hole in the trigger shaft (C) with the witness hole in the flywheel. Apply Locktite 242 to each of the four (4) ACV-Z01-81 flat head cap screws and install them loosely. They will be tightened in step 3.
-Note: If your trigger shaft does not have a witness hole, the trigger shaft may be attached in any orientation.
-3. Sequentially tighten the screws in the crossing pattern shown below. This will center the shaft on the flywheel.
-
-
-
-
-SPARK PLUG INSTALLATION
-
-Plug Installation:
-1. Gap four (4) TOP spark plugs to 0.018".
-2. Gap four (4) BOTTOM spark plugs to 0.032".
-3. Apply an anti-seize compound to the threads of each spark plug and install them in the cylinders.
-4. Torque each spark plug to 12 foot-pounds.
-
-
-
-
-INTAKE MANIFOLD INSTALLATION
-
-Assembly Instructions
-1. 	Temporarily place each of the intake elbow spacers and intake elbows on the cylinder heads and inspect for interference between the elbows and the two upper, center head studs. If necessary, trim the ends of the studs to eliminate interference.
-2. 	Apply Permatex Aviation Form-A-Gasket #3 to one side of each in take elbow spacer and position each spacer on each cylinder head, Permatex side against the cylinder head.
-3. 	Apply Permatex Aviation Form-A-Gasket #3 to each intake elbow and secure the elbows to the cylinder heads with ACV-Z01-26 Washers (Qty 4), and ACV-Z01-49 Cap Screws (Qty. 4) torqued to 10 foot pounds.
-4. Thoroughly clean the inside of the manifold before installing it.
-5. 	Secure an intake hose to each intake elbow with a hose clamp from the intake boot kit.
-6. 	Push the intake manifold securely inside the hose and secure it with hose clamps from the intake boot kit.
-7. 	Secure the intake manifold to the engine with the lower, aft engine case bolt. Bend the mounting tab on the intake manifold as needed to clear the lower Magnatron.
-8. 	Attach the AeroInjector to the bottom of the manifold using the remaining hose and hose clamps from the intake boot kit. Note: For uniform delivery of the fuel mixture, the AeroInjector must be installed parallel to the airframe.
-Note: Fuel inlet goes to the back of the engine.
-9. 	Safety wire the AeroInjector to the intake manifold.
-10. Throttle, mixture, fuel line and air filter connections are described in the AeroInjector manual.
-
-
-
-
-ALTERNATOR INSTALLATION
-
-Stator Assembly
-1. Test fit the stator to the stator plate. If interference is noted between the mounting lugs of the stator and the boss on the plate, sand or file the lugs to remove the interference.
-2. 	Pass the wires of the stator through the hole in the stator plate.
-3. Prime four ACVZ01-76 screws with Locktite 7088 Primer.
-4. Attach the stator to the alternator mount plate using the four (4) primed ACV-Z01-76 screws and Locktite 242 on each screw prior.
-
-
-Installing the Stator Assembly
-1. 	"Paint" the surface of each magnet in the magnet ring and the outside of the stator with a permanent marker.
-Important: The magnets of the magnet ring are very strong and will try to pull the stator assembly out of your hands as you install it. Maintain a firm grip to avoid pinched fingers.
-2. Carefully place the stator assembly over the magnet ring with the "top" pick-up near the 1 O'clock position and the "bottom" pick-up near the 7 O'clock position. The magnet ring may force the stator assembly into an unwanted position. Rotate the flywheel until the stator plate can be properly positioned.
-3. Temporarily install 6 (six) ACV-Z01-12 cap screws to secure the stator assembly in place.
-4. Rotate the crank shaft 3 or 4 full revolutions. This is easily done by removing a spark plug and turning the crank with a socket wrench on the prop hub bolt.
-5. Remove the stator plate and inspect the magnet ring and stator for signs that the two are in contact with each other. If the marker is intact on both parts, your clearance is acceptable. Continue with Step 6. If there is evidence of contact between the parts, use a belt sander or equivalent to remove some material from the stator where the marker has been rubbed away and then repeat steps 1 through 5.
-6. Re-install the stator assembly as described in Step 2.
-7. Prime six ACV-Z01-12 screws with Locktite 7088 Primer.
-8. Secure the stator assembly to the accessory plate using six primed ACV-Z01-12 screws and Locktite 242.
 
 
 
