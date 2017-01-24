@@ -1,4 +1,4 @@
-# Information-Extraction-Assembly-Operations
+# Assembly-Named-Entity-Recognition
 
 Named entity recognition from assembly operations text manuals.
 
