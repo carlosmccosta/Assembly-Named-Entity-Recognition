@@ -5,9 +5,9 @@ scriptdir=$(dirname "$scriptpath")
 nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 
-input_file=${1:?'Must specify annotated tsv test file'}
+input_file=${1:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test-annotated.tsv"}
 
-classifier=${2:-${nerlibdir}/classifiers/english.all.3class.distsim.crf.ser.gz}
+classifier=${2:-"${scriptdir}/../ner/dataset-A1-E1-G2-train-annotated-ner-model.ser.gz"}
 
 java_max_memory=${3:-2g}
 

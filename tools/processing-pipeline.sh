@@ -3,9 +3,9 @@
 scriptpath=$(readlink -e "$0") || scriptpath=$0
 scriptdir=$(dirname "$scriptpath")
 
-train_file_tsv=${1:?'Must specify annotated tsv train file'}
-test_file_tsv=${2:?'Must specify annotated tsv test file'}
-test_file_txt=${3:?'Must specify txt test file to annotate'}
+train_file_tsv=${1:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-train-annotated.tsv"}
+test_file_tsv=${2:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test-annotated.tsv"}
+test_file_txt=${3:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test.txt"}
 train_properties_file=${4:-"${scriptdir}/../configs/crf.prop"}
 java_max_memory=${5:-2g}
 

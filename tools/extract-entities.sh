@@ -3,7 +3,7 @@
 scriptpath=$(readlink -e "$0") || scriptpath=$0
 scriptdir=$(dirname "$scriptpath")
 
-input_file=${1:?'Must specify text file'}
+input_file=${1:-"${scriptdir}/../ner/dataset-A1-E1-G2-test.ner"}
 entity_xml_tags=${2:-"PART ID QTY DIM WGT PROP OPER RPOS TOOL"}
 
 output_directory="${scriptdir}/../ner"
