@@ -1,66 +1,184 @@
-#trainFile = training-data.tsv
-#testFile = testing-data.tsv
-#serializeTo = ner-model.ser.gz
-map = word=0,answer=1
-
-wordFunction = edu.stanford.nlp.process.LowercaseAndAmericanizeFunction
-#useKnownLCWords = false
-
-#useDistSim = true
-#distSimLexicon = egw4-reut.512.clusters
-#numberEquivalenceDistSim = true
-#unknownWordDistSimClass = 0
+# -----------------------------------------------------------------
+# ---------- Recommended features given in CRF-FAQ page) ----------
 
 # This specifies the order of the CRF: order 1 means that features
 # apply at most to a class pair of previous class and current class
 # or current class and next class.
-maxLeft=1
+# We usually use just first order CRFs (maxLeft=1 and no features that refer to the
+# answer class more than one away - it's okay to refer to word features any distance away).
+# While the code supports arbitrary order CRFs, building second, third, or fourth order CRFs
+# will greatly increase memory usage and normally isn't necessary.
+# Remember: maxLeft refers to the size of the class contexts that your features use (that is,
+# it is one smaller than the clique size). A first order CRF can still look arbitrarily
+# far to the left or right to get information about the observed data context.
+maxLeft = 1
 
-
-# features
-
-saveFeatureIndexToDisk = true
-
-#useTitle = true
-useClassFeature=true
-useWord=true
-#useWordPairs=true
-useNGrams=true
-noMidNGrams=true
-maxNGramLeng=6
-usePrev=true
-useNext=true
-#useLongSequences=true
-useSequences=true
-usePrevSequences=true
-#useOccurrencePatterns=true
-#useLastRealWord=true
-#useNextRealWord=true
-#useReverse=false
-#normalize=true
-#normalizeTimex=true
-useDisjunctive=true
-#disjunctionWidth=4
-#useDisjunctiveShapeInteraction=true
-
+useClassFeature = true
+useWord = true
+useNGrams = true
+noMidNGrams = true
+maxNGramLeng = 6
+usePrev = true
+useNext = true
+useDisjunctive = true
+useSequences = true
+usePrevSequences = true
 
 # word shape features
-useTypeSeqs=true
-useTypeSeqs2=true
-useTypeySequences=true
-wordShape=chris2useLC
+useTypeSeqs = true
+useTypeSeqs2 = true
+useTypeySequences = true
+wordShape = chris2useLC
 
 
-#type=crf
 
-#readerAndWriter=edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter
 
-#useObservedSequencesOnly=true
+# ------------------------------------
+# ---------- Other features ----------
 
-#sigma = 20
-#useQN = true
-#QNsize = 25
+!wordFunction = edu.stanford.nlp.process.LowercaseAndAmericanizeFunction
 
-#featureDiffThresh=0.05
+!initWithNERPosterior = false
+!applyNERPenalty = true
 
-#printFeatures = true
+!useWordPairs = false
+
+# Use prefixes and suffixes from the previous and current word in edge clique.
+!useNeighborNGrams = false
+!useMoreNeighborNGrams = false
+
+!conjoinShapeNGrams = false
+!lowercaseNGrams = false
+!dehyphenateNGrams = false
+
+
+# If you apply the NER to the same sentence more than once, though,
+# it is possible to get different answers the second time.
+# The reason for this is the NER remembers whether it has seen a word in lowercase form before.
+# The exact way this is used as a feature is in the word shape feature, which treats words
+# such as "Brown" differently if it has or has not seen "brown" as a lowercase word before.
+# If it has, the word shape will be "Initial upper, have seen all lowercase", and if it has not,
+# the word shape will be "Initial upper, have not seen all lowercase".
+# This feature can be turned off in recent versions with the flag -useKnownLCWords false
+!useKnownLCWords = true
+
+# This makes it so that you can only label adjacent words with label sequences that
+# were seen next to each other in the training data. For some kinds of data this 
+# actually gives better accuracy, for other kinds it is worse. But unless the
+# label sequence patterns are dense, it will reduce your memory usage.
+!useObservedSequencesOnly = false
+
+!useTitle = false
+!useEntityTypes = false
+!useEntityRule = false
+!useOrdinal = false
+!useEntityTypeSequences = false
+!useLongSequences = false
+!useNextSequences = false
+!useLastRealWord = false
+!useNextRealWord = false
+!useReverse = false
+!normalize = false
+!normalizeTimex = false
+!disjunctionWidth = 4
+!useDisjunctiveShapeInteraction = false
+!useBoundarySequences = false
+!useTags = false
+!useSymTags = false
+!useTaggySequences = false
+!useOccurrencePatterns = false
+!use2W = false
+!useLC = false
+!useViterbi = true
+!nonLinearCRF = false
+!includeFullCRFInLOP = false
+!backpropLopTraining = false
+!useOutputLayer = true
+!useHiddenLayer = true
+!restrictLabels = true
+!useBagOfWords = false
+
+!useDistSim = false
+!distSimLexicon = egw4-reut.512.clusters
+!numberEquivalenceDistSim = false
+!unknownWordDistSimClass = 0
+
+
+# smooth
+!sigma = 1
+!adaptSigma = 1
+
+
+# types
+!type = "cmm"
+!classifierType = "MaxEnt"
+!inferenceType = "Viterbi"
+
+
+
+
+# ------------------------------------------
+# ---------- Other configurations ----------
+
+ner.useSUTime = false
+ner.applyNumericClassifiers = false
+
+# You can decrease the memory of the limited-memory quasi-Newton optimizer (L-BFGS).
+# The optimizer maintains a number of past guesses which are used to approximate the Hessian.
+# Having more guesses makes the estimate more accurate, and optimization is faster,
+# but the memory used by the system during optimization is linear in the number of guesses.
+# This is specified by the parameter qnSize. The default is 25. Using 10 is perfectly adequate.
+# If you're short of memory, things will still work with much smaller values, even just a value of 2.
+!useQN = true
+!QNsize = 25
+!maxIterations = -1
+
+# In training, CRFClassifier will train one model, drop all the features with weight (absolute value)
+# beneath the given threshold, and then train a second model. Training thus takes longer,
+# but the resulting model is smaller and faster at runtime, and usually has very similar performance
+# for a reasonable threshold such as 0.05.
+!featureDiffThresh = 0
+
+# To see all the features generated. CRFClassifier will then write (potentially huge) files
+# in the current directory listing the features generated for each token position.
+!printFeatures = false
+
+# The feature names aren't actually needed while the core model estimation (optimization) code is run.
+# This option saves them to a file before the optimizer runs, enabling the memory they use to be freed,
+# and then loads the feature index from disk after optimization is finished.
+saveFeatureIndexToDisk = true
+
+!readerAndWriter = edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter
+
+
+
+
+# -------------------------------------------------------------------------
+# ---------- File paths (currently passed as cmdline parameters) ----------
+
+!trainFile = training-data.tsv
+!testFile = testing-data.tsv
+
+# classifier; adding .gz at the end automatically gzips the file,
+!serializeTo = ner-model.ser.gz
+
+
+
+
+# ------------------------------------------
+# ---------- Training data layout ----------
+
+# structure of the training file; this tells the classifier that
+# the word is in column 0 and the correct answer is in column 1
+map = word=0,answer=1
+
+
+
+
+# -------------------------------------
+# ---------- Multi-threading ----------
+
+!multiThreadGibbs = 4
+!multiThreadClassifier = 4
+!multiThreadGrad = 4
+!multiThreadPerceptron = 4
