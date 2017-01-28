@@ -3,11 +3,11 @@
 scriptpath=$(readlink -e "$0") || scriptpath=$0
 scriptdir=$(dirname "$scriptpath")
 
-train_file_tsv=${1:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-train-annotated.tsv"}
-test_file_tsv=${2:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test-annotated.tsv"}
-test_file_txt=${3:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test.txt"}
-train_properties_file=${4:-"${scriptdir}/../configs/crf.prop"}
-java_max_memory=${5:-2g}
+train_properties_file=${1:-"${scriptdir}/../configs/crf.prop"}
+java_max_memory=${2:-12g}
+train_file_tsv=${3:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-train-annotated.tsv"}
+test_file_tsv=${4:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test-annotated.tsv"}
+test_file_txt=${5:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test.txt"}
 
 output_directory="${scriptdir}/../ner"
 train_file_tsv_basename=$(basename "${train_file_tsv}" | cut -d. -f1)
