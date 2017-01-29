@@ -1,0 +1,163 @@
+PART Prop Hub
+PART Bushing
+PART Washer
+PART Crankshaft
+PART Oil Slinger
+PART Bearings from Main Bearing Set
+PART Retaining Ring
+PART Forward Woodruff Key
+PART Aft Woodruff Key
+PART Crank Timing Gear
+PART Bolt
+PART Cam Gear
+PART Cam Shaft
+PART Connecting Rods
+PART Rod Bearing Set
+PART Crankshaft Assembly
+PART Engine Case
+PART Head Stud Kit
+PART Case kit
+PART Main Bearing Dowel Pins
+PART Valve Lifters
+PART Main Bearing Set
+PART Cam Bearings
+PART Gasket Set
+PART Main Bearing Set
+PART Bearing
+PART Flywheel Assembly
+PART Cam Plug
+PART Gland Nut
+PART End Shim Kit
+PART Gland Nut Washer
+PART Elastic Stop Nut
+PART Bolts
+PART Elastic Stop Nuts
+PART Washers
+PART Washers
+PART Cam Screw Gaskets
+PART Crank Case Sub-Assembly
+PART Big Bore Piston and Cylinder Kit
+PART Barrel Shims
+PART Super Tin
+PART Cylinder Head Nuts and Washers
+PART Copper Cylinder Head Gaskets
+PART Cylinder Head Assemblies
+PART Push Rod Tubes
+PART Rocker Arm Nuts
+PART Gasket Set (partial)
+PART Push Rods
+PART Pushrod Measuring Tool
+PART Cylinder Head Nuts and Washers
+PART Rocker Arm Nuts
+PART Valve Cover package
+PART Rocker Shaft Assembly
+PART Oil Change Kit
+PART 6mm Elastic Stop Nut
+PART Oil Temp Sender
+PART Machined Oil Sump Plate
+PART Maxi Oil Pump
+PART Oil Cooler Port
+PART Straight Pump
+PART End Shims
+PART Oil Seal
+PART Prop Drive Bushings
+PART Valve Covers
+PART Gasket Set
+PART Bolts
+PART Machined Breather Plate
+PART Oil Temperature Plate
+PART Fuel Pump Block-Off Plate
+PART Oil Fill Plug
+PART Dip Stick
+PART Oil Pressure Sender
+PART Flywheel Assembly
+PART Cap Screws
+PART Bolts
+PART Bolt
+PART Nut
+PART Washers
+PART Accessory Plate
+PART Ignition Modules
+PART Magnatron
+PART Cap Screws
+PART Bolts
+PART Bolt
+PART Nut
+PART Washers
+PART Hex Nuts
+PART Shim Stock
+PART Trigger Shaft Assembly
+PART Flat Head Socket Cap Screw
+PART Special
+PART Autolite 4163 Spark Plugs
+PART Permatex Aviation
+PART Flange Sealant
+PART AeroInjector
+PART Intake Manifold
+PART Intake Elbow Spacers
+PART Intake Elbow-Right Hand
+PART Intake Elbow-Left Hand
+PART Intake Hose
+PART Hose Clamp
+PART Socket Head Cap Screw
+PART Washer
+PART Alternator Mount Plate
+PART Ignition Modules
+PART Alternator Stator
+PART Cap Screw
+PART Cap Screw
+PART Patched
+PART Voltage Regulator
+PART Ignition Coils
+PART AN-grade hardware as required
+PART Motor Mount Shock Bushings
+PART Fender Washer
+PART Washer
+PART Spark Plug Boots
+PART Dual Pole
+PART Single Throw Switch
+PART Electrical Terminals
+PART Electrical Wire
+PART Spark Plug Wires
+PART Electrical Terminals
+PART Electrical Wire
+PART Starter
+PART Cap Screws
+PART Electrical Terminals Electrical Wire
+PART Aluminum Tube
+PART Permatex High Temp Red RTV Silicone Gasket
+PART Optional Sonex
+PART AeroVee Baffle Kit
+PART Oil Cooler
+PART Reducer Bushing
+PART Straight Flare Fitting
+PART Straight Flare Fitting
+PART Straight Hose Fitting
+PART Pro Flex Hose
+PART bolts
+PART Washers
+PART Lock Nuts
+PART Oil Cooler Bypass Plate
+PART Viton O-Ring
+PART Bolts
+PART Bolts
+PART Nut-Elastic Stop
+PART Washer
+PART Oil Pressure Sender
+PART NPT Pipe Plug
+PART Oil Cooler Mount Plate
+PART Rubber gaskets
+PART Gasket Kit
+PART Stop Nut
+PART Button Head Screw
+PART bolt
+PART Washers
+PART Oil Cooler
+PART Sheet
+PART Oil Pump
+PART AeroConversions
+PART Oil Cooler Bypass Plate
+PART AeroConversions
+PART Viton O-Ring
+PART Optional Sonex Aircraft Exhaust Kit
+PART Exhaust Gaskets

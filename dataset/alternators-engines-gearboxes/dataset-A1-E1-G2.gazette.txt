@@ -1,0 +1,620 @@
+DIM .010"
+DIM .035"
+DIM 0.006"
+DIM 0.018"
+DIM 0.032
+DIM 1.25"
+DIM 1/2”
+DIM 10 mm
+DIM 11/16”
+DIM 12"
+DIM 13 mm
+DIM 13mm
+DIM 19mm
+DIM 1”
+DIM 20mm
+DIM 2”
+DIM 3/8"
+DIM 30mm
+DIM 36mm
+DIM 5/16
+DIM 5/16-18
+DIM 5/16-18"
+DIM 5/32"
+DIM 5/8"
+DIM 7/32"
+DIM 8mm
+DIM 9/64"
+ID #242
+ID #4
+ID 000019
+ID 000054
+ID 000055
+ID 000327
+ID 000328
+ID 000329
+ID 000330
+ID 000331
+ID 000354
+ID 000601
+ID 000944
+ID 001708
+ID 001710
+ID 001716
+ID 001717
+ID 001718
+ID 001719
+ID 001720
+ID 001722
+ID 001724
+ID 001725
+ID 002516
+ID 00606000
+ID 00695100
+ID 00750952
+ID 00753222
+ID 00753753
+ID 00754459
+ID 00754752
+ID 00754757
+ID 00754761
+ID 00755615
+ID 00755633
+ID 00755954
+ID 00756077
+ID 00758646
+ID 00758647
+ID 00758657
+ID 00758659
+ID 00758663
+ID 00758664
+ID 00758667
+ID 00758668
+ID 00758672
+ID 00758674
+ID 00758676
+ID 00758677
+ID 00758689
+ID 00758692
+ID 00758693
+ID 00758694
+ID 00759977
+ID 00762114
+ID 00769321
+ID 00769800
+ID 00769938
+ID 00770421
+ID 00770730
+ID 00770737
+ID 00773640
+ID 00775919
+ID 00775921
+ID 00775922
+ID 00775923
+ID 02959661
+ID 02978513
+ID 02978514
+ID 02978523
+ID 02978533
+ID 02978727
+ID 02978728
+ID 02978729
+ID 02978730
+ID 02978731
+ID 02978732
+ID 02978733
+ID 02978734
+ID 02978735
+ID 02978736
+ID 02978737
+ID 02978738
+ID 02978739
+ID 02978740
+ID 02978741
+ID 02978742
+ID 02978743
+ID 02978744
+ID 02978746
+ID 02978747
+ID 02978748
+ID 02978749
+ID 02978750
+ID 02978751
+ID 02978752
+ID 02978753
+ID 02978754
+ID 02978755
+ID 02978756
+ID 02978757
+ID 02978758
+ID 02978759
+ID 02978760
+ID 02978761
+ID 02978762
+ID 02978763
+ID 02978764
+ID 02978765
+ID 02978766
+ID 02978767
+ID 02978768
+ID 02978769
+ID 02978770
+ID 02978771
+ID 02978772
+ID 02978773
+ID 02978968
+ID 02978969
+ID 02978970
+ID 02978971
+ID 02978972
+ID 02978973
+ID 100054
+ID 100055
+ID 100225
+ID 100228
+ID 100229
+ID 100230
+ID 100231
+ID 100232
+ID 100233
+ID 100234
+ID 100235
+ID 100237
+ID 100238
+ID 100239
+ID 100240
+ID 100241
+ID 100707
+ID 4800
+ID 4829
+ID 4832
+ID 4833
+ID 4834
+ID 4835
+ID 4836
+ID 4837
+ID 4838
+ID 4839
+ID 4840
+ID 4846
+ID 4847
+ID 4848
+ID 4849
+ID 4850
+ID 4851
+ID 4852
+ID 4853
+ID 4855
+ID 4857
+ID 5052-0
+ID 6061-T6
+ID 700495
+ID 702673
+ID 7343
+ID ACV-A01-03
+ID ACV-A01-10
+ID ACV-A01-15
+ID ACV-A01-16
+ID ACV-A01-19
+ID ACV-A01-20
+ID ACV-A01-24
+ID ACV-A01-25
+ID ACV-C07S
+ID ACV-F01-02
+ID ACV-F01-24
+ID ACV-H01-11
+ID ACV-H01-16
+ID ACV-H01-17
+ID ACV-M01-11
+ID ACV-M01-12
+ID ACV-M01-13
+ID ACV-M01-20
+ID ACV-P01-101
+ID ACV-P01-104
+ID ACV-P01-106
+ID ACV-P01-11
+ID ACV-P01-12
+ID ACV-P01-14
+ID ACV-P01-15
+ID ACV-P01-17
+ID ACV-P01-19
+ID ACV-P01-21
+ID ACV-P01-23
+ID ACV-P01-24
+ID ACV-P01-33
+ID ACV-P01-35
+ID ACV-P01-39
+ID ACV-P01-40
+ID ACV-P01-41
+ID ACV-P01-42
+ID ACV-P01-44
+ID ACV-P01-46
+ID ACV-P01-48
+ID ACV-P01-49
+ID ACV-P01-53
+ID ACV-P01-55
+ID ACV-P01-56
+ID ACV-P01-57
+ID ACV-P01-58
+ID ACV-P01-59
+ID ACV-P01-62
+ID ACV-P01-64
+ID ACV-P01-68
+ID ACV-P01-72
+ID ACV-P01-75
+ID ACV-P01-76
+ID ACV-P01-77
+ID ACV-P01-85
+ID ACV-P01-86
+ID ACV-P01-92
+ID ACV-P01-98
+ID ACV-P01-99
+ID ACV-P02-10
+ID ACV-P02-12
+ID ACV-P02-14
+ID ACV-P02-15
+ID ACV-P02-19
+ID ACV-P02-20
+ID ACV-P06-33
+ID ACV-P06-50
+ID ACV-P06-51
+ID ACV-P06-71
+ID ACV-Z01-10
+ID ACV-Z01-12
+ID ACV-Z01-13
+ID ACV-Z01-14
+ID ACV-Z01-16
+ID ACV-Z01-17
+ID ACV-Z01-18
+ID ACV-Z01-19
+ID ACV-Z01-20
+ID ACV-Z01-21
+ID ACV-Z01-22
+ID ACV-Z01-23
+ID ACV-Z01-24
+ID ACV-Z01-25
+ID ACV-Z01-26
+ID ACV-Z01-27
+ID ACV-Z01-28
+ID ACV-Z01-40
+ID ACV-Z01-49
+ID ACV-Z01-73
+ID ACV-Z01-74
+ID ACV-Z01-75
+ID ACV-Z01-76
+ID ACV-Z01-80
+ID ACV-Z01-81
+ID AN3-3
+ID AN363-428
+ID AN4-14A
+ID AN4-24A
+ID AN4-27A
+ID AN4-36A
+ID AN816-6-6D
+ID AN816-6D
+ID AN912-4D
+ID AN960-1032
+ID AN960-416
+ID MS20365-1032
+ID MS20365-428
+ID MS21042-08
+ID P/N 00775919
+ID P/N 02978513
+ID P/N 02978514
+ID P/N 02978523
+ID P/N 02978533
+ID P/N 02978968
+ID P/N 02978971
+ID P/N 130-70265
+ID P/N 4800
+ID P/N 700493
+ID P/N 702673
+ID p/n ACV-P01-56
+ID p/n SNX-P30-10
+PART 6mm Elastic Stop Nut
+PART AN-grade hardware as required
+PART Accessory Plate
+PART AeroConversions
+PART AeroInjector
+PART AeroVee Baffle Kit
+PART Aft Woodruff Key
+PART Alternator Mount Plate
+PART Alternator Stator
+PART Aluminum Tube
+PART Autolite 4163 Spark Plugs
+PART Ball
+PART Barrel Shims
+PART Bearing
+PART Bearing Adjusting Nut
+PART Bearing Assembly
+PART Bearing Cap
+PART Bearing Cone
+PART Bearing Cup
+PART Bearings from Main Bearing Set
+PART Big Bore Piston and Cylinder Kit
+PART Bolt
+PART Bolts
+PART Bridge
+PART Bridge to Regulator Stud
+PART Bushing
+PART Button Head Screw
+PART Cam Bearings
+PART Cam Gear
+PART Cam Plug
+PART Cam Screw Gaskets
+PART Cam Shaft
+PART Cap
+PART Cap Screw
+PART Cap Screws
+PART Capacitor
+PART Case kit
+PART Casing
+PART Castle nut
+PART Circlip
+PART Collar
+PART Connecting Rods
+PART Connector
+PART Copper Cylinder Head Gaskets
+PART Cotter Pin
+PART Cotter pin
+PART Cover
+PART Cover Plate
+PART Crank Case Sub-Assembly
+PART Crank Timing Gear
+PART Crankshaft
+PART Crankshaft Assembly
+PART Crown Gear
+PART Cylinder Head Assemblies
+PART Cylinder Head Nuts and Washers
+PART Diode Trio
+PART Dip Stick
+PART Drain
+PART Drain Plug
+PART Drive End
+PART Dual Pole
+PART Dust Shield
+PART Elastic Stop Nut
+PART Elastic Stop Nuts
+PART Electrical Terminals
+PART Electrical Terminals Electrical Wire
+PART Electrical Wire
+PART End Shim Kit
+PART End Shims
+PART Engine Case
+PART Exhaust Gaskets
+PART External Clip
+PART Fan
+PART Fender Washer
+PART Field Coil
+PART Field Coil Attch.
+PART Field Coil Leads
+PART Flange Sealant
+PART Flanged Nut
+PART Flat
+PART Flat Head Socket Cap Screw
+PART Flat washer
+PART Flywheel Assembly
+PART Forward Woodruff Key
+PART Frame
+PART Fuel Pump Block-Off Plate
+PART GEARBOX
+PART Gasket
+PART Gasket Kit
+PART Gasket Set
+PART Gasket Set (partial)
+PART Gear
+PART Gear Housing
+PART Gearbox
+PART Gland Nut
+PART Gland Nut Washer
+PART Grommet
+PART Ground
+PART Hardware
+PART Hardware Package
+PART Head Stud Kit
+PART Hex Flanged
+PART Hex Head
+PART Hex Nuts
+PART Hose Clamp
+PART Housing
+PART Housing Cover
+PART Ignition Coils
+PART Ignition Modules
+PART Indicator
+PART Indicator Light
+PART Indicator Light Terminal
+PART Indicator Light Terminal Package
+PART Inner Race
+PART Input Cap
+PART Input Cap Gasket
+PART Input Seal
+PART Input Shaft
+PART Input Tooth
+PART Input shaft
+PART Insulated Hex Head
+PART Insulated Hex head
+PART Insulator
+PART Intake Elbow Spacers
+PART Intake Elbow-Left Hand
+PART Intake Elbow-Right Hand
+PART Intake Hose
+PART Intake Manifold
+PART Internal Clip
+PART Key
+PART Lock
+PART Lock Nut
+PART Lock Nuts
+PART Locknut
+PART Lockwasher
+PART Long
+PART Machined Breather Plate
+PART Machined Oil Sump Plate
+PART Magnatron
+PART Main Bearing Dowel Pins
+PART Main Bearing Set
+PART Maxi Oil Pump
+PART Motor Mount Shock Bushings
+PART NPT Pipe Plug
+PART Nut
+PART Nut Slotted
+PART Nut-Elastic Stop
+PART O-Ring
+PART Oil Change Kit
+PART Oil Cooler
+PART Oil Cooler Bypass Plate
+PART Oil Cooler Mount Plate
+PART Oil Cooler Port
+PART Oil Fill Plug
+PART Oil Pressure Sender
+PART Oil Pump
+PART Oil Seal
+PART Oil Slinger
+PART Oil Temp Sender
+PART Oil Temperature Plate
+PART Oil seal
+PART Optional Sonex
+PART Optional Sonex Aircraft Exhaust Kit
+PART Outer Race
+PART Output
+PART Output Cap
+PART Output Shaft
+PART Output Spacer
+PART Output Terminal
+PART Output Terminal Package
+PART Output Tooth
+PART Package
+PART Patched
+PART Permatex Aviation
+PART Permatex High Temp Red RTV Silicone Gasket
+PART Pin Terminal
+PART Pinion
+PART Pinion Shaft
+PART Pipe Plug Fill
+PART Pipe Plug Level
+PART Plate
+PART Plug
+PART Pro Flex Hose
+PART Prop Drive Bushings
+PART Prop Hub
+PART Pulley
+PART Push Rod Tubes
+PART Push Rods
+PART Pushrod Measuring Tool
+PART Rectifier
+PART Rectifier End
+PART Rectifier Housing
+PART Reducer Bushing
+PART Regulator
+PART Relay
+PART Relay Terminal
+PART Relay Terminal Package
+PART Retainer
+PART Retainer Ring
+PART Retaining Ring
+PART Rocker Arm Nuts
+PART Rocker Shaft Assembly
+PART Rod Bearing Set
+PART Roller
+PART Rotor Assembly
+PART Rubber gaskets
+PART Screw
+PART Screw and Lockwasher Assembly
+PART Seal
+PART Seal Housing
+PART Seal Input
+PART Seal Output
+PART Seal Protector
+PART Sealing Washer
+PART Shaft
+PART Shaft Spline
+PART Sheet
+PART Shim
+PART Shim Kit
+PART Shim Stock
+PART Short
+PART Shoulder Ring
+PART Single Throw Switch
+PART Snap Ring
+PART Snap Ring Lining
+PART Snap ring
+PART Socket Head Cap Screw
+PART Spacer
+PART Spark Plug Boots
+PART Spark Plug Wires
+PART Special
+PART Splined hub
+PART Spring Washer
+PART Starter
+PART Stator Assembly
+PART Stator Leads
+PART Stop Nut
+PART Straight Flare Fitting
+PART Straight Hose Fitting
+PART Straight Pump
+PART Strap
+PART Stud
+PART Super Tin
+PART Support
+PART Terminal
+PART Thru
+PART Trigger Shaft Assembly
+PART Valve Cover package
+PART Valve Covers
+PART Valve Lifters
+PART Vent Plug
+PART Viton O-Ring
+PART Voltage Regulator
+PART Washer
+PART Washers
+PART bolt
+PART bolts
+PART disc spring
+TOOL Allen Wrench
+TOOL Anti-Seize Compound
+TOOL Aviation Form-A-Gasket
+TOOL Block of Wood
+TOOL Cam Assembly Lubricant
+TOOL Feeler Gauge
+TOOL Feeler Gauge Set
+TOOL Feeler Gauges
+TOOL Fine File
+TOOL Flange Sealant
+TOOL Flat Blade Screwdriver
+TOOL Flat blade screw driver
+TOOL Hammer or Mallet
+TOOL Heat-proof Gloves
+TOOL Hex Drive
+TOOL Hex Head Cap Screw
+TOOL Hex Wrench
+TOOL High Temperature RTV Silicone Gasket Maker
+TOOL Ignition Wrench
+TOOL Impact Wrench
+TOOL Locktite
+TOOL Locktite 242
+TOOL Locktite 262
+TOOL Locktite 7088 Primer
+TOOL Micrometer Caliper
+TOOL Moly Lube
+TOOL Needle-Nose Pliers
+TOOL Nut
+TOOL Oven
+TOOL Permatex Aviation
+TOOL Permatex High Temp Red RTV Silicone Gasket
+TOOL Plastic Mallet
+TOOL Ring Compressor
+TOOL Rubber Mallet
+TOOL SAE 30 Motor Oil
+TOOL Sealant
+TOOL Socket
+TOOL Socket Wrench
+TOOL Socket Wrench and Socket Set
+TOOL Sockets
+TOOL Spark Plug Socket Wrench
+TOOL Torque Wrench
+TOOL Torque wrench
+TOOL Utility Brush
+TOOL VW Oil Seal Installation Tool
+TOOL Vise-Grips
+TOOL Washer
+TOOL White Lithium Grease
+TOOL hex wrench
