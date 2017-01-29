@@ -28,6 +28,8 @@ usePrevSequences = true
 useTypeSeqs = true
 useTypeSeqs2 = true
 useTypeySequences = true
+
+# From WordShapeClassifier.java -> dan1 | chris1 | dan2 | dan2useLC | dan2bio | dan2bioUseLC | jenny1 | jenny1useLC | chris2 | chris2useLC | chris3 | chris3useLC | chris4 | digits | chinese | cluster1
 wordShape = chris2useLC
 
 
