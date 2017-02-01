@@ -11,7 +11,7 @@
 # Remember: maxLeft refers to the size of the class contexts that your features use (that is,
 # it is one smaller than the clique size). A first order CRF can still look arbitrarily
 # far to the left or right to get information about the observed data context.
-maxLeft = 2
+maxLeft = 1
 
 useClassFeature = false
 useWord = false
@@ -117,7 +117,7 @@ useLC = true
 !classifierType = MaxEnt
 
 # inferenceType -> Viterbi | Beam
-inferenceType = Beam
+!inferenceType = Beam
 
 
 
