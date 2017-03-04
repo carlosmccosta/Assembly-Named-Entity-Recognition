@@ -108,3 +108,9 @@ You can use [tools/processing-pipeline.sh](tools/processing-pipeline.sh) to auto
 
 
 The scripts in the [tools](tools) folder will save their output files into the [ner](ner) folder.
+
+
+## Related git repositories:
+
+* [Assembly-Named-Entity-Recognition-Article](https://github.com/carlosmccosta/Assembly-Named-Entity-Recognition-Article)
+* [Assembly-Named-Entity-Recognition-Dataset](https://github.com/carlosmccosta/Assembly-Named-Entity-Recognition-Dataset)
