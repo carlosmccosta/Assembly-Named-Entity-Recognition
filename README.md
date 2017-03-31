@@ -2,6 +2,9 @@
 
 Named entity recognition from assembly operations text manuals.
 
+This project has associated the following conference paper:
+
+[Evaluation of Stanford NER for Extraction of Assembly Information from Instruction Manuals](https://www.researchgate.net/publication/315719375_Evaluation_of_Stanford_NER_for_Extraction_of_Assembly_Information_from_Instruction_Manuals).
 
 
 ## Setup
