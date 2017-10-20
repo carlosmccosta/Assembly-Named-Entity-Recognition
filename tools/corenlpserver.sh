@@ -6,7 +6,7 @@ corelibdir="${scriptdir}/../lib/corenlp"
 javaclasspath=$(echo ${corelibdir}/* | tr " " ":")
 
 properties_file=${1:-"${scriptdir}/../configs/server.prop"}
-java_max_memory=${2:-2g}
+java_max_memory=${2:-4g}
 server_port=${3:-1337}
 
 

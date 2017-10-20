@@ -1,2 +1,2 @@
 annotators = tokenize, ssplit, pos, lemma, ner
-ner.model = /path/to/ner-model.ser.gz
+ner.model = /media/carloscosta/Docs/Dropbox/PRODEI/PLEI/Assembly-Named-Entity-Recognition/ner/dataset-A1-E1-G2-train-annotated-ner-model.ser.gz

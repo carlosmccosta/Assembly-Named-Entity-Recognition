@@ -8,7 +8,7 @@ javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 input_file=${1:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-train-annotated.tsv"}
 properties_file=${2:-"${scriptdir}/../configs/crf.prop"}
 
-java_max_memory=${3:-2g}
+java_max_memory=${3:-4g}
 
 gazette_file=${4:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2.gazette.txt"}
 
