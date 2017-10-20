@@ -97,6 +97,7 @@ if __name__ == "__main__":
     with open(args.i) as input_file:
         with open(args.o, "w") as output_file:
             text = input_file.read()
+            text = text.replace('\n', ' ').replace('  ', ' ')
 
             if len(args.e) > 0:
                 sentences = text.split(args.e)
