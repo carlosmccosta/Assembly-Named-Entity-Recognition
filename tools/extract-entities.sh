@@ -18,3 +18,5 @@ do
 	cat "${output_file_basename}.ner.entities.${entity_xml_tag}" | awk '!seen[$0]++' > "${output_file_basename}.ner.entities.${entity_xml_tag}.unique"
 	cat "${output_file_basename}.ner.entities.${entity_xml_tag}.unique" | sort > "${output_file_basename}.ner.entities.${entity_xml_tag}.unique.sorted"
 done
+
+python3 ${scriptdir}/entity-pairing/entity-pairing.py -i "${input_file}" -o "${input_file}.entity-pairs"
