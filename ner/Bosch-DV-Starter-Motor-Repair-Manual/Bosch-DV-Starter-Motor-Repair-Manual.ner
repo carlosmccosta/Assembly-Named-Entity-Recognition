@@ -1,0 +1,255 @@
+� @ BOSCH Repair Instruction 
+
+0 
+0 
+
+
+:~ 
+E 
+0 
+~ 
+L-" 0 ~ 
+" 
+
+, 
+s' Description Type DV 
+
+~ 
+The new DV <PART>starter motor</PART> incorporates planetary drive and wound <PART>field coils</PART>, it has higher power output and is lighter in weight than previous models. 
+The coaxial design of the DV <PART>starter</PART> allows it to directly replace conventional <PART>starters</PART> having the same mounting and <PART>pinion</PART> specifications. 
+The <PART>drive end housing</PART> locates the <PART>planetary gear</PART> train which comprises of an <RPOS>outer</RPOS> <PART>gear hub</PART>, 3 needle <PART>roller idler gears</PART> attached to the <PART>output shaft</PART> and the armature with the <PART>input gear</PART> which passes through the <PART>cover plate</PART> on the <PART>main gear hub</PART> to form the complete assembly. The now familiar plastic fork <TOOL>lever</TOOL> and <PART>bearing block</PART> is used in the DV <PART>starter</PART>. 
+Dismantling the <PART>starter motor</PART>: 
+<OPER>Clamp</OPER> the <PART>starter motor</PART> in the vice using using Bosch clamp KDAW 9999 or soft jaws. Do not <RPOS>over</RPOS> <PROP>tighten</PROP> as this may cause distortion to the <PART>pole housing</PART>. 
+Issued by ROBERT BOSCH (AUSTRALIA) PTY. LTD. Incorporated in Victoria 
+A.C.N. 004 315 628 SECTION : 3 <PART>Starter</PART> PAGE: R25-0 DATE 5-93 
+NEW <PART>STARTER MOTOR</PART> 
+WITH <PART>PLANETARY DRIVE</PART> AND WOUND <PART>FIELD COILS</PART> 
+
+
+
+
+1 . , . 
+
+SECTION : 3 <PART>Starter</PART> PAGE: R25-1 DATE 5-93 
+Removal of <PART>solenoid switch</PART>: 
+<OPER>Disconnect</OPER> the <PART>main braided cable</PART> from the <PROP>short</PROP> <PART>threaded terminal</PART>(13mm spanner). <OPER>Remove</OPER> the 3 <PART>mounting screws</PART> withdraw the <PART>solenoid</PART>, disengage the <PART>plunger</PART> from the fork lever and <OPER>remove</OPER> complete with the <PART>plunger</PART> and spring. Note <PART>solenoid</PART> position. 
+
+Removal of <PART>Drive end housing</PART>: 
+<OPER>Loosen</OPER> and <OPER>remove</OPER> <RPOS>through</RPOS> <PART>bolts</PART>(7mm <PART>socket</PART>). Withdraw the <PART>housing complete</PART> with the <PART>planetary gear assembly</PART>, <PART>drive assembly</PART> and fork <TOOL>lever</TOOL> from the armature <PART>gear</PART> taking care not to disengage the <PART>cover plate</PART>. 
+
+Removal of <PART>drive assembly</PART>: 
+Clamp the <PART>mounting lug</PART> of the <PART>drive end housing</PART> in the vice using soft jaws, <OPER>remove</OPER> the <PART>rubber block</PART>. Withdraw the <PART>planetary drive assembly</PART> and fork <TOOL>lever</TOOL>, ease fork <TOOL>lever</TOOL> from the <PART>drive assembly</PART>. In order to avoid damage to the <PART>planetary gears</PART> when removing the <PART>stop ring</PART> use Bosch fixture KDAL 5047 this supports the <PART>output shaft</PART> and prevents the shock being absorbed by the <PART>planetary gear</PART> hub. Using Bosch striking sleeve KDAL 5028 and a non metallic <TOOL>hammer</TOOL>, with a <PROP>sharp</PROP> <TOOL>tap drive</TOOL> <RPOS>back</RPOS> the <PART>stop ring retainer</PART>. Using a pair of <PART>circlip pliers</PART> expand the <PART>stop ring</PART> and <OPER>remove</OPER> it from the <PART>output shaft</PART>. Carefully <OPER>remove</OPER> any burrs from the <PART>output shaft</PART> before removing the <PART>drive assembly</PART>, failure to do so will damage the <PART>pinion bushing</PART>. 
+
+Removal of the armature: 
+Clamp the <PART>pole housing</PART> in a vice using soft jaws or Bosch clamping fixture KDAL 9999. <OPER>Remove</OPER> the <PART>screws</PART> and the <PART>cover cap</PART> from the <PART>commutator end cover</PART>, also <OPER>remove</OPER> the <PART>rubber ring</PART>, <PART>circlip</PART> and <PART>adjustment washers</PART>. <OPER>Slide</OPER> <PART>commutator end cover</PART> from armature <PART>shaft</PART>. Using special Bosch tool KDAL 5048, <OPER>slide</OPER> tool <RPOS>onto</RPOS> the armature <PART>shaft</PART> until it contacts the face of the <PART>commutator</PART>. Gently <OPER>push</OPER> the tool until the annular flange contacts the <PART>brushplate</PART>, the armature may now be withdrawn. The tool will <PART>support</PART> the brushes in their holders until the armature needs to be reinserted. 
+WJE-06-AL-25-1 
+
+' 
+SECTION : 3 <PART>Starter</PART> PAGE: R25-2 DATE 5-93 
+Inspection of the brush holder: 
+Ensure that the brushes move freely in their holders, that the brushes are free 
+from chips and bum marks. <OPER>Check</OPER> brush minimum length (7mm) if shorter than 
+the minimum, <OPER>replace</OPER> the brush set. 
+
+<OPER>Removal</OPER> and replacement of brushes: 
+
+Gently <OPER>bend</OPER> <RPOS>back</RPOS> the brush retaining tab until the <PART>spring</PART> and brush can be 
+removed, (if any tag is broken the whole brush holder must be replaced). 
+<OPER>Clean</OPER> the brush holders making sure they are free from carbon deposits and 
+burrs. 
+
+Cleaning components: 
+
+The following components must not be cleaned with <PART>spirit</PART> based agents, only 
+clean rags and compressed air must be used, they are Armature, <PART>field coils</PART>, 
+<PART>solenoid switch</PART> and <PART>drive assembly</PART>. 
+All other mechanical components may be cleaned using non volatile or low 
+inflammable agents in a well ventilated area, it is important that the parts are 
+thoroughly dried before assembly, take care not to breath in the vapours. 
+Please observe the safety regulations and precautions issued by the 
+manufacturer of the cleaning agent in use. 
+
+Replacement of positive brushes: 
+
+Cut old brush lead about mm away from the <PART>field coil connecting strap</PART>, tin lead 
+with 60/40 resin cored solder take new brush and <OPER>position</OPER> it on the 
+pre-tinned lead with pointed nosed pliers. <PART>Solder</PART> new brush to the lead. 
+
+Replacement of negative brushes( earth): 
+
+Cut old brush lead flush with the <PART>brush plate</PART>, pre-tin the remaining <PART>copper lead</PART> 
+on the <PART>brush plate</PART> with 60/40 resin cored solder. Using a pair of pointed nosed 
+pliers position and <PART>solder</PART> new brushes to the <PART>brush plate</PART>. 
+
+Caution: Ensure that the <PART>solder</PART> does not run up the lead by capillary 
+action which makes the lead inflexible. Please also note the direction the 
+earth brushes are soldered to the <PART>plate</PART>. 
+
+WJE-06-AL-25-2 
+.. 
+
+.. 
+
+SECTION : 3 <PART>Starter</PART> PAGE: R25-3 DATE 5-93 
+Testing the <PART>field coils</PART>: 
+Test the <PART>field coil</PART> for <PROP>short</PROP> <PART>circuits</PART> to earth using an insulation tester with a minimum AC voltage of 40volts or Bosch tester KDAW 9984, KDAW 9985. <OPER>Inspect</OPER> the <PART>coils</PART> for signs of overheating, if this condition is present they should be replaced. 
+<OPER>Removal</OPER> and replacement of <PART>field coils</PART>. 
+The new DV <PART>starter</PART> uses an interlocked joint in the <PART>pole housing</PART>, care should be exercised whenever the <PART>pole housing</PART> is clamped to fit or <OPER>remove</OPER> the <PART>field coils</PART>, it is recommended that a mandrill having a diameter of 52.8+0.2-0.1 mm. x 70mm long be placed <RPOS>inside</RPOS> the <PART>pole housing</PART> to <PART>support</PART> the pole shoes whilst the <PART>screws</PART> are removed. <OPER>Place</OPER> the <PART>pole housing</PART> in a vice or <PART>clamping support</PART> using a Posidriv No3 bit <OPER>remove</OPER> the <PART>pole screws</PART>, <OPER>pull</OPER> the <PART>fields</PART> out the brush end complete with the mandrill and pole shoes. 
+<OPER>Installing</OPER> the <PART>field coils</PART>: 
+<OPER>Insert</OPER> the pole shoes <RPOS>into</RPOS> the new <PART>field coils</PART> and <OPER>place</OPER> <RPOS>inside</RPOS> the <PART>pole housing</PART>, <OPER>install</OPER> the <PART>pole shoe screws</PART> finger <OPER>tight</OPER>, now <OPER>insert</OPER> the <PART>support mandrill</PART> to hold and <PART>support</PART> the fields. <PART>Clamp pole housing</PART> and <OPER>tighten</OPER> the <PART>screws</PART> to a torque of 20-25 Nm and <OPER>remove</OPER> the mandrill. After <OPER>installation recheck</OPER> the <PART>coils</PART> for earths using an insulation tester. A reading of 1 megohm or greater should be expected. 
+Testing the armature: 
+The armature should be clean before testing. <OPER>Check</OPER> for <PROP>short</PROP> <PART>circuits</PART> using an armature growler or similar tester. Test the <PROP>insulation</PROP> resistance to earth using a megger or similar tester. A reading 1 megohm or greater should be expected. The <PART>commutator</PART> should be examined for any sign of burned or darkened segments as this is usually an indication of open circuited <PART>windings</PART>. 
+SECTION : 3 <PART>Starter</PART> PAGE: R25-4 DATE 5-93 
+Machining and undercutting the <PART>commutator</PART>: 
+
+If worn segments are evident on the <PART>commutator</PART> it must be machined until the 
+working surface is clean, note that the minimum size for the <PART>commutator</PART> is 
+31.2mm. When machining the armature it must not be held by the laminations. 
+The Armature must be held at the drive end and supported at the <PART>commutator 
+end bearing</PART> surface. 
+It is recommended that the <PART>commutator</PART> be turned in two stages, that is pre 
+turning and finish turning. In the pre turning stage the <PART>commutator</PART> is undercut 
+to a maximum depth of O.Bmm. Please note, it is most important to use 
+dust extraction when undercutting <PART>commutators</PART>. 
+
+After undercutting the <PART>commutator</PART> <OPER>place</OPER> the armature in the lathe and finish 
+cut using a fine tool. The cut should be no more than 0.03mm. After turning, 
+brush out the <PART>commutator slots</PART> using a stiff brush and <OPER>polish</OPER> surface if 
+necessary. 
+Runout should be less than 0.1 mm for the <PART>commutator</PART> and 0.5mm for the 
+laminations. 
+
+Preparation of sintered bushes: 
+The <PART>bushings</PART> used in <PART>starter motors</PART> are made from porous sintered metal and 
+as such they will hold <PART>oil</PART> to provide lubrication. It is important that the bushes 
+are pre lubricated prior to fitting. This can be achieved by soaking the bushes 
+over night in <PART>mineral oil</PART>. If time does not permit over night soaking <PART>oil</PART> can be 
+forced <RPOS>into</RPOS> the bush by <OPER>placing</OPER> a thumb <RPOS>over</RPOS> one end of the bush and <OPER>filling</OPER> it 
+with <PART>oil</PART>. Using the other thumb press firmly until the <PART>oil</PART> is visiable on the <RPOS>outer</RPOS> 
+surfaces of the bush. 
+
+<PART>Drive end housing</PART>: 
+
+
+<OPER>Inspect</OPER> the <PART>housing</PART> for wear or cracking, examine mounting surfaces and 
+threaded holes for damage, if <PART>housing</PART> is serviceable using a suitable drift 
+press out old bush and fit a new one. 
+
+<PART>Commutator end housing</PART>: 
+
+<OPER>Inspect</OPER> the <PART>housing</PART> for damage. If serviceable press out old <PART>bushing</PART> and 
+<OPER>replace</OPER> with a new one. 
+
+WJE-06-AL-25-4 SECTION : 3 <PART>Starter</PART> PAGE: R25-5 DATE 5-93 
+Inspection of <PART>drive shaft</PART> and <PART>planetary assembly</PART>: 
+
+Carefully examine the assembly for signs of wear or cracking. If worn replace 
+the whole planetary drive. The <PART>planetary gear hub</PART> and bush may be replaced 
+separately if required. To replace the hub <OPER>remove</OPER> the <PART>circlip</PART> and thrust <PART>washer</PART> 
+and withdraw the <PART>planetary shaft</PART>. To <OPER>reassemble</OPER> reverse the procedure. 
+Note: The <PART>planetary gears</PART> are pre lubricated, a <QTY>small amount</QTY> of <PART>light oil</PART> may 
+be used to <OPER>lubricate</OPER> the armature <PART>spigot bushing</PART> prior to <OPER>reassembly</OPER>. 
+The helix for the <PART>drive assembly</PART> must be lubricated with <PART>lithium based grease</PART> 
+only. 
+
+<PART>Drive assembly</PART>: 
+
+<OPER>Inspect</OPER> the <PART>pinion</PART> for signs of wear or chipped teeth, <OPER>rotate</OPER> the <PART>pinion</PART> by hand 
+and <OPER>check</OPER> for any signs of roughness or <OPER>slipping</OPER>, examine the <PART>pinion bush</PART> for 
+<RPOS>wear</RPOS> or scoring, if in doubt replace the <PART>drive assembly</PART>. 
+
+<PART>Solenoid</PART> testing: 
+
+<OPER>Inspect</OPER> the <PART>solenoid</PART> for damage, test the winding de resistance. 
+Hold-in Winding 1.16 ... 1.3 Ohms. 
+Pull-in Winding 0.248 ... 0.281 Ohms. 
+Test temperature +20"C 
+During hold in and <OPER>pull</OPER> in tests the <PART>solenoid</PART> is held vertically,ie <PART>plunger</PART> 
+uppermost. It is recommended that a rubber band be installed to prevent the 
+<PART>plunger</PART> from flinging out during testing. 
+
+Testing the pull-in voltage: 
+
+Using a power supply capable of supplying 30 amperes , <OPER>set</OPER> the voltage to 3.0 
+
+volts. A <PART>battery</PART> and variable resistor may also be used. 
+<OPER>Connect</OPER> the <PART>solenoid</PART> as per the <PART>wiring diagram</PART> fig 2. 
+<OPER>Connect</OPER> a 12 volt test lamp between terminal 30 and +12 volt supply and a 
+<TOOL>voltmeter</TOOL> <RPOS>between</RPOS> terminal 50 and ground. 
+Fully press in <PART>solenoid plunger</PART> until lamp lights. <OPER>Allow</OPER> the <PART>plunger</PART> to spring out 
+by approximately 8-10mm and hold in this position. Slowly increase the 
+voltage on terminal 50 until the <PART>plunger pulls</PART> in; note <TOOL>voltmeter</TOOL> reading. At the 
+same time the lamp must light fully. (main contact continuity) 
+The voltage should be between 3.0v -6.5 volts.Test duration 2 seconds. 
+
+SECTION : 3 <PART>Starter</PART> PAGE: R25-6 DATE 5-93 
+Testing the hold-in voltage: 
+<OPER>Set</OPER> the power supply to 12 volts, <OPER>connect</OPER> the positive lead to terminal 50 of the <PART>solenoid</PART> and <OPER>connect</OPER> the negative lead to the <PART>case</PART> of the <PART>solenoid</PART>. <OPER>Press</OPER> the <PART>plunger</PART> fully home, it will be held by the hold-in winding. Now <OPER>decrease</OPER> the voltage until the winding will no longer hold the plunger. Note the <TOOL>voltmeter</TOOL> reading, this is the release voltage which should be 
+between 0.2v -2.0 volts. 
+Testing the contact burn off reserve: 
+<OPER>Press</OPER> the <PART>plunger</PART> until the contacts close, this will be indicated when the lamp comes on. It must be possible to <OPER>push</OPER> the <PART>plunger</PART> another 1 mm or more <RPOS>towards</RPOS> the magnetic core. If less than 1 mm the <PART>solenoid</PART> must be replaced. 
+Testing for interwinding <PROP>short</PROP> <PART>circuits</PART>: 
+A 24 volt supply is required for this test. Apply positive supply to terminal 30 (<PART>main battery</PART> supply input) and negative to the casing. <OPER>Press</OPER> the <PART>plunger</PART> fully home. <OPER>Release</OPER> the plunger, it should return to it's rest position by the action of the return spring. If it does not the <PART>windings</PART> have interwinding <PROP>short</PROP> <PART>circuits</PART>. When the <PART>solenoid</PART> is connected in this way the <PART>windings</PART> are differentially compounded, that is, their <PART>fields</PART> are in opposition to each other. See Fig 3. 
+Mechanical data ,<PART>solenoid</PART>: 
+Bum off reserve: 0.8-1.4mm 
+Pre-stressed tension of reset spring for moving contact. 12+ 3N 
+Pre-stressed tension of contact pressure spring. 19N. 
+Pre-stressed tension of <PART>plunger spring</PART> with 9mm <PART>plunger</PART> clearance. 45+ 7N 
+
+Total spring force 113N 
+Lightly <OPER>grease</OPER> the <PART>plunger</PART> with <PART>special grease</PART>, Bosch No 5 932 240 150 or equivalent. Do not under any circumstances allow <PART>grease</PART> on the face of the plunger. If too much <PART>grease</PART> is applied it may enter the contact chamber and cause contact problems. 
+SECTION : 3 <PART>Starter</PART> 
+PAGE: R25-7 
+DATE 5-93 
+<OPER>Reassembly</OPER> of <PART>starter</PART>: 
+The basic assembly procedure is the reverse of the dismantling process, however the following points should be noted: 
+<OPER>Lubricate</OPER> lightly as per the appendix attached. 
+Ensure the <PART>drive shafts</PART> are free from burrs. 
+Always fit new bushes. (bushes must be pre-lubricated) 
+
+Assembly: 
+1 	Refit <PART>planetary gear shaft</PART> to <RPOS>outer</RPOS> <PART>gear hub</PART> and <OPER>secure</OPER> <PART>shaft</PART> with <PART>washer</PART> and <PART>circlip</PART>. <OPER>Install</OPER> <PART>drive assembly</PART> on <PART>shaft</PART>, fit <PART>stop ring</PART> and <PART>retainer ring</PART> to groove in <PART>shaft</PART>. Using Bosch tool KDAL 5484 in vice, <PART>support stop ring</PART> and <OPER>press</OPER> <PART>shaft</PART> <RPOS>downwards</RPOS> to engage <PART>ring</PART> <RPOS>into</RPOS> <PART>stop ring</PART>. Using Bosch tool KDAL 5487 <PART>calk stop ring</PART>. Test drive to ensure it moves freely on the <PART>shaft</PART>, <OPER>check</OPER> clutch action. 
+2 	Fit fork <TOOL>lever</TOOL> and pivot to drive assembly. <OPER>Install</OPER> <PART>planetary gear shaft</PART> <RPOS>into</RPOS> opening in drive end <PART>housing</PART>, <OPER>placing</OPER> the <PROP>flat</PROP> on the <PART>gear hub</PART> <RPOS>towards</RPOS> the opening for the <PART>solenoid</PART>. <OPER>Slide</OPER> the <PART>assembly</PART> <RPOS>into</RPOS> position allowing the fork <TOOL>lever pivot</TOOL> to enter the <PART>housing</PART>. <OPER>Install</OPER> the <PART>sealing rubber</PART> <RPOS>behind</RPOS> the <PART>pivot</PART> with the groove <RPOS>towards</RPOS> the <PART>housing</PART>. 
+3 	Assemble the <PART>motor</PART> unit. First fit the annature <RPOS>into</RPOS> the <PART>pole housing</PART>, if brush tool KDAL 5048 was used during the dismantling process fit <PART>commutator shaft</PART> <RPOS>into</RPOS> the tool carefully <OPER>push</OPER> the annature until the brushes engage the <PART>commutator</PART> fully. <OPER>Remove</OPER> the tool. If the tool was not used the <PART>tags</PART> on the <PART>brush plate</PART> will need to be released to allow the brushes to move upwards in the holder pennitting the annature to engage 
+the <PART>brush plate</PART>, refit the <PART>brush springs</PART> close the tags. Fit the thrust <PART>washer</PART> to annature <PART>shaft</PART>. <OPER>Install</OPER> <PART>commutator end cover</PART> until the <PART>rubber cable grommet</PART> is located in position. Refit the thrust <PART>washers</PART>, <PART>circlip</PART> and <PART>brush plate screws</PART> to cover. 
+4 Take the assembled <PART>motor</PART> unit and carefully fit the annature <PART>shaft</PART> <RPOS>into</RPOS> the planetary drive. It may be necessary to tum the <PART>pinion</PART> to engage the <PART>gears</PART>. (do not force entry) <OPER>Install</OPER> <RPOS>through</RPOS> <PART>bolts</PART> and <OPER>tighten</OPER> to correct torque setting. 
+WJE-06-AL-25-7 
+
+Cont'd SECTION : 3 <PART>Starter</PART> 
+PAGE: R25-8 DATE 5-93 
+5 Refit <PART>solenoid</PART> taking care to properly engage the fork lever. <OPER>Install</OPER> the <QTY>three</QTY> mounting <PART>screws</PART> and <OPER>connect</OPER> the cable. This completes the assembly procedure 
+Bench testing <PART>starter motor</PART>: 
+<OPER>Clamp</OPER> the <PART>starter motor</PART> securely in a <PART>starter</PART> test bench. <OPER>Connect</OPER> the positive supply to terminal 30 on the <PART>starter</PART> and negative to earth or the casing. 
+The test specifications contained herein only apply to bench testing. They cannot be used to test <PART>starters</PART> which are installed on an <PART>engine</PART>. 
+The duration of the test should be as short as possible. The <PART>battery</PART> must be in good condition and have an SG of at least 1260. The capacity of the <PART>battery</PART> must be large enough to <PART>support lock</PART> torque testing and be capable of delivering 900 amperes for the duration of the test. 
+Refer attached appendix for test data. 
+
+Lubrication guide: 
+Helix on armature <PART>shaft</PART> 5 932 240 150 0.8 grams 
+Helix of drive assy. 5 932 240 150 0.5 <PART>grams 
+Cover cap</PART> Comm end 5 700 082 005 0.5 <WGT>grams</WGT> (Shell MDL2) 
+Bushes, <PART>pinion track</PART> 5 692 260 605 0.15 ml. (<PART>Shell Tellus Oil</PART>) 
+
+Important: Keep brushes and <PART>commutator</PART> free from <PART>oil</PART>. Bosch Service tools: 
+KDAL 5028 Mounting sleeve 12mm KDAL 5047 Mounting base (planetary drive) KDAL5048 Assembly tool (<PART>brush plate</PART>) KDAL5487 Calking tool <PART>stop ring</PART> KDAL 5484 <PART>Support tool stop ring</PART> 
+,. 
+
+
+.. 
+
+SECTION: 3 PAGE: R25-9 DATE 5-93 
+
+� � 11.v 
+--
+Testing <OPER>pull</OPER> in voltage Figure 2 
+
+so 
+ao 
+
+Testing for inter winding shorts Figure 3 
+WJE-06-AL-25-9 
+Seotkln 3 Page: R25-10 Date 5-93 
+
+WJE~6-AL�25-10 
+
+

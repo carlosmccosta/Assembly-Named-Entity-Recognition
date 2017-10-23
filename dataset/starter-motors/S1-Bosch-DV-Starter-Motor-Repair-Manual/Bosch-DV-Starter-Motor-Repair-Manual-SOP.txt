@@ -1,0 +1,5 @@
+Using a hex screwdriver, unscrew the 2 long bolts that go through the starter motor.
+Later on, unscrew the 2 top screws with a Phillips screwdriver.
+Then, remove the cover cap and commutator end cover, disconnect the main braided cable from the threaded terminal and remove the cylindrical housing.
+After that, unscrew the 3 mounting screws on the lower section of the starter motor using a star screwdriver (Torx).
+Finally, remove the solenoid.

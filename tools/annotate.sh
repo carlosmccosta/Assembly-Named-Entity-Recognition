@@ -6,9 +6,9 @@ nerlibdir="${scriptdir}/../lib/corenlp-ner"
 javaclasspath="${nerlibdir}/*:${nerlibdir}/lib/*"
 
 input_file=${1:-"${scriptdir}/../dataset/alternators-engines-gearboxes/dataset-A1-E1-G2-test.txt"}
-classifier=${2:-"${scriptdir}/../ner/dataset-A1-E1-G2-train-annotated-ner-model.ser.gz"}
+classifier=${2:-"${scriptdir}/../ner/dataset-A1-E1-G2/dataset-A1-E1-G2-train-annotated-ner-model.ser.gz"}
 
-java_max_memory=${3:-2g}
+java_max_memory=${3:-4g}
 
 output_format=${4:-"inlineXML"} # slashTags | xml | inlineXML | tsv | tabbedEntities
 

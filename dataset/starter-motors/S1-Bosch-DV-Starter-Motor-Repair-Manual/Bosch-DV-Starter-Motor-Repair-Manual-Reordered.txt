@@ -1,0 +1,5 @@
+Loosen and remove through bolts (7mm socket).
+Remove the screws and the cover cap from the commutator end cover, also remove the rubber ring, circlip and adjustment washers.
+Disconnect the main braided cable from the short threaded terminal (13mm spanner).
+Withdraw the housing.
+Remove the 3 mounting screws and withdraw the solenoid.
